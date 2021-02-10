@@ -8,7 +8,7 @@ I personaggi sono definiti da Parole chiave divise in Categorie. Nei Conflitti \
 
 Di seguito lo schema da compilare per costruire lo scheletro della scheda personaggio:
 
-*   Io sono [NOME] e sono il \[RUOLO]</span> del gruppo.
+*   Io sono [NOME] e sono il \<span style="color:red">[RUOLO]</span> del gruppo.
 
 *   Mi piace \[HOBBY] e da grande voglio fare \[MESTIERE].
 

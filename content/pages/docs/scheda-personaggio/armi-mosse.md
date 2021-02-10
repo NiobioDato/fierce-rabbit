@@ -1,5 +1,5 @@
 ---
-title: Pregi e Difetti extra-Ruolo
+title: Armi e Mosse segrete
 weight: 5
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs

@@ -1,5 +1,5 @@
 ---
-title: Qual è il tema?
+title: Chi è il nemico?
 weight: 0
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

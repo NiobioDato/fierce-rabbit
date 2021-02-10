@@ -4,15 +4,15 @@ weight: 4
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---
-Si tratta dell’avversario finale, il male che trama nell’ombra e vuole mettere in pericolo, in un modo o nell’altro, la Terra.
+Il Nemico vorrà qualcosa dalla Terra, più precisamente qualcosa che non vogliamo dargli.
 
-| 1d6 | Identità                             |
+| 1d6 | Obiettivo                             |
 |-----|----------------------------------|
-| 1   | Un signore della guerra alieno                          |
-| 2   | Un’IA nemica dell’umanità                         |
-| 3   | Uno scienziato pazzo                        |
-| 4   | Un’entità interdimensionale |
-| 5   | Il re delle creature del sottosuolo                           |
-| 6   | Un’organizzazione pangalattica segreta                          |
+| 1   | Schiavizzare l’umanità                          |
+| 2   | Sottrarre le risorse energetiche                         |
+| 3   | Distruggere la Terra                        |
+| 4   | Corrompere gli umani |
+| 5   | Mutare gli umani                           |
+| 6   | Prendere il controllo della criminalità organizzata                          |
 
-Non che sia importante, ma trovare una giustificazione al fatto che abbia un esercito di mostri che diventano alti come palazzi può aiutare a contestualizzare meglio i suoi poteri.
+L’obiettivo può essere vago, purché aiuti a scegliere le minacce della settimana.

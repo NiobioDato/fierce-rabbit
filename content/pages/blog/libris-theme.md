@@ -8,7 +8,7 @@ date: '2021-09-18'
 thumb_image: images/10884793153_945b84245a_k.jpg
 image: images/10884793153_945b84245a_k.jpg
 layout: post
-thumb_image_alt: Copper Sentai
+thumb_image_alt: Copper Sentaimuseum
 ---
 
 **Vis accumsan feugiat** adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. 

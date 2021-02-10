@@ -56,7 +56,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Vestire tutine attillate non è mai stato così bello
-    subtitle: Leggi il manuale di Copper Sentai gratuitamente e gioisci.
+    subtitle: ''
     actions:
       - label: Sfoglia il manuale
         url: /docs

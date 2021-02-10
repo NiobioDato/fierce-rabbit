@@ -4,7 +4,9 @@ weight: 3
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---
-Trovategli un nome funesto, così letterale da essere insultante alla vostra intelligenza oltre a quella del Nemico. Qualcosa tipo Violentor, Brutalix, B.A.D., L’Ombra, lo Sterminatore dell’Universo. 
+Sbizzarritevi qui. L’importante è che il nome sia formato da almeno quattro parole; con nomi stringati e sensati, nel mondo di Copper Sentai, come Nemico non sei nessuno.
 
 
-Oppure fate come Akira Toriyama: entrate in cucina a occhi chiusi, fate un giro su voi stessi e scegliete come nome la prima cosa che vi si para davanti quando li riaprite.
+Qualcosa come “L’Impero Nero della Lava Mortale”, oppure “L’Arca Oscura della Scienza Maledetta”, oppure “Il Gruppo Tetradimensionale dell’Onnicrimine”. 
+
+Cosa significano? Non importa. E comunque nessuno lo sa.

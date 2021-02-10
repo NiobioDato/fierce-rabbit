@@ -4,17 +4,7 @@ weight: 0
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---
-Come le feste in maschera, avere un tema rende tutto più divertente. In Copper Sentai non si cerca neanche di sembrare profondi, perciò più il tema è assurdo e più ci si fomenta.
+Dando per scontato che il Super Robot **~**sia un tizio in un costum~ sia un colosso di metallo alto cento metri, non vi resta che trovargli un nome.Per fare presto, aggiungete un suffisso come Ultra, Mega o Hyper al prefisso generico dei vostri robot.
 
-| 1d6 | Tema                             |
-|-----|----------------------------------|
-| 1   | Samurai                          |
-| 2   | Animali                          |
-| 3   | Elementi                         |
-| 4   | Un corpo militare e/o di guardia |
-| 5   | Pirati                           |
-| 6   | Veicoli                          |
 
-Il tema può aiutare a personalizzare meglio il Nemico, il SuperCoso, il Dispositivo di trasformazione, i Robot singoli e il Super Robot per un minimo di coerenza generale. 
-
-Oppure li scegliete a caso e nessuno batterà ciglio.
+Il Super Robot dei Super Pirati Tech da Omega sarà il cacofonico Ultratron, mentre il Gruppo Wow Super Wow potrebbe livellare montagne con la spada del temibile Megamorph.

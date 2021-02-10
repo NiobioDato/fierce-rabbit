@@ -4,17 +4,15 @@ weight: 0
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---
-Come le feste in maschera, avere un tema rende tutto più divertente. In Copper Sentai non si cerca neanche di sembrare profondi, perciò più il tema è assurdo e più ci si fomenta.
+Si tratta dell’avversario finale, il male che trama nell’ombra e vuole mettere in pericolo, in un modo o nell’altro, la Terra.
 
-| 1d6 | Tema                             |
+| 1d6 | Identità                             |
 |-----|----------------------------------|
-| 1   | Samurai                          |
-| 2   | Animali                          |
-| 3   | Elementi                         |
-| 4   | Un corpo militare e/o di guardia |
-| 5   | Pirati                           |
-| 6   | Veicoli                          |
+| 1   | Un signore della guerra alieno                          |
+| 2   | Un’IA nemica dell’umanità                         |
+| 3   | Uno scienziato pazzo                        |
+| 4   | Un’entità interdimensionale |
+| 5   | Il re delle creature del sottosuolo                           |
+| 6   | Un’organizzazione pangalattica segreta                          |
 
-Il tema può aiutare a personalizzare meglio il Nemico, il SuperCoso, il Dispositivo di trasformazione, i Robot singoli e il Super Robot per un minimo di coerenza generale. 
-
-Oppure li scegliete a caso e nessuno batterà ciglio.
+Non che sia importante, ma trovare una giustificazione al fatto che abbia un esercito di mostri che diventano alti come palazzi può aiutare a contestualizzare meglio i suoi poteri.

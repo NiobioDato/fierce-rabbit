@@ -39,7 +39,7 @@ Di forza e capacità strabordanti, il Bruto è quello che risolve i problemi con
 > È possibile rendere il Cervellone il Prodigio e il Bruto il Giullare; il Prodigio è uno estremamente bravo in tutto e dall’intelligenza superiore, ma generalmente apatico e con scarse se non nulle capacità relazionali. Il Giullare è in genere fuori forma, piuttosto sciocco, ma dotato di coraggio da vendere e di un entusiasmo contagioso.
 > In questa dinamica il Prodigio protegge il Giullare dalla sua inadeguatezza pressoché in tutti i campi, ma ha bisogno del Giullare per accettare le sfide e vedere il buono in ciò che lo circonda.
 
-## Il Bello
+Il Bello
 
 Il Bello è chiamato così perché emana un’aura di bellezza che lascia storditi. Non necessariamente la sua bellezza è canonicamente fisica, ma di sicuro lo è dell’anima.  Il Bello è il cuore e la coscienza del gruppo, il collante che tiene unite le sue varie anime. È il migliore amico, spesso d’infanzia, sia del Leader sia del Bassista carismatico, motivo per cui spesso i due litigano per avere le sue attenzioni.
 

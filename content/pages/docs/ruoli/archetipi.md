@@ -26,7 +26,7 @@ Il Bassista carismatico è il complemento del Leader, spesso in contrasto e in c
 Il Cervellone è l’eroe del gruppo fisicamente meno dotato, ma che compensa grandemente con le proprie abilità tecniche e con l’intelletto. Nerd, alcune volte socialmente inadatto, sa però mostrare una dialettica pungente quando serve.
 
 **Colore**: blu, azzurro, celeste.
-Personaggi simili: Mina Murray, Donatello, Sailor Mercury, Egon Spengler.
+**Personaggi simili**: Mina Murray, Donatello, Sailor Mercury, Egon Spengler.
 
 Il Bruto
 

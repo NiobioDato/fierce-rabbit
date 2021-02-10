@@ -45,7 +45,3 @@ Il Bello è chiamato così perché emana un’aura di bellezza che lascia stordi
 **Personaggi simili**: Nightcrawler, Leia Organa, Ray Venkman, Principessa Peach.
 
 <div class="note"><strong>Nota bene:</strong> Il Bello può essere anche l’interesse amoroso, e l’ennesimo motivo di frizione, fra il Leader e il Bassista carismatico. Anche se si decide per questa variante, il Bello è un personaggio che splende di luce propria e non esiste in funzione di nessun altro. Inoltre, Copper Sentai simula scherzosamente una puntata di uno show per bambini e giovani ragazzi, quindi non è contemplata nessuna interazione fisica fra personaggi giocanti e non che vada al di là di un bacio casto.</div>
-
-> VARIANTE
-> Il Bello può essere anche l’interesse amoroso, e l’ennesimo motivo di frizione, fra il Leader e il Bassista carismatico. Anche se si decide per questa variante, il Bello è un personaggio che splende di luce propria e non esiste in funzione di nessun altro.
-> Inoltre, Copper Sentai simula scherzosamente una puntata di uno show per bambini e giovani ragazzi, quindi non è contemplata nessuna interazione fisica fra personaggi giocanti e non che vada al di là di un bacio casto.

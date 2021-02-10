@@ -6,7 +6,6 @@ layout: docs
 ---
 Trovate un suffisso sempre presente nei nomi dei robot delle tutine, da unire alla forma da voi scelta.
 
-
 | 1d6 | Suffisso                             |
 |-----|----------------------------------|
 | 1   | -bot                          |
@@ -27,6 +26,8 @@ Usando come esempio i Super Pirati Tech da Omega:
 *   Corvotron, a me!
 
 *   Lamantinotron, a me!
+
+
 
 Se invece andiamo a immaginare i robot del Gruppo Wow Super Wow:
 

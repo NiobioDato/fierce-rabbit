@@ -62,5 +62,7 @@ sections:
         url: /docs
         style: primary
 layout: advanced
-excerpt: 'La homepage di Copper Sentai, il gioco di ruolo su'
+excerpt: >-
+  La homepage di Copper Sentai, il gioco di ruolo ispirato da Super Sentai e
+  Power Rangers.
 ---

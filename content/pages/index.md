@@ -6,8 +6,9 @@ sections:
     title: Copper Sentai
     image: images/5.jpg
     content: >
-      Leggi gratuitamente Copper Sentai, un gioco di ruolo su **supergruppi**,
-      buoni sentimenti e storie che non vanno da **nessuna parte**.
+      Leggi gratuitamente Copper Sentai, un gioco di ruolo ispirato da **Power
+      Rangers** e **Super Sentai**, in cui vincono sempre i buoni sentimenti e
+      le storie non vanno mai da **nessuna parte**.
     actions:
       - label: Sfoglia il manuale
         url: /docs

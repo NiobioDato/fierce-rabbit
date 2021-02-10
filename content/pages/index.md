@@ -59,7 +59,7 @@ sections:
     subtitle: Leggi il manuale di Copper Sentai gratuitamente e gioisci.
     actions:
       - label: Get Started
-        url: /docs/getting-started/installation
+        url: /docs
         style: primary
 layout: advanced
 excerpt: ''

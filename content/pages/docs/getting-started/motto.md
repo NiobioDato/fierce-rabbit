@@ -1,5 +1,5 @@
 ---
-title: Qual è il dispositivo di trasformazione?
+title: Qual è il motto del supergruppo?
 weight: 8
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

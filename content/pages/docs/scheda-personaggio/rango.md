@@ -4,12 +4,10 @@ weight: 3
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---
-Copper Sentai utilizza come motore di gioco CopperHead, ma la spiegazione di termini tecnici e di concetti di gioco che provengono dal regolamento ufficiale non verranno riproposti in queste pagine.
+Il Rango Base \[p. 5] dei personaggi di Copper Sentai è 1.
 
-Potete trovare il manuale di CopperHead a [questo link](https://www.facebook.com/groups/EpigoniGDR) e, per rendere la lettura più agevole, nelle sezioni che seguono verranno riportate in parentesi quadre la pagine di CH a cui ci si riferisce.
+Anche dopo la trasformazione con le tutine, il Rango non cambia, ma viene aggiunta una nuova Categoria di Parole chiave \[p. 5] da cui attingere.
 
-Se saltare fra una risorsa gratuita e l’altra è stressante per voi, potete sempre copiaincollarvi tutto in un bel documento personale; la polizia dei giochini in Creative Commons non verrà a cercarvi.
+Quando il personaggio pilota il robot, il suo Rango Base sale a 2.
 
-***
-
-Qui le risorse di questa sezione:
+Il Super Robot usa regole specifiche per il calcolo del Rango e la gestione delle Sfide che vedremo nella sezione dedicatogli.

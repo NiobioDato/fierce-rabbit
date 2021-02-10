@@ -4,13 +4,11 @@ weight: 3
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---
-Il SuperCoso non ha selezionato i cinque giovani per il loro spiccato atletismo oppure per un’esperienza pregressa nella lotta a entità provenienti da dimensioni inique e maleducate, no.
+Copper Sentai utilizza come motore di gioco CopperHead, ma la spiegazione di termini tecnici e di concetti di gioco che provengono dal regolamento ufficiale non verranno riproposti in queste pagine.
 
-I ragazzi sono selezionati perché perfettamente aderenti a uno dei Cinque archetipi fondanti qualsiasi gruppo di cinque sia mai esistito e mai esisterà.
+Potete trovare il manuale di CopperHead a [questo link](https://www.facebook.com/groups/EpigoniGDR) e, per rendere la lettura più agevole, nelle sezioni che seguono verranno riportate in parentesi quadre la pagine di CH a cui ci si riferisce.
 
-Alla creazione dei personaggi, ogni giocatore sceglie uno dei ruoli presentati di seguito per creare il proprio personaggio, assicurandosi che siano tutti coperti e non vi siano quindi duplicati. 
-
-<div class="important"><strong>Importante:</strong>Tutti gli archetipi sono descritti al maschile per comodità espositiva e per mancanza di alternative formali per il neutro in lingua italiana, ma i personaggi possono avere ogni identità e ruolo di genere; pure i cattivi di Copper Sentai trovano discriminazioni di genere e identità francamente stomachevoli.</div>
+Se saltare fra una risorsa gratuita e l’altra è stressante per voi, potete sempre copiaincollarvi tutto in un bel documento personale; la polizia dei giochini in Creative Commons non verrà a cercarvi.
 
 ***
 

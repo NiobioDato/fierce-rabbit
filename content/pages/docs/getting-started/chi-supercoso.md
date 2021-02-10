@@ -1,5 +1,5 @@
 ---
-title: Cosa vuole il Nemico?
+title: Chi è il SuperCoso?
 weight: 4
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

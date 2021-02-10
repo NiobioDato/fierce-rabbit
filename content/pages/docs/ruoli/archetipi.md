@@ -44,6 +44,9 @@ Il Bello è chiamato così perché emana un’aura di bellezza che lascia stordi
 **Colore**: rosa, viola, bordeaux.
 **Personaggi simili**: Nightcrawler, Leia Organa, Ray Venkman, Principessa Peach.
 
+<div class="note"><strong>Nota bene:</strong> È possibile rendere il Cervellone "il Prodigio" e il Bruto "il Giullare"; il Prodigio è una persona brava in tutto e dall’intelligenza superiore, ma generalmente apatica e con scarse se non nulle capacità relazionali. Il Giullare è in genere fuori forma, piuttosto sciocco, ma dotato di coraggio da vendere e di un entusiasmo contagioso.
+In questa dinamica il Prodigio protegge il Giullare dalla sua inadeguatezza pressoché in tutti i campi, ma ha bisogno del Giullare per accettare le sfide e vedere il buono in ciò che lo circonda.</div>
+
 > VARIANTE
 > Il Bello può essere anche l’interesse amoroso, e l’ennesimo motivo di frizione, fra il Leader e il Bassista carismatico. Anche se si decide per questa variante, il Bello è un personaggio che splende di luce propria e non esiste in funzione di nessun altro.
 > Inoltre, Copper Sentai simula scherzosamente una puntata di uno show per bambini e giovani ragazzi, quindi non è contemplata nessuna interazione fisica fra personaggi giocanti e non che vada al di là di un bacio casto.

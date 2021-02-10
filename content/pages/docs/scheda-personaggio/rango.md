@@ -1,5 +1,5 @@
 ---
-title: Costruire la scheda del personaggio
+title: Rango dei personaggi
 weight: 3
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs

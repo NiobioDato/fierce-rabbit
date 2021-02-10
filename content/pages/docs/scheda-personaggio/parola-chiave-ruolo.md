@@ -4,10 +4,10 @@ weight: 2
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---
-Il Rango Base \[p. 5] dei personaggi di Copper Sentai è 1.
+La Parola chiave di Ruolo racchiude tutte le qualità (e difetti) di uno dei cinque archetipi del capitolo precedente.
 
-Anche dopo la trasformazione con le tutine, il Rango non cambia, ma viene aggiunta una nuova Categoria di Parole chiave \[p. 5] da cui attingere.
+Il Ruolo può essere usato dal giocatore come bonus per aumentare il Rango in un Conflitto \[p. 6], ma anche dal Narratore come malus per abbassarlo. Non contemporaneamente, ovviamente.
 
-Quando il personaggio pilota il robot, il suo Rango Base sale a 2.
+Ogni Ruolo racchiude in sé più aspetti e qualità del personaggio – tanto che potremmo considerarla una Categoria più che una Parola chiave –, risultando estremamente flessibile e facile da adattare a Conflitti molto diversi tra loro.
 
-Il Super Robot usa regole specifiche per il calcolo del Rango e la gestione delle Sfide che vedremo nella sezione dedicatogli.
+Per evitare che ogni Conflitto diventi una lunga discussione su cosa significhi coprire quello specifico Ruolo del gruppo, si possono utilizzare due metodi differenti.

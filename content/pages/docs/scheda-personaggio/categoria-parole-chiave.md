@@ -32,3 +32,4 @@ oppure:
 
 <div class="important"><strong>Importante:</strong>tutti i protagonisti sono esperti di arti marziali, e la loro competenza nel corpo a corpo è già calcolata nel Rango Base.</div>
 
+

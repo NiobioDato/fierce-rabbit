@@ -32,7 +32,7 @@ sections:
           tanto. O probabilmente mai. Non starei nemmeno a salvarlo tra i
           preferiti, ecco.
         actions:
-          - label: View Posts
+          - label: Guarda i post
             url: /blog
             style: link
   - section_id: text-img

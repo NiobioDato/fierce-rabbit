@@ -41,12 +41,14 @@ sections:
     image_position: left
     title: Powered by CopperHead
     content: >
-      Copper Sentai utilizza come motore di gioco CopperHead, un sistema leggero
-      ma matematicamente calibrato, capace di creare scene dinamiche e d'azione
-      senza sminuire la parte interpretativa. 
+      **Copper Sentai** utilizza come motore di gioco per le sue avventure
+      pazzerelle **CopperHead**, un sistema leggero ma matematicamente
+      calibrato, capace di creare scene dinamiche e d'azione senza sminuire la
+      parte interpretativa.
 
 
-      Scaricate la versione 0.5.1. dal gruppo Facebook presente nel link.
+      Scaricate la versione 0.5.1. gratuita dal gruppo Facebook presente al
+      link.
     actions:
       - label: View Demo
         url: /docs/getting-started

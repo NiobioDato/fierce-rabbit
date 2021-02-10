@@ -6,11 +6,8 @@ sections:
     title: Copper Sentai
     image: images/5.jpg
     content: >
-      Un gioco di ruolo su **supergruppi**, buoni sentimenti e storie che non
-      vanno da **nessuna parte**.
-
-
-      Tutto gratis, perché ci fanno schifo i soldi.
+      Leggi gratuitamente Copper Sentai, un gioco di ruolo su **supergruppi**,
+      buoni sentimenti e storie che non vanno da **nessuna parte**.
     actions:
       - label: Sfoglia il manuale
         url: /docs

@@ -7,7 +7,7 @@ excerpt: >-
   Copper Sentai, il gioco di ruolo ispirato a Power Rangers e Super Sentai, è
   pronto per essere sfogliato e giocato!
 layout: post
-thumb_image: images/10884793153_945b84245a_k.jpg
+thumb_image: images/Super Sentai.jpg
 image: images/10884793153_945b84245a_k.jpg
 ---
 Blog di prova, vediamo se funziona.

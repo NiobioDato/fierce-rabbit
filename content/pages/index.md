@@ -51,7 +51,7 @@ sections:
       link.
     actions:
       - label: Scarica CH
-        url: /docs/getting-started
+        url: 'https://www.facebook.com/groups/EpigoniGDR'
         style: primary
       - label: Get Started
         url: /docs/getting-started

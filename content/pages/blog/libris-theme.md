@@ -1,5 +1,5 @@
 ---
-title: Introducing The Libris Theme
+title: Copper Sentai 0.5 è online
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo

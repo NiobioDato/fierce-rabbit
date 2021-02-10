@@ -4,14 +4,14 @@ weight: 0
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---
-## Il Leader
+Il Leader
 
 Il leader è la bussola morale del gruppo, è quello che sceglie sempre intuitivamente la cosa giusta da fare. Pignolo, boy scout nell’animo, a prima vista sembra una persona senza particolari difetti se non quello di crederci troppo.
 
 **Colore**: rosso, bianco, oro.
 **Personaggi simili**: Capitan America, Topolino, Tsubasa Oozora, Buffy.
 
-## Il Bassista carismatico
+Il Bassista carismatico
 
 Il Bassista carismatico è il complemento del Leader, spesso in contrasto e in competizione con lui, anche in amore. Ruvido, di poche ma buone parole, condivide con il Leader i fini ma non i mezzi.
 

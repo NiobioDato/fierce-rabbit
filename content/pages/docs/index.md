@@ -2,6 +2,7 @@
 title: Copper Sentai
 layout: docs
 excerpt: Cos'è Copper Sentai e come funziona.
+weight: 0
 ---
 Copper Sentai vi fa vestire le tutine sgargianti di un gruppo di cinque giovani dai poteri cosmici, donati dal SuperCoso, in perenne conflitto con il Nemico i cui piani di conquista sono sempre per procura e costituzionalmente fallimentari. Gli eroi del resto non devono salvarci concretamente, perché nessuno è mai davvero in pericolo, quanto imparare l’importanza dell’amicizia, dell’amore e del potere dei sentimenti.
 

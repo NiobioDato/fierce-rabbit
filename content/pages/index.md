@@ -58,7 +58,7 @@ sections:
     title: Vestire tutine attillate non è mai stato così bello
     subtitle: Leggi il manuale di Copper Sentai gratuitamente e gioisci.
     actions:
-      - label: Get Started
+      - label: Sfoglia il manuale
         url: /docs
         style: primary
 layout: advanced

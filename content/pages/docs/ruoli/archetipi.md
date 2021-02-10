@@ -20,10 +20,8 @@ Il Bassista carismatico è il complemento del Leader, spesso in contrasto e in c
 
 > VARIANTE
 > Si può anche decidere che il Leader sia quello impulsivo e un po’ testa calda; in quel caso il Bassista carismatico sarà quello calmo, posato e analitico dei due.
->
->
->
-> Il Cervellone
+
+Il Cervellone
 
 Il Cervellone è l’eroe del gruppo fisicamente meno dotato, ma che compensa grandemente con le proprie abilità tecniche e con l’intelletto. Nerd, alcune volte socialmente inadatto, sa però mostrare una dialettica pungente quando serve.
 

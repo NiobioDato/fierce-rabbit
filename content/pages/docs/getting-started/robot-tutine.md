@@ -1,6 +1,6 @@
 ---
 title: Come sono fatti i robot di ogni tutina?
-weight: 10
+weight: 11
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---

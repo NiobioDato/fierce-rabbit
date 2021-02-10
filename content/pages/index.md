@@ -35,7 +35,7 @@ sections:
           - label: Guarda i post
             url: /blog
             style: link
-  - section_id: text-img
+  - section_id: copper-head
     type: section_content
     image: images/ch-logo.svg
     image_position: left

@@ -20,7 +20,7 @@ Per esempio:
 
 > Io sono **Sofia**, e sono la **Bassista carismatica** del gruppo.
 > Mi piace la **Street art** e da grande voglio fare la **Pilota di caccia**.
-> Al di là del mio Ruolo, sono una persona **Creativa **ma che soffre di **Presunzione**.
+> Al di là del mio Ruolo, sono una persona **Creativa** ma che soffre di **Presunzione**.
 > Con la supertutina, posso usare il mio **Ultraspray **e la mia mossa **Banksy Piledriver**.
 
 oppure:

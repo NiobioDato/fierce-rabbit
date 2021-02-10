@@ -4,7 +4,7 @@ weight: 1
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---
-I personaggi sono definiti da Parole chiave divise in Categorie. Nei Conflitti \[pp. 6-8] è possibile usare una sola Parola chiave per Categoria, qui rappresentate con sottolineature di colori differenti.
+I personaggi sono definiti da Parole chiave divise in Categorie. Nei Conflitti [pp. 6-8] è possibile usare una sola Parola chiave per Categoria, qui rappresentate con sottolineature di colori differenti.
 
 Di seguito lo schema da compilare per costruire lo scheletro della scheda personaggio:
 

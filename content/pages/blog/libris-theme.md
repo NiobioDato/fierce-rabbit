@@ -4,7 +4,7 @@ excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
   accumsan vis phasellus adipiscing. 
-date: ''
+date: '2021-09-18'
 thumb_image: images/4.jpg
 image: images/10884793153_945b84245a_k.jpg
 layout: post

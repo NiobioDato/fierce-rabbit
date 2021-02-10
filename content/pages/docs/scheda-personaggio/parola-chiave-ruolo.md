@@ -1,6 +1,6 @@
 ---
 title: Parola Chiave di Ruolo
-weight: 0
+weight: 2
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---

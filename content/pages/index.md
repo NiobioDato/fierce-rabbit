@@ -25,7 +25,7 @@ sections:
           - label: Scopri Copper Sentai
             url: /docs
             style: link
-      - title: Blogazord
+      - title: Blog
         content: >
           Notizie, riflessioni e deliri su Copper Sentai, CopperHead e tutti i
           prodotti che usciranno sotto questo motore. Aggiornato una volta ogni

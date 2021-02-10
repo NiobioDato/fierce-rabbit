@@ -10,7 +10,7 @@ Di seguito lo schema da compilare per costruire lo scheletro della scheda person
 
 *   Io sono [NOME] e sono il <span style="color:red">[RUOLO]</span> del gruppo.
 
-*   Mi piace <span style="color:green">[HOBBY]</span> e da grande voglio fare \[MESTIERE]</span>.
+*   Mi piace <span style="color:green">[HOBBY]</span> e da grande voglio fare <span style="color:green">[MESTIERE]</span>.
 
 *   Al di là del mio Ruolo, sono una persona \[PREGIO] ma che soffre di \[DIFETTO].
 

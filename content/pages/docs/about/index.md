@@ -2,7 +2,7 @@
 title: La Banda dei Cinque
 excerpt: Il numero di giocatori corretto per Copper Sentai.
 layout: docs
-weight: 0
+weight: 1
 ---
 Una delle prime regole che gli eroi scoprono nelle loro avventure è che l’unione fa la forza; nessuno di loro, per quanto straordinario, può nulla in solitudine contro i piani tanto malvagi quanto contorti del Nemico. 
 

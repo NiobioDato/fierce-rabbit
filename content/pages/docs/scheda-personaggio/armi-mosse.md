@@ -6,7 +6,7 @@ layout: docs
 ---
 Vestire la tutina sblocca una nuova categoria di Parole chiave, utilissime per far polpette dei tanti ninja senza nome o del Cattivo della Settimana™ che ha sottovalutato il potere dell’amicizia e del consumo consapevole.
 
-# Arma
+## Arma
 
 L'Arma è lo strumento con cui la tutina aumenta significativamente le capacità combattive del protagonista.
 L’Arma, oltre a essere in sostanza un bonus al Rango costante durante i combattimenti, offre un potere secondario unico per chi la impugna.
@@ -31,7 +31,7 @@ oppure:
 
 Durante un Conflitto non è possibile aumentare il Rango contemporaneamente col potere secondario e con quello principale dell’Arma.
 
-# Mossa segreta
+## Mossa segreta
 
 La mossa segreta è l’arma più potente nell’arsenale dell’eroe quando appiedato, oltre a essere un metodo efficace per chiudere un combattimento nel modo più spettacolare e tamarro possibile.
 

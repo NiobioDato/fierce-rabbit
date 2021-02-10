@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Le relazioni fra i personaggi
 weight: 0
 excerpt: lorem-ipsum
 layout: docs

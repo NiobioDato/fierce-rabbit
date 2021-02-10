@@ -1,9 +1,6 @@
 ---
 title: Copper Sentai 0.5 è online
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
-  accumsan vis phasellus adipiscing. 
+excerpt: La prima versione di Copper Sentai è pronta per essere sfogliata.
 date: '2021-09-18'
 thumb_image: images/10884793153_945b84245a_k.jpg
 image: images/10884793153_945b84245a_k.jpg

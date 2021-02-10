@@ -10,7 +10,7 @@ sections:
       vanno da **nessuna parte.**
     actions:
       - label: Sfoglia il manuale
-        url: /manuale
+        url: /docs
         style: primary
   - section_id: features
     type: section_grid

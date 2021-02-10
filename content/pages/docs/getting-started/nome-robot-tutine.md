@@ -1,6 +1,6 @@
 ---
 title: Come si chiamano i robot delle tutine?
-weight: 6
+weight: 11
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---

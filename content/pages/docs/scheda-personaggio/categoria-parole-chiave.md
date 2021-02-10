@@ -14,7 +14,7 @@ Di seguito lo schema da compilare per costruire lo scheletro della scheda person
 
 *   Al di là del mio Ruolo, sono una persona [PREGIO] ma che soffre di [DIFETTO].
 
-*   Con la supertutina, posso usare [ARMA] e la mia mossa [MOSSA].
+*   Con la supertutina, posso usare [ARMA] e la mia mossa [SEGRETA].
 
 Per esempio:
 

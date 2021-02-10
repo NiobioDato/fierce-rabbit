@@ -1,6 +1,7 @@
 ---
 title: Copper Sentai
 layout: docs
+excerpt: Cos'è Copper Sentai
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.

@@ -1,5 +1,5 @@
 ---
-title: Copper Sentai 0.5 è online
+title: Copper Sentai è online!
 subtitle: >-
   Copper Sentai, il gioco di ruolo ispirato a Power Rangers e Super Sentai, è
   pronto per essere sfogliato e giocato!

@@ -22,7 +22,7 @@ sections:
           tenta di ricreare quel feeling da domenica mattina a guardare gente in
           tuta che mena mostri e tira crocche con robot alti cento metri.
         actions:
-          - label: Get Started
+          - label: Scopri Copper Sentai
             url: /docs
             style: link
       - title: Blog

@@ -16,7 +16,7 @@
             },
             {
                 "label": "Manuale",
-                "url": "/manuale",
+                "url": "/docs",
                 "style": "link",
                 "has_subnav": false
             },

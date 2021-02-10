@@ -34,7 +34,7 @@ Di forza e capacità strabordanti, il Bruto è quello che risolve i problemi con
 **Colore**: giallo, arancione, marrone.
 **Personaggi simili**: Colosso, Arale di Dr. Slump, Brienne di Tarth, B. A. Baracus.
 
-<div class="note"><strong>Nota bene:</strong> È possibile rendere il Cervellone "il Prodigio" e il Bruto "il Giullare**; il Prodigio è uno estremamente bravo in tutto e dall’intelligenza superiore, ma generalmente apatico e con scarse se non nulle capacità relazionali. Il Giullare è in genere fuori forma, piuttosto sciocco, ma dotato di coraggio da vendere e di un entusiasmo contagioso.
+<div class="note"><strong>Nota bene:</strong> È possibile rendere il Cervellone "il Prodigio" e il Bruto "il Giullare"; il Prodigio è uno estremamente bravo in tutto e dall’intelligenza superiore, ma generalmente apatico e con scarse se non nulle capacità relazionali. Il Giullare è in genere fuori forma, piuttosto sciocco, ma dotato di coraggio da vendere e di un entusiasmo contagioso.
 In questa dinamica il Prodigio protegge il Giullare dalla sua inadeguatezza pressoché in tutti i campi, ma ha bisogno del Giullare per accettare le sfide e vedere il buono in ciò che lo circonda.</div>
 
 ## Il Bello

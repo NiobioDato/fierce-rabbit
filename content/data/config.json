@@ -4,7 +4,7 @@
     "palette": "violet",
     "header": {
         "title": "Copper Sentai",
-        "logo_img": "images/copper-sentai-vector.svg",
+        "logo_img": "images/header-copper-logo.svg",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
         "nav_links": [

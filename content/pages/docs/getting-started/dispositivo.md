@@ -1,5 +1,5 @@
 ---
-title: Come si mostra il SuperCoso?
+title: Qual è il dispositivo di trasformazione?
 weight: 6
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

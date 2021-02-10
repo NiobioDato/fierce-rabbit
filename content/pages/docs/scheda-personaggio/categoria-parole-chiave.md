@@ -12,7 +12,7 @@ Di seguito lo schema da compilare per costruire lo scheletro della scheda person
 
 *   Mi piace <span style="color:green">\[HOBBY]</span> e da grande voglio fare <span style="color:green">\[MESTIERE]</span>.
 
-*   Al di là del mio Ruolo, sono una persona <span style="color:blue">\[PREGIO]</span> ma che soffre di <span style="color:violet">\[DIFETTO].
+*   Al di là del mio Ruolo, sono una persona <span style="color:blue">\[PREGIO]</span> ma che soffre di <span style="color:violet">\[DIFETTO]</span>.
 
 *   Con la supertutina, posso usare \[ARMA] e la mia mossa \[SEGRETA].
 

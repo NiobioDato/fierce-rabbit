@@ -26,9 +26,9 @@ sections:
             url: /docs
             style: link
       - title: Blogazord
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Notizie, riflessioni e deliri su Copper Sentai, CopperHead e tutti i
+          suoi figliocci. Aggiornato una volta ogni tanto. O probabilmente mai.
         actions:
           - label: View Posts
             url: /blog

@@ -1,5 +1,5 @@
 ---
-title: Come si chiama il Nemico?
+title: Come si chiama l'organizzazione del nemico?
 weight: 2
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

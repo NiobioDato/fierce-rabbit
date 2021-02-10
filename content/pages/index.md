@@ -53,9 +53,6 @@ sections:
       - label: Scarica CH
         url: 'https://www.facebook.com/groups/EpigoniGDR'
         style: primary
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image

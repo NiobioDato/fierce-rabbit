@@ -11,8 +11,6 @@ Il leader è la bussola morale del gruppo, è quello che sceglie sempre intuitiv
 **Colore**: rosso, bianco, oro.
 **Personaggi simili**: Capitan America, Topolino, Tsubasa Oozora, Buffy.
 
-
-
 ## Il Bassista carismatico
 
 Il Bassista carismatico è il complemento del Leader, spesso in contrasto e in competizione con lui, anche in amore. Ruvido, di poche ma buone parole, condivide con il Leader i fini ma non i mezzi.

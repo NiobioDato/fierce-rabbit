@@ -1,6 +1,6 @@
 ---
 title: Copper Sentai 0.5 è online
-excerpt: La prima versione di Copper Sentai è pronta per essere sfogliata.
+excerpt: La prima versione di Copper Sentai è pronta per essere sfogliata.i
 date: '2021-09-18'
 thumb_image: images/10884793153_945b84245a_k.jpg
 image: images/10884793153_945b84245a_k.jpg

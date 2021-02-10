@@ -31,3 +31,4 @@ oppure:
 > Con la supertutina, posso usare il mio Supermartelletto e la mia mossa Arrocco Pam-Krabbé.
 
 <div class="important"><strong>Importante:</strong>tutti i protagonisti sono esperti di arti marziali, e la loro competenza nel corpo a corpo è già calcolata nel Rango Base.</div>
+

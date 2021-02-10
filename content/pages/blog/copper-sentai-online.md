@@ -1,7 +1,7 @@
 ---
 title: Copper Sentai 0.5 è online
 subtitle: lorem-ipsum
-date: '2021-08-18'
+date: '2021-02-18'
 thumb_image_alt: Copper Sentai by Mark McLaughlin
 excerpt: >-
   Copper Sentai, il gioco di ruolo ispirato a Power Rangers e Super Sentai, è

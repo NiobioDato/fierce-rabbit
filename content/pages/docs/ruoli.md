@@ -1,9 +1,7 @@
 ---
 title: Un Ruolo per tutti
 weight: 2
-excerpt: >-
-  To make it easy to write documentation in plain Markdown, most UI components
-  are styled using Markdown elements with few additional CSS classes.
+excerpt: Tutti i personaggi di Copper Sentai devono gestire un ruolo
 layout: docs
 ---
 Il SuperCoso non ha selezionato i cinque giovani per il loro spiccato atletismo oppure per un’esperienza pregressa nella lotta a entità provenienti da dimensioni inique e maleducate, no.

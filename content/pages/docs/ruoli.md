@@ -1,7 +1,7 @@
 ---
 title: Un Ruolo per tutti
 weight: 2
-excerpt: Tutti i personaggi di Copper Sentai devono gestire un ruolo
+excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---
 Il SuperCoso non ha selezionato i cinque giovani per il loro spiccato atletismo oppure per un’esperienza pregressa nella lotta a entità provenienti da dimensioni inique e maleducate, no.

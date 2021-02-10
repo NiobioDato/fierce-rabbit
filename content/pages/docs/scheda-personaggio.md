@@ -1,7 +1,9 @@
 ---
 title: Costruire la scheda del personaggio
 weight: 3
-excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
+excerpt: >-
+  Come costruire la scheda del personaggio di Copper Sentai in pochissimi
+  minuti.
 layout: docs
 ---
 Copper Sentai utilizza come motore di gioco CopperHead, ma la spiegazione di termini tecnici e di concetti di gioco che provengono dal regolamento ufficiale non verranno riproposti in queste pagine.

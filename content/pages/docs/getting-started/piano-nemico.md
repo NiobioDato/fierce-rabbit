@@ -1,6 +1,6 @@
 ---
 title: Cosa vuole il Nemico?
-weight: 1
+weight: 4
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---

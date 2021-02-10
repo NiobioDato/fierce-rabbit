@@ -1,8 +1,6 @@
 ---
 title: La Banda dei Cinque
-excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+excerpt: Il numero di giocatori corretto per Copper Sentai.
 layout: docs
 ---
 

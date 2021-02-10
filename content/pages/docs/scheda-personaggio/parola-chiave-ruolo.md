@@ -39,8 +39,11 @@ La sezione può avere al massimo tre Pregi e un Difetto.
 Esempio:
 
 > Giocatore: «Per capire se il venditore di spray anti-mostro di fronte a noi ci sta mentendo, uso il ruolo di Bella come bonus al Rango perché Sara capisce l’emozioni delle persone in maniera istintiva».
+>
 > Narratrice: «Sì, segna pure “Empatica” come pregio di Ruolo. Hai spazio, giusto?».
+>
 > Giocatore: «Sì, ho ancora spazio per un Pregio».
+>
 > Narratrice: «Empatica ti dà effettivamente un +1 al Rango per il Conflitto».
 
 ## Uso dei Pregi del Ruolo

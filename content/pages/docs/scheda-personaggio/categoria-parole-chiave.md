@@ -1,6 +1,6 @@
 ---
 title: Categorie e Parole Chiave
-weight: 3
+weight: 1
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---

@@ -1,5 +1,5 @@
 ---
-title: Qual è il nome delle tutine?
+title: Come sono fatti i robot di ogni tutina?
 weight: 10
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

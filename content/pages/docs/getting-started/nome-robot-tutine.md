@@ -1,5 +1,5 @@
 ---
-title: Come si mostra il SuperCoso?
+title: Come si chiamano i robot delle tutine?
 weight: 6
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

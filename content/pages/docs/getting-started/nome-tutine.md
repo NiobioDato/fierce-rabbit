@@ -1,5 +1,5 @@
 ---
-title: Qual è il motto del supergruppo?
+title: Qual è il nome delle tutine?
 weight: 9
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

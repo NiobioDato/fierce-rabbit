@@ -43,8 +43,8 @@ Di forza e capacità strabordanti, il Bruto è quello che risolve i problemi con
 
 Il Bello è chiamato così perché emana un’aura di bellezza che lascia storditi. Non necessariamente la sua bellezza è canonicamente fisica, ma di sicuro lo è dell’anima.  Il Bello è il cuore e la coscienza del gruppo, il collante che tiene unite le sue varie anime. È il migliore amico, spesso d’infanzia, sia del Leader sia del Bassista carismatico, motivo per cui spesso i due litigano per avere le sue attenzioni.
 
-Colore: rosa, viola, bordeaux.
-Personaggi simili: Nightcrawler, Leia Organa, Ray Venkman, Principessa Peach.
+**Colore**: rosa, viola, bordeaux.
+Personaggi simili**: Nightcrawler, Leia Organa, Ray Venkman, Principessa Peach.
 
 > VARIANTE
 > Il Bello può essere anche l’interesse amoroso, e l’ennesimo motivo di frizione, fra il Leader e il Bassista carismatico. Anche se si decide per questa variante, il Bello è un personaggio che splende di luce propria e non esiste in funzione di nessun altro.

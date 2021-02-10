@@ -62,5 +62,5 @@ sections:
         url: /docs
         style: primary
 layout: advanced
-excerpt: ''
+excerpt: 'La homepage di Copper Sentai, il gioco di ruolo su'
 ---

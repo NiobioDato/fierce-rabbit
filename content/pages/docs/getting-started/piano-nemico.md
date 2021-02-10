@@ -1,5 +1,5 @@
 ---
-title: Chi è il nemico?
+title: Cosa vuole il Nemico?
 weight: 1
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

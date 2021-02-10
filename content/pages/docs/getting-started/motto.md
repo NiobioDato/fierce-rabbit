@@ -4,9 +4,10 @@ weight: 8
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---
-Si tratta dell’oggetto che fornisce fisicamente i poteri di trasformazione del gruppo.
+Si tratta della frase da pronunciare quando si usa il dispositivo di trasformazione. Deve essere molto breve, e può essere facilmente in linea col nome del supergruppo.
 
-La scelta è infinita, ma può essere utile per fare una prima cernita chiedersi se una versione giocattolo da vendere nei negozi si spaccherebbe a guardarla; in caso la risposta sia positiva, siete sulla buona strada.
+
+Prendendo gli esempi di prima:
 
 
 | 1d6 | Dispositivo di trasformazione                            |
@@ -17,4 +18,3 @@ La scelta è infinita, ma può essere utile per fare una prima cernita chiedersi
 | 4   | Un amuleto|
 | 5   | Un paio di occhiali                        |
 | 6   | Un mezzo di trasporto personale                         |
-

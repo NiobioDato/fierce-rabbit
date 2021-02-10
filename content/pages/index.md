@@ -40,10 +40,13 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: Powered by CopperHead
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Copper Sentai utilizza come motore di gioco CopperHead, un sistema leggero
+      ma matematicamente calibrato, capace di creare scene dinamiche e d'azione
+      senza sminuire la parte interpretativa. 
+
+
+      Scaricate la versione 0.5.1. dal gruppo Facebook presente nel link.
     actions:
       - label: View Demo
         url: /docs/getting-started

@@ -9,7 +9,7 @@ sections:
       Un gioco di ruolo su **supergruppi**, buoni sentimenti e storie che non
       vanno da **nessuna parte.**
     actions:
-      - label: Get Started
+      - label: Sfoglia il manuale
         url: /docs
         style: primary
   - section_id: features

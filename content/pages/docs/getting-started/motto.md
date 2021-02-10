@@ -1,6 +1,6 @@
 ---
 title: Qual è il motto del supergruppo?
-weight: 8
+weight: 9
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---

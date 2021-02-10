@@ -14,7 +14,7 @@ Di seguito lo schema da compilare per costruire lo scheletro della scheda person
 
 *   Al di là del mio Ruolo, sono una persona <span style="color:blue">\[PREGIO]</span> ma che soffre di <span style="color:violet">\[DIFETTO]</span>.
 
-*   Con la supertutina, posso usare <span style="color:blue">\[ARMA] e la mia mossa \[SEGRETA].
+*   Con la supertutina, posso usare <span style="color:yellow">\[ARMA] e la mia mossa \[SEGRETA].
 
 Per esempio:
 

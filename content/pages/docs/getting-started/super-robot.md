@@ -1,6 +1,6 @@
 ---
 title: Come si chiama il Super Robot?
-weight: 0
+weight: 13
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---

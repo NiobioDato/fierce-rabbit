@@ -4,12 +4,30 @@ weight: 1
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---
-Copper Sentai utilizza come motore di gioco CopperHead, ma la spiegazione di termini tecnici e di concetti di gioco che provengono dal regolamento ufficiale non verranno riproposti in queste pagine.
+I personaggi sono definiti da Parole chiave divise in Categorie. Nei Conflitti \[pp. 6-8] è possibile usare una sola Parola chiave per Categoria, qui rappresentate con sottolineature di colori differenti.
 
-Potete trovare il manuale di CopperHead a [questo link](https://www.facebook.com/groups/EpigoniGDR) e, per rendere la lettura più agevole, nelle sezioni che seguono verranno riportate in parentesi quadre la pagine di CH a cui ci si riferisce.
+Di seguito lo schema da compilare per costruire lo scheletro della scheda personaggio:
 
-Se saltare fra una risorsa gratuita e l’altra è stressante per voi, potete sempre copiaincollarvi tutto in un bel documento personale; la polizia dei giochini in Creative Commons non verrà a cercarvi.
+*   Io sono \[NOME] e sono il \[RUOLO] del gruppo.
 
-***
+*   Mi piace \[HOBBY] e da grande voglio fare \[MESTIERE].
 
-Qui le risorse di questa sezione:
+*   Al di là del mio Ruolo, sono una persona \[PREGIO] ma che soffre di \[DIFETTO].
+
+*   Con la supertutina, posso usare \[ARMA] e la mia mossa \[MOSSA SEGRETA].
+
+Per esempio:
+
+> Io sono Sofia, e sono la Bassista carismatica del gruppo.
+> Mi piace la Street art e da grande voglio fare la Pilota di caccia.
+> Al di là del mio Ruolo, sono una persona Creativa ma che soffre di Presunzione.
+> Con la supertutina, posso usare il mio Ultraspray e la mia mossa Banksy Piledriver.
+
+oppure:
+
+> Io sono Terenzio, e sono il Cervellone del gruppo.
+> Mi piace Giocare a scacchi e da grande voglio fare il Magistrato.
+> Al di là del mio Ruolo, sono una persona Ostinata ma che soffre di Scarsa autostima.
+> Con la supertutina, posso usare il mio Supermartelletto e la mia mossa Arrocco Pam-Krabbé.
+
+Attenzione: tutti i protagonisti sono esperti di arti marziali, e la loro competenza nel corpo a corpo è già calcolata nel Rango Base.

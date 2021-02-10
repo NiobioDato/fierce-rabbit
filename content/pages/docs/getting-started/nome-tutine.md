@@ -4,7 +4,7 @@ weight: 9
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---
-Ogni personaggio trasformato prende un nome in codice, in genere semplice da ricordare. Il più classico è quello costruito con Nome tematico  +  Colore .
+Ogni personaggio trasformato prende un nome in codice, in genere semplice da ricordare. Il più classico è quello costruito con \[Nome tematico]  + \[Colore] .
 
 Prendendo gli esempi di prima:
 

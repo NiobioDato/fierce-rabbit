@@ -32,8 +32,8 @@ Il Cervellone è l’eroe del gruppo fisicamente meno dotato, ma che compensa gr
 
 Di forza e capacità strabordanti, il Bruto è quello che risolve i problemi con le mani, i piedi e qualsiasi altra parte del corpo che può usare come arma contundente. Non è il più sveglio della compagnia, ma è gentile con chi ama e e coltiva un rapporto strettissimo, quasi simbiotico, col Cervellone.
 
-Colore: giallo, arancione, marrone.
-Personaggi simili: Colosso, Arale di Dr. Slump, Brienne di Tarth, B. A. Baracus.
+**Colore**: giallo, arancione, marrone.
+**Personaggi simili**: Colosso, Arale di Dr. Slump, Brienne di Tarth, B. A. Baracus.
 
 > VARIANTE
 > È possibile rendere il Cervellone il Prodigio e il Bruto il Giullare; il Prodigio è uno estremamente bravo in tutto e dall’intelligenza superiore, ma generalmente apatico e con scarse se non nulle capacità relazionali. Il Giullare è in genere fuori forma, piuttosto sciocco, ma dotato di coraggio da vendere e di un entusiasmo contagioso.

@@ -1,6 +1,6 @@
 ---
 title: Qual è il dispositivo di trasformazione?
-weight: 6
+weight: 8
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---

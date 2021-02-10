@@ -1,6 +1,6 @@
 ---
 title: Pregi e Difetti extra-Ruolo
-weight: 4
+weight: 5
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---

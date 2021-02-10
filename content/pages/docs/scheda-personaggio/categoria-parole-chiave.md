@@ -27,7 +27,7 @@ oppure:
 
 > Io sono **Terenzio**, e sono il **Cervellone **del gruppo.
 > Mi piace **Giocare a scacchi** e da grande voglio fare il **Magistrato**.
-> Al di là del mio Ruolo, sono una persona **Ostinata ma che soffre di **Scarsa autostima**.
+> Al di là del mio Ruolo, sono una persona **Ostinata** ma che soffre di **Scarsa autostima**.
 > Con la supertutina, posso usare il mio **Supermartelletto** e la mia mossa **Arrocco Pam-Krabbé**.
 
 <div class="important"><strong>Importante:</strong>tutti i protagonisti sono esperti di arti marziali, e la loro competenza nel corpo a corpo è già calcolata nel Rango Base.</div>

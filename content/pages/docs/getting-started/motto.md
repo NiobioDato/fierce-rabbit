@@ -6,15 +6,12 @@ layout: docs
 ---
 Si tratta della frase da pronunciare quando si usa il dispositivo di trasformazione. Deve essere molto breve, e può essere facilmente in linea col nome del supergruppo.
 
-
 Prendendo gli esempi di prima:
 
-
-| 1d6 | Dispositivo di trasformazione                            |
+| Nome | Dispositivo di trasformazione                            |
 |-----|----------------------------------|
-| 1   | Un’arma                         |
-| 2   | Un orologio                        |
-| 3   | Un telefono                       |
-| 4   | Un amuleto|
-| 5   | Un paio di occhiali                        |
-| 6   | Un mezzo di trasporto personale                         |
+| Attack Tiger Gear Fighters   | Tigri, sfoderate gli artigli!                       |
+| Hyper Wave Riders   | Surfiamo sulle onde della giustizia!                       |
+| Galactic Ultra Dynamic Police   | Manganello cosmico, a noi!                       |
+| Super Pirati Tech da Omega   | Per il potere del Grog!|
+| Gruppo Wow super Wow   | Wow, Super Wow!                        |

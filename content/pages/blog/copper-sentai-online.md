@@ -10,7 +10,7 @@ excerpt: >-
   pronto per essere sfogliato e giocato!
 layout: post
 thumb_image: images/copper-sentai2.svg
-image: images/Super Sentai.jpg
+image: images/copper-sentai2.svg
 ---
 Blog di prova, vediamo se funziona.
 

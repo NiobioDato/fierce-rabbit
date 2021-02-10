@@ -1,6 +1,6 @@
 ---
 title: Qual è il nome del supergruppo?
-weight: 6
+weight: 7
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---

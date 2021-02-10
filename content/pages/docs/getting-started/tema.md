@@ -1,5 +1,5 @@
 ---
-title: Il mondo Copper Sentai
+title: Qual è il tema?
 weight: 0
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

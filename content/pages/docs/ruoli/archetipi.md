@@ -28,7 +28,7 @@ Il Cervellone è l’eroe del gruppo fisicamente meno dotato, ma che compensa gr
 **Colore**: blu, azzurro, celeste.
 **Personaggi simili**: Mina Murray, Donatello, Sailor Mercury, Egon Spengler.
 
-## Il Bruto
+Il Bruto
 
 Di forza e capacità strabordanti, il Bruto è quello che risolve i problemi con le mani, i piedi e qualsiasi altra parte del corpo che può usare come arma contundente. Non è il più sveglio della compagnia, ma è gentile con chi ama e e coltiva un rapporto strettissimo, quasi simbiotico, col Cervellone.
 

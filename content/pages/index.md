@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Copper Sentai
     image: images/5.jpg
     content: >
       Leggi gratuitamente Copper Sentai, un gioco di ruolo ispirato da **Power

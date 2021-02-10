@@ -1,6 +1,6 @@
 ---
 title: Il mondo Copper Sentai
-excerpt: Le regol
+excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---
 Prima di creare i personaggi giocanti, è importante tratteggiare alcune caratteristiche dell’universo in cui gli eroi, i comprimari e i nemici si muovono. 

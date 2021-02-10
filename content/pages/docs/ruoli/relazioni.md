@@ -1,6 +1,6 @@
 ---
 title: Le relazioni fra i personaggi
-weight: 0
+weight: 1
 excerpt: Lo schema con le relazioni fra i personaggi di Copper Sentai
 layout: docs
 ---

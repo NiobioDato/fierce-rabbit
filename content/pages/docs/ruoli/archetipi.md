@@ -18,7 +18,7 @@ Il Bassista carismatico è il complemento del Leader, spesso in contrasto e in c
 **Colore**: nero, grigio, argento.
 **Personaggi simili**: Wolverine, Morrigan, Vegeta, Willow.
 
-<div class="note">\<strong>Nota bene:</strong>Si può anche decidere che il Leader sia quello impulsivo e un po’ testa calda; in quel caso il Bassista carismatico sarà quello calmo, posato e analitico dei due.</div>
+<div class="note"><strong>Nota bene:</strong>Si può anche decidere che il Leader sia quello impulsivo e un po’ testa calda; in quel caso il Bassista carismatico sarà quello calmo, posato e analitico dei due.</div>
 
 
 

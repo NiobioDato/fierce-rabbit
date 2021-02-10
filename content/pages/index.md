@@ -7,8 +7,8 @@ sections:
     image: images/5.jpg
     content: >
       Leggi gratuitamente Copper Sentai, un gioco di ruolo ispirato da **Power
-      Rangers** e **Super Sentai**, e vivi le avventure di un gruppo di
-      supertutine con poca preparazione.
+      Rangers** e **Super Sentai**, e costruisci il tuo gruppo di supertutine
+      del ♡.
     actions:
       - label: Sfoglia il manuale
         url: /docs

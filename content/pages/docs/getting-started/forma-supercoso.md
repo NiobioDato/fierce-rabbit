@@ -1,6 +1,6 @@
 ---
 title: Come si mostra il SuperCoso?
-weight: 5
+weight: 6
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---

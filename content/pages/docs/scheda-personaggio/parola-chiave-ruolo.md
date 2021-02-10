@@ -12,8 +12,6 @@ Ogni Ruolo racchiude in sé più aspetti e qualità del personaggio – tanto ch
 
 Per evitare che ogni Conflitto diventi una lunga discussione su cosa significhi coprire quello specifico Ruolo del gruppo, si possono utilizzare due metodi differenti.
 
-
-
 ## Metodo meccanico
 
 Insieme alla scheda base,  alla creazione del personaggio va compilata una frase che delimita la funzione del Ruolo e il modo in cui esso influenza gli esiti dei Conflitti:
@@ -26,7 +24,7 @@ Per esempio:
 
 oppure:
 
-> Per Vanessa, essere la **Bruta **significa avere una **Forza soverchiante**, uno **Sguardo intimidatorio** e una **Fede incrollabile**. Purtroppo vuol dire anche essere **Credulona**.
+> Per Vanessa, essere la **Bruta** significa avere una **Forza soverchiante**, uno **Sguardo intimidatorio** e una **Fede incrollabile**. Purtroppo vuol dire anche essere **Credulona**.
 
 ## Metodo libero
 
@@ -52,8 +50,6 @@ Si può chiamare il Ruolo per la risoluzione di un Conflitto solo se uno dei Pre
 Il Narratore può invece utilizzare, ove abbia senso, sia i Pregi sia i Difetti del Ruolo come malus al Conflitto; si immagini per esempio la Forza soverchiante di Vanessa che effetto possa avere in una prova che la veda armeggiare con uno strumento delicato.
 
 Il Narratore non può usare un Pregio e un Difetto di Ruolo contemporaneamente per diminuire il Rango del personaggio.
-
-
 
 ## Limiti dei pregi di Ruolo
 

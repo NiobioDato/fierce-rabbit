@@ -28,7 +28,9 @@ sections:
       - title: Blogazord
         content: >
           Notizie, riflessioni e deliri su Copper Sentai, CopperHead e tutti i
-          suoi figliocci. Aggiornato una volta ogni tanto. O probabilmente mai.
+          prodotti che usciranno sotto questo motore. Aggiornato una volta ogni
+          tanto. O probabilmente mai. Non starei nemmeno a salvarlo tra i
+          preferiti, ecco.
         actions:
           - label: View Posts
             url: /blog

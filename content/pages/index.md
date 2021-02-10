@@ -7,7 +7,7 @@ sections:
     image: images/5.jpg
     content: >
       Un gioco di ruolo su **supergruppi**, buoni sentimenti e storie che non
-      vanno da **nessuna parte. **
+      vanno da **nessuna parte**.
 
 
       Tutto gratis, perché ci fanno schifo i soldi.

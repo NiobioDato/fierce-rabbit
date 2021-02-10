@@ -1,5 +1,5 @@
 ---
-title: Parola Chiave di Ruolo
+title: Categoria di Hobby e Mestieri
 weight: 3
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs

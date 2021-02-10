@@ -50,7 +50,7 @@ sections:
       Scaricate la versione 0.5.1. gratuita dal gruppo Facebook presente al
       link.
     actions:
-      - label: View Demo
+      - label: Scarica CH
         url: /docs/getting-started
         style: primary
       - label: Get Started

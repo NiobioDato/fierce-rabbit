@@ -1,6 +1,6 @@
 ---
 title: Il mondo Copper Sentai
-excerpt: In this section you'll find basic information about Libris and how to use it.
+excerpt: Le regol
 layout: docs
 ---
 Prima di creare i personaggi giocanti, è importante tratteggiare alcune caratteristiche dell’universo in cui gli eroi, i comprimari e i nemici si muovono. 

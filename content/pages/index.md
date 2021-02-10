@@ -3,10 +3,10 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/5.jpg
+    image: images/best-plankton.jpg
     content: >
       Gioca gratuitamente a **Copper Sentai**, il gioco di ruolo tutto italiano
-      ispirato da Power Rangers e Super Sentai.
+      ispirato da Power Rangers e Super Sentai
     actions:
       - label: Sfoglia il manuale
         url: /docs

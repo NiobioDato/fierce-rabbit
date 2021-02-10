@@ -4,20 +4,16 @@ weight: 5
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---
-Il SuperCoso è la guida, il padre putativo e il generale *de facto* del gruppo di eroi. Si tratta dell’entità che ha fornito i personaggi dei loro poteri.
-
-È buona norma abbia un legame col Nemico, in qualche modo. 
+Il SuperCoso interagisce con il gruppo praticamente in tutte le puntate. Alcune volte è lui a fornire la missione, in altre guida il gruppo nei momenti di difficoltà. Il modo in cui si mostra cambia sensibilmente la dinamica delle interazioni. 
 
 
-| 1d6 | Identità                             |
+| 1d6 | Forma del SuperCoso                             |
 |-----|----------------------------------|
-| 1   | Un alieno umanista                          |
-| 2   | Un’IA amica dell’umanità                         |
-| 3   | Uno scienziato con un QI di 180                       |
-| 4   | Un’entità interdimensionale |
-| 5   | Un rivoluzionario dal sottosuolo                          |
-| 6   | Un capitano della polizia pangalattica                          |
+| 1   | Umanoide                          |
+| 2   | Un corpo sintetico                        |
+| 3   | Un ologramma del volto                       |
+| 4   | Una voce senza corpo |
+| 5   | Un super computer                         |
+| 6   | Lettere che si autodistruggono                          |
 
-Scelta l’identità, cercate di spiegare in tre parole (vanno bene anche “Perché sì, dai”) come il SuperCoso offra i poteri ai ragazzi.
-
-Se SuperCoso come nome non vi piace –⁠ ed è difficile darvi torto –⁠, provate a fornirgli un appellativo che sia un po’ esotico, un po’ tecnologico e al contempo dia un tocco familiare; qualcosa come Dr. Matrix,  RoboButler, D.O.G., Ultracapitano Zwi’tec, Mister A.
+La forma del SuperCoso può offrire anche degli spunti per la minaccia della puntata, come per esempio un virus nel super computer che lo fa parlare con sole consonanti, oppure delle lettere falsificate che portano a un trappolone del Nemico.

@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/sentai-cover.jpg
+    image: images/sentai-cover2.jpg
     content: >
       Gioca gratuitamente a **Copper Sentai**, il gioco di ruolo tutto italiano
       ispirato da Power Rangers e Super Sentai.

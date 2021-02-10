@@ -12,7 +12,7 @@ sections:
       - label: Sfoglia il manuale
         url: /docs
         style: primary
-    title: Po-po-poveretti
+    title: Tieni pronta la tua tutina
   - section_id: features
     type: section_grid
     col_number: two

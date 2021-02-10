@@ -84,5 +84,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "favicon": "images/copper-favicon.png"
 }

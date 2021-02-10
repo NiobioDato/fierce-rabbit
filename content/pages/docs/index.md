@@ -3,15 +3,10 @@ title: Copper Sentai
 layout: docs
 excerpt: Cos'è Copper Sentai e come funziona.
 ---
+Copper Sentai vi fa vestire le tutine sgargianti di un gruppo di cinque giovani dai poteri cosmici, donati dal SuperCoso, in perenne conflitto con il Nemico i cui piani di conquista sono sempre per procura e costituzionalmente fallimentari. Gli eroi del resto non devono salvarci concretamente, perché nessuno è mai davvero in pericolo, quanto imparare l’importanza dell’amicizia, dell’amore e del potere dei sentimenti.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+
 
 ***
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
-
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
-
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+Copper Sentai utilizza il toolbox [CopperHead ](https://www.facebook.com/groups/EpigoniGDR)per gestire i conflitti e le sfide del Narratore, tranne in alcuni casi specifici che verranno descritti più avanti. Per giocare vi serviranno solo una manciata di d8 e qualche foglio bianco per le schede, oppure solo un tiradadi online se giocate in remoto.

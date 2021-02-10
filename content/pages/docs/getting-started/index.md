@@ -1,5 +1,5 @@
 ---
-title: Il vostro mondo Copper Sentai
+title: Il mondo Copper Sentai
 excerpt: In this section you'll find basic information about Libris and how to use it.
 layout: docs
 ---

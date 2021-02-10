@@ -1,6 +1,6 @@
 ---
 title: Un Ruolo per tutti
-weight: 0
+weight: 3
 excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
 layout: docs
 ---

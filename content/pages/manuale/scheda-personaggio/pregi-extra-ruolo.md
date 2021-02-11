@@ -1,7 +1,7 @@
 ---
 title: Pregi e Difetti extra-Ruolo
 weight: 4
-excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
+excerpt: Una categoria che aiuta i personaggi
 layout: docs
 ---
 Per fornire un minimo di profondità ai personaggi e non ingabbiarli nel solo Ruolo, ogni eroe ha un Pregio e un Difetto non legati all’identità segreta.

@@ -1,7 +1,7 @@
 ---
 title: I 5 Ruoli chiave
 weight: 0
-excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
+excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction.
 layout: docs
 ---
 ## Il Leader

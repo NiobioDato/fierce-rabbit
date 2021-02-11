@@ -1,6 +1,6 @@
 ---
 title: La Banda dei Cinque
-excerpt: Scopri perché i giocatori devono essere Cinque.
+excerpt: Scopri perché Copper Sentai funziona meglio con cinque giocatori e un narratore.
 layout: docs
 weight: 1
 ---

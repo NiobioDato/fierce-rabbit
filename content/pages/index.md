@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Copper Sentai
 sections:
   - section_id: hero
     type: section_hero

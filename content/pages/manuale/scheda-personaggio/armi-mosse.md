@@ -1,7 +1,7 @@
 ---
 title: Armi e Mosse segrete
 weight: 5
-excerpt: Con la tu
+excerpt: Come aggiungere armi e mosse segrete alle schede personaggio di Copper Sentai.
 layout: docs
 ---
 Vestire la tutina sblocca una nuova categoria di Parole chiave, utilissime per far polpette dei tanti ninja senza nome o del Cattivo della Settimana™ che ha sottovalutato il potere dell’amicizia e del consumo consapevole.

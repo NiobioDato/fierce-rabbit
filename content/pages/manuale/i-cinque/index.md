@@ -1,6 +1,6 @@
 ---
 title: La Banda dei Cinque
-excerpt: Scopri c
+excerpt: Scopri perché i giocatori devono essere Cinque.
 layout: docs
 weight: 1
 ---

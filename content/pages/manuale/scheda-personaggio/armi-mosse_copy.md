@@ -1,5 +1,5 @@
 ---
-title: Sogno e Complicazione
+title: Sogni e Complicazione
 weight: 6
 excerpt: I protagonisti di Copper Sentai hanno nemici ben più pericolosi dei pupazzi del Nemico.
 layout: docs

@@ -1,7 +1,7 @@
-root_docs_path: /docs
+root_docs_path: /manuale
 sections:
-  - about
-  - getting-started
+  - i-cinque
+  - world-building
   - ruoli
   - scheda-personaggio
   - manage-content

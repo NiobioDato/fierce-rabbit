@@ -4,8 +4,8 @@
     "palette": "violet",
     "header": {
         "title": "Copper Sentai",
-        "logo_img": "images/header-copper-logo.svg",
-        "logo_img_alt": "Copper Sentai",
+        "logo_img": "images/copper-sentai-logo-horizontal.svg",
+        "logo_img_alt": "Copper Sentai Logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -16,7 +16,7 @@
             },
             {
                 "label": "Manuale",
-                "url": "/docs",
+                "url": "/manuale",
                 "style": "link",
                 "has_subnav": false
             },

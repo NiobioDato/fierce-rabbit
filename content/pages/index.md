@@ -9,7 +9,7 @@ sections:
       ispirato da Power Rangers e Super Sentai
     actions:
       - label: Sfoglia il manuale
-        url: /docs
+        url: /manuale
         style: primary
     title: Tieni pronta la tua tutina
   - section_id: features
@@ -23,7 +23,7 @@ sections:
           tuta che mena mostri e tira crocche con robot alti cento metri.
         actions:
           - label: Scopri Copper Sentai
-            url: /docs
+            url: /manuale
             style: link
       - title: Blog
         content: >
@@ -53,13 +53,14 @@ sections:
       - label: Scarica CH
         url: 'https://www.facebook.com/groups/EpigoniGDR'
         style: primary
+    image_alt: Logo Powered By CopperHead System
   - section_id: cta
     type: section_cta
     title: Vestire tutine attillate non è mai stato così bello
     subtitle: ''
     actions:
       - label: Sfoglia il manuale
-        url: /docs
+        url: /manuale
         style: primary
 layout: advanced
 excerpt: >-

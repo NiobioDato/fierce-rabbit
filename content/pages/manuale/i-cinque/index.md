@@ -1,6 +1,6 @@
 ---
 title: La Banda dei Cinque
-excerpt: Il numero di giocatori corretto per Copper Sentai.
+excerpt: Scopri c
 layout: docs
 weight: 1
 ---

@@ -1,7 +1,7 @@
 ---
 title: Parola Chiave di Ruolo
 weight: 2
-excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
+excerpt: Il Ruolo del personaggio offre dei Pregi e dei Difetti unici che aiutano a 
 layout: docs
 ---
 La Parola chiave di Ruolo racchiude tutte le qualità (e difetti) di uno dei cinque archetipi del capitolo precedente.

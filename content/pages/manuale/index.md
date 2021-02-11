@@ -1,5 +1,5 @@
 ---
-title: Copper Sentai
+title: Manuale
 layout: docs
 excerpt: Cos'è Copper Sentai e come funziona.
 weight: 0

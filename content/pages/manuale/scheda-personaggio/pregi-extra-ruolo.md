@@ -1,7 +1,7 @@
 ---
 title: Pregi e Difetti extra-Ruolo
 weight: 4
-excerpt: La categoria Pregi e Difetti extra-Ruolo aiuta i personaggi ad avere una vita al df fuori della tutina.
+excerpt: La categoria Pregi e Difetti extra-Ruolo aiuta i personaggi ad avere una vita al di fuori della tutina.
 layout: docs
 ---
 Per fornire un minimo di profondità ai personaggi e non ingabbiarli nel solo Ruolo, ogni eroe ha un Pregio e un Difetto non legati all’identità segreta.

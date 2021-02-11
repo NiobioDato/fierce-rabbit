@@ -59,7 +59,7 @@ sections:
     subtitle: ''
     actions:
       - label: Sfoglia il manuale
-        url: /docs
+        url: /manuale
         style: primary
 layout: advanced
 excerpt: >-

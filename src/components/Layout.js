@@ -15,6 +15,7 @@ export default class Body extends React.Component {
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="description" content={_.get(this.props, 'page.frontmatter.excerpt', null)}/>
+                    <meta name="description" content={_.get(this.props, 'page.frontmatter.excerpt', null)}/>
                     <meta property="og:image" content=
                     <link rel="preconnect" href="https://fonts.gstatic.com"/>
                     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>

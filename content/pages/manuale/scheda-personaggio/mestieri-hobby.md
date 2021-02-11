@@ -1,7 +1,7 @@
 ---
 title: Categoria di Hobby e Mestieri
 weight: 3
-excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
+excerpt: Come scegliere un Hobby e un Mestiere per il proprio personaggio in Copper Sentai.
 layout: docs
 ---
 Le Parole chiave di Hobby e Mestieri servono per dare ai personaggi una vita e una caratterizzazione al di fuori del combattimento con il crimine. Inoltre fanno molto ridere.

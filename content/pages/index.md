@@ -53,6 +53,7 @@ sections:
       - label: Scarica CH
         url: 'https://www.facebook.com/groups/EpigoniGDR'
         style: primary
+    image_alt: Logo Powered By CopperHead
   - section_id: cta
     type: section_cta
     title: Vestire tutine attillate non è mai stato così bello

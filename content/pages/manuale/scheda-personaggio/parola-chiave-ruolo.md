@@ -1,7 +1,7 @@
 ---
 title: Parola Chiave di Ruolo
 weight: 2
-excerpt: Il Ruolo del personaggio offre dei Pregi e dei Difetti unici che aiutano a rendere il proprio eroe 
+excerpt: Il Ruolo del personaggio offre dei Pregi e dei Difetti unici che aiutano a rendere il proprio eroe più personalizzato.
 layout: docs
 ---
 La Parola chiave di Ruolo racchiude tutte le qualità (e difetti) di uno dei cinque archetipi del capitolo precedente.

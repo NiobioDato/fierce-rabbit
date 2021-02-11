@@ -1,8 +1,7 @@
 ---
 title: Costruire la scheda del personaggio
 weight: 3
-excerpt: >-
-  Come costruire la scheda del personaggio di Copper Sentai in pochissimi
+excerpt: Come costruire la scheda del personaggio di Copper Sentai in pochissimi
   minuti.
 layout: docs
 ---

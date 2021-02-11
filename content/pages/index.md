@@ -23,7 +23,7 @@ sections:
           tuta che mena mostri e tira crocche con robot alti cento metri.
         actions:
           - label: Scopri Copper Sentai
-            url: /docs
+            url: /manuale
             style: link
       - title: Blog
         content: >

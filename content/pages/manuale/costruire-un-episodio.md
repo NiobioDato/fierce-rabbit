@@ -1,5 +1,5 @@
 ---
-title: Costruire la scheda del personaggio
+title: Costruire un episodio
 weight: 3
 excerpt: Come costruire la scheda del personaggio di Copper Sentai in pochissimi
   minuti.

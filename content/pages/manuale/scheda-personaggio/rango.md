@@ -1,7 +1,7 @@
 ---
 title: Rango dei personaggi
 weight: 0
-excerpt: Tutti i personaggi di Copper Sentai vestono un Ruolo specifico nella fiction
+excerpt: Rango Base dei personaggi con e senza la tutina.
 layout: docs
 ---
 Il Rango Base \[p. 5] dei personaggi di Copper Sentai è 1.

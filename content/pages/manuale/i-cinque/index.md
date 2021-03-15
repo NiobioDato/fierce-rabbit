@@ -12,4 +12,4 @@ La regola che scoprono subito dopo è che non possono vincere se non sono in cin
 
 Copper Sentai richiede cinque personaggi principali e, di conseguenza, la perfetta esperienza si ha con cinque giocatori e un Narratore. 
 
-Per quanto non consigliato, fra le [regole alternative in chiusura del manuale](https://paper.dropbox.com/doc/Copper-Sentai--BF5RWtq7U28d0v1fh9Glp6q6Ag-nAGtoyxFPTjyGTpZJjlmt#:uid=238419318635077786587109\&h2=Regole-alternative-e-variazion) si trovano anche quelle per gestire un tavolo con meno giocatori oppure di più.
+Per quanto non consigliato, fra le [regole alternative in chiusura del manuale ](/manuale/regole-alternative/)si trovano anche quelle per gestire un tavolo con meno giocatori oppure di più.

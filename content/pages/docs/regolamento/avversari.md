@@ -35,6 +35,7 @@ Capitano della Flotta di Violentor il Turbomeschino, Schifilman è una creatura 
 ### Qualità Superiore
 <b>[Nuvola pestilenziale | 2 Gettoni]</b> In forma titanica, Schifilman può rilasciare dalla proboscide una fitta coltre di nebbia color senape, ampia abbastanza da avvolgere un intero quartiere. La nuvola ha due effetti: si attiva un Contatore da 6 che rappresenta la salute degli abitanti del quartiere; il Contatore del Colpo Finale non si muove fintantoché Schifilman è ancora nella nebbia.
 
+***
 
 ## Violentor il Turbomeschino
 <b>Rango</b> 6

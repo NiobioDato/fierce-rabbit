@@ -4,47 +4,32 @@ weight: 5
 excerpt: Come aggiungere armi e mosse segrete alle schede personaggio di Copper Sentai.
 layout: docs
 ---
-Vestire la tutina sblocca una nuova categoria di Parole chiave, utilissime per far polpette dei tanti ninja senza nome o del Cattivo della Settimana™ che ha sottovalutato il potere dell’amicizia e del consumo consapevole.
+Nella fase di creazione del mondo Super Sentai sono stati già delineati il tema, il nome e la tipologia dei robot del supergruppo, ma non le sue caratteristiche uniche.
 
-## Arma
+Per questo motivo va compilata questa frase:
 
-L'Arma è lo strumento con cui la tutina aumenta significativamente le capacità combattive del protagonista.
+\[NOME ROBOT] è un \[TIPOLOGIA ROBOT] che somiglia a \[FORMA ROBOT] e la sua qualità è \[QUALITÀ].
 
-L’Arma, oltre a essere in sostanza un bonus al Rango costante durante i combattimenti, offre un potere secondario unico per chi la impugna.
+Il Nome, la Tipologia e la Forma del robot dovrebbero essere stati decisi in precedenza, perciò manca solo la Qualità.
 
-Il potere secondario può essere tematico col resto dei personaggi –⁠ per esempio il potere di creare un getto d’acqua potentissimo per la supertutina blu di un supergruppo basato sui cinque elementi – oppure assolutamente indipendente.
+## Qualità del Robot
 
-Questa scelta, viene da sé, deve essere fatta di gruppo.
+Ogni Robot ha una Qualità unica che può essere usata come bonus al Rango nei Conflitti oppure per risolvere automaticamente alcune situazioni. Se il proprio Robot ha la Qualità Volo Supersonico, per esempio, non è necessaria una prova per allontanarsi in volo da una scena.
 
-Nel caso il potere secondario sia indipendente, è consigliato abbia un legame con l’Hobby oppure il Mestiere; si tratta di un buon metodo per mantenere una certa continuità fra il personaggio nella vita quotidiana e la sua identità supereroistica. Oltre a essere invero buffo.
-
-Per delineare l’Arma è necessario compilare questa frase:
-
-\[NOME] impugna \[NOME ARMA], una \[TIPOLOGIA ARMA] che può anche \[POTERE SECONDARIO].
+Le Qualità dovrebbero essere utili al gruppo, flessibili al punto giusto e al contempo ritagliate sul Ruolo della tutina.
 
 Per esempio:
 
-> Sofia impugna l’**Ultraspray**, una **Pistola laser** che può anche **Spruzzare vernice antiproiettile**.
+> Lupotron è un robot Animale che somiglia a un Lupo e la sua Qualità è l’Ululato Intimidatorio.
 
 oppure:
 
-> Terenzio impugna il **Supermartelletto**, un **Martello a due mani** che può anche **Stordire col suo giudizio irrevocabile**.
+> Artemisbot è un robot Umanoide che somiglia ad Artemide e la sua Qualità è l’Inseguimento divino.
 
-Durante un Conflitto non è possibile aumentare il Rango contemporaneamente col potere secondario e con quello principale dell’Arma.
+Importante: gli armamenti, gli attacchi e le capacità fisiche del robot non possono essere Qualità perché già calcolati nell’aumento al Rango 2 del personaggio mentre lo pilota.
 
-## Mossa segreta
+## Qualità del Robot
 
-La mossa segreta è l’arma più potente nell’arsenale dell’eroe quando appiedato, oltre a essere un metodo efficace per chiudere un combattimento nel modo più spettacolare e tamarro possibile.
+Ogni Robot ha una Qualità unica che può essere usata come bonus al Rango nei Conflitti oppure per risolvere automaticamente alcune situazioni. Se il proprio Robot ha la Qualità Volo Supersonico, per esempio, non è necessaria una prova per allontanarsi in volo da una scena.
 
-Quando chiamata, la Mossa segreta azzera il Contatore \[p. 11] del Conflitto, chiudendo di conseguenza la scena.
-
-Per lanciarla, è necessario spendere due Gettoni \[p. 11] dalla riserva in possesso dei giocatori, come spiegato nella sezione più in basso.
-
-Si può usare una sola Mossa segreta per Episodio, perciò è consigliabile trovare un modo per coinvolgere tutti gli eroi nel suo funzionamento.
-
-Per esempio:
-
-> «Spendo due Gettoni per attivare la Mossa segreta di Sofia, il Banksy Piledriver. I suoi compagni circondano il nemico sui quattro lati, mentre creano con il dispositivo di trasformazione delle corde di un ring fatte di pura luce.
-> Sofia corre verso Schifilman il Fetente con il braccio destro teso perpendicolarmente al corpo e lo colpisce con una clothesline. Lo prende subito dopo per le corna, sale sulle corde e urlando “morte al consumismo alieno” si lancia in un piledriver così potente che il mostro si irrigidisce in una curiosa posa a banana.»
-
-Ovviamente è obbligatorio, quando si gioca al tavolo e non in remoto, mimare tutte le mosse e urlare come ossessi.
+Nota: Il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle[ 3 regole delle supertutine](https://paper.dropbox.com/doc/Copper-Sentai--BF5RWtq7U28d0v1fh9Glp6q6Ag-nAGtoyxFPTjyGTpZJjlmt#:uid=134725583492942700479071\&h2=Le-tre-regole-delle-supertutin).

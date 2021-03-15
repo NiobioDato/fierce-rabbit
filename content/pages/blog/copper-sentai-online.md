@@ -54,7 +54,7 @@ Figo, no?
 
 ### Oppure
 
-Oppure si lascia gli hobbyisti fare gli hobbyisti, e i professionisti i professionisti. Si possono scrivere giochi di ruolo ed esperienze fantastiche senza creare prodotti (e volendo si possono creare fantastici prodotti senza scrivere un vero gioco di ruolo, e va bene pure quello.)
+Oppure si lascia gli hobbyisti fare gli hobbyisti, e i professionisti i professionisti. Si possono scrivere giochi di ruolo ed esperienze fantastiche senza creare prodotti. Volendo si possono creare fantastici prodotti senza scrivere un vero gioco di ruolo, e va bene pure quello.)
 
 #### Crediti
 

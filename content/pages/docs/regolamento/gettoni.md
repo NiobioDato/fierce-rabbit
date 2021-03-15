@@ -27,7 +27,7 @@ Il giocatore può spendere uno o due gettoni per prendere il controllo della sce
 ### Creare una nuova arma suprema per il Super Robot
 Il nemico aveva sottovalutato la potenza del Super Robot; spendendo 4 Gettoni, i giocatori possono descrivere una nuova arma del Super Robot capace di dimezzare il numero di sezioni del contatore richieste per utilizzare il Colpo Finale nel capitolo Scontro fra titani.
 
-## Uso dei Gettoni per i giocatori
+## Uso dei Gettoni per il Narratore
 
 I giocatori possono usare i Gettoni per:
 - aumentare il Rango di 1 per il calcolo della riserva dadi [1 Gettone];

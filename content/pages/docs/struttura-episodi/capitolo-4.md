@@ -18,7 +18,7 @@ Il capitolo si conclude quando il supergruppo raggiunge un obiettivo specifico, 
 
 <i>Non è possibile disattivare la torre radio con il mostro che la difende; è necessario un diversivo.</i>
 
-<i>Ora Ekaterina e i suoi lacché non combattono più contro cinque semplici adolescenti, bensì contro i cinque cavalieri galattici dei romanzi cavallereschi!</i>
+<i>I Cavalieri della Tavola Rotonda richiamano i propri Robot e con un balzo entrano nella cabina di pilotaggio. </i>
 
 <i>I Pedoni vengono eliminati con facilità, ma Ekaterina sembra avere un asso nella manica: usa i suoi poteri ipnotici per confondere il gruppo con potenti illusioni, mettendoli uno contro l’altro.</i>
 

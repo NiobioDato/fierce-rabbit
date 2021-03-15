@@ -24,7 +24,7 @@ Esempio:
 > Teresa riesce fortunatamente a passare il Conflitto, e può quindi aprirsi con Cristiano, il suo migliore amico e il Bruto del gruppo. Questo le consiglia di fare una bella vendita di torte salate, bibite analcoliche e dolcetti durante la fiera cittadina di quel fine settimana. Gioacchino il Bello decide subito di aiutare mettendosi ai fornelli; il suo sogno del resto è quello di fare come Mestiere il cuoco. Lo stesso Gioacchino coinvolgerà Michela la Leader e Serena la Bassista carismatica; la prima userà il suo Pregio extra-ruolo “popolare” per fare un po’ di pubbliche relazioni, mentre Serena il suo Hobby “DJ” per pubblicizzare l’evento durante la sua ora di diretta nella radio scolastica. Serena ne approfitta per scommettere una pizza con Michela su chi porterà più persone al banchino.
 > Dopo tanti sforzi (e qualche Conflitto più o meno difficile), finalmente sono pronti per la fiera cittadina. Arrivati sul luogo con un pancale di leccornie, però, si accorgono che non c’è nessuno! Cosa sta succedendo?
 
-Variante Pilota
+## Variante Pilota
 
 I personaggi sono tutti adolescenti privi di poteri all’inizio della puntata, quindi ha senso dare loro il tempo di presentarsi e conoscersi. 
 

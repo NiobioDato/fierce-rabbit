@@ -27,7 +27,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto, possibilmente se
 
 ## Variante Pilota
 
-Questo capitolo rimane nella sostanza invariato, ma sarà il SuperCoso a chiamare i robot per la prima volta e spiegare brevemente il loro funzionamento a livello narrativo.
+Questo capitolo rimane nella sostanza invariato, ma sarà il SuperCoso a chiamare la trasformazione in Super Robot per la prima volta e spiegare brevemente il suo funzionamento a livello narrativo. Sarà sempre il SuperCoso a chiamare il Colpo Finale alla fine del Contatore.
 
  
 ## Variante Finale

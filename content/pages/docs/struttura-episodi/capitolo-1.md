@@ -37,7 +37,7 @@ Si tratta di un episodio corale, il capitolo Vita vissuta del pilota non present
 Il capitolo si chiude quando si palesa il pericolo della settimana.
 
  
-Variante Finale
+## Variante Finale
 
 Nella Variante Finale la normalità viene spezzata dopo poche scene da un violentissimo attacco del Nemico, preparato e messo in modo da molte puntate.
 

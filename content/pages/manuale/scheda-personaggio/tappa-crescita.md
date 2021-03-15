@@ -8,7 +8,7 @@ layout: docs
 ---
 Per i protagonisti di Copper Sentai, combattere il Nemico e i suoi scherani è la parte più facile della giornata. I problemi veri nascono fra i banchi di scuola, sulle panchine dei parchi e sui campi sportivi, durante le piccole e grandi crisi adolescenziali che sembrano spesso insuperabili.
 
-Le Tappe di crescita aiutano giocatori e Narratore a concentrare il capitolo Vita vissuta sulle storie quotidiane dei ragazzi e sulle loro aspirazioni e desideri, fuori dai loro obblighi da supereroi.
+Le Tappe di crescita aiutano giocatori e Narratore a concentrare il capitolo [Vita vissuta](/manuale/struttura-episodi/capitolo-1/) sulle storie quotidiane dei ragazzi e sulle loro aspirazioni e desideri, fuori dai loro obblighi da supereroi.
 
 ## Scegliere l’Obiettivo di una Tappa di crescita
 
@@ -56,10 +56,9 @@ oppure:
 
 ## Raggiungere la Tappa di crescita
 
-La Tappa può essere raggiunta superando l’Ostacolo, oppure accettando il proprio fallimento e imparando da esso. 
+La Tappa può essere raggiunta superando l’Ostacolo, oppure accettando il proprio fallimento e imparando da esso.
 
 La Tappa non viene superata soltanto nel caso in cui il personaggio non impari niente o l’Obiettivo e il suo Ostacolo non abbia creato gioco.
-
 
 Esempio:
 
@@ -69,18 +68,15 @@ Oppure:
 
 > Giampiero segue il nuovo ragazzo fino a casa per scoprire quale sia il suo sordido segreto. Come può aver conquistato Stefano così velocemente, del resto? C’è puzza di Nemico! Eppure, dopo aver perso una nottata a spiare la camera del suo avversario in amore, Giampiero non scopre niente. Per questa mancanza di giudizio, si trova a dover affrontare uno dei Generali del Nemico il giorno dopo senza aver dormito neanche un’ora. Sconfitto il patetico Lord Splendor, Giampiero si mette l’anima in pace: se vuoi bene a una persona, vuoi la sua felicità, anche se non la condivide con te.
 
-
 ## Avanzamento e nuove Tappe
 
 Il SuperCoso supporta attivamente la crescita dei suoi ragazzi, donando uno dei seguenti oggetti al personaggio che supera una Tappa:
 
-- un nuovo casco della tutina che nega un malus ambientale leggero una volta per episodio;
-- un fischietto sonico che richiama il robot personale gratuitamente una volta per episodio;
-- un mediplasma che trasforma una Conseguenza Grave in Leggera una volta per episodio;
-- una nuova Arma creata dal SuperCoso viene aggiunta all’arsenale del personaggio.
+*   un nuovo casco della tutina che nega un malus ambientale leggero una volta per episodio;
+*   un fischietto sonico che richiama il robot personale gratuitamente una volta per episodio;
+*   un mediplasma che trasforma una Conseguenza Grave in Leggera una volta per episodio;
+*   una nuova Arma creata dal SuperCoso viene aggiunta all’arsenale del personaggio.
 
 Superata una Tappa, il giocatore indicherà il suo nuovo Obiettivo e il Narratore segnerà in segreto un nuovo Ostacolo.
 
 Se tutti i personaggi hanno superato almeno una Tappa di crescita, il Narratore può pensare a qualche interessante bonus per il gruppo, come un Mega Robot, un Super Robot con +1 al Rango, oppure una versione più aggiornata e potente delle tutine.
-
-

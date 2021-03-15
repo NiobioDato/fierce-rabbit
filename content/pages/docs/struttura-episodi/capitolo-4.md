@@ -20,7 +20,7 @@ Il capitolo si conclude quando il supergruppo raggiunge un obiettivo specifico, 
 
 <i>I Cavalieri della Tavola Rotonda richiamano i propri Robot e con un balzo entrano nella cabina di pilotaggio. </i>
 
-<i>I Pedoni vengono eliminati con facilità, ma Ekaterina sembra avere un asso nella manica: usa i suoi poteri ipnotici per confondere il gruppo con potenti illusioni, mettendoli uno contro l’altro.</i>
+<i>Cristiano, grazie alla Qualità Volo Supersonico del suo Galahadroid, si lancia contro la torre provando a buttarla giù con una spallata, mentre gli altri quattro distraggono Ekaterina usando le loro Qualità.</i>
 
 <i>Serena capisce dopo poco che gli occhi li stanno tradendo, e chiede a tutti di chiuderli e usare soltanto l’udito: Ekaterina ha perso il suo vantaggio tattico ed è costretta ora a combattere senza trucchi.</i>
 

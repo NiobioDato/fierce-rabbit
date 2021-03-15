@@ -54,7 +54,7 @@ oppure:
 
 <div class="note"><strong>Nota:</strong> l’Ostacolo può anche essere parte del capitolo Minaccia della Settimana, ma deve essere comunque vinto dal ragazzo e non dal suo alter ego combattente.</div>
 
-Raggiungere la Tappa di crescita
+## Raggiungere la Tappa di crescita
 
 La Tappa può essere raggiunta superando l’Ostacolo, oppure accettando il proprio fallimento e imparando da esso. 
 

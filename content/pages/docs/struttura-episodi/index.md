@@ -24,4 +24,4 @@ Ciò detto, questo non è chiaramente un gioco narrativista puro, non cerca di i
 
 ***
 
-Here are the articles in this section:
+In questa sezione trovate:

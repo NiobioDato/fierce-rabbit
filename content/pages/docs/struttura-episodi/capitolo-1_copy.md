@@ -15,7 +15,7 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 ### Esempio
 
-<i>Non solo la fiera è deserta, ma tutte le strade sono praticamente vuote. Il gruppo, investigando nei pressi, scopre che sono tutti incollati allo schermo delle tv, imbambolati nella visione di uno strambo show televisivo in bianco e nero. 
+<i>Non solo la fiera è deserta, ma tutte le strade sono praticamente vuote. Il gruppo, investigando nei pressi, scopre che sono tutti incollati allo schermo delle tv, imbambolati nella visione di uno strambo show televisivo in bianco e nero.</i>
 
 <i>Non sembrano rispondere agli stimoli esterni, e continuano a ripetere incessantemente “Servire il potente Cavaliere Grigio è giusto. Servire il potente Cavaliere Grigio è corretto”. 
 </i>

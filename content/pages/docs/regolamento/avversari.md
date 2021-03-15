@@ -8,7 +8,7 @@ Copper Sentai segue il modello di creazione degli Avversari di CopperHead [p. 14
 
 Vediamo un paio di esempi.
 
-## Uso dei Gettoni per i giocatori
+## Droni Ninja dell’Onnicrimine
 
 I giocatori possono usare i Gettoni per:
 

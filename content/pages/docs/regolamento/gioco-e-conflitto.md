@@ -4,9 +4,20 @@ weight: 0
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---
-Copper Sentai vi fa vestire le tutine sgargianti di un gruppo di cinque giovani dai poteri cosmici, donati dal SuperCoso, in perenne conflitto con il Nemico i cui piani di conquista sono sempre per procura e costituzionalmente fallimentari. Gli eroi del resto non devono salvarci concretamente, perché nessuno è mai davvero in pericolo, quanto imparare l’importanza dell’amicizia, dell’amore e del potere dei sentimenti.
+Copper Sentai usa le stesse regole base di CopperHead per la gestione dei Conflitti \[p. 6], compresi i bonus e malus al Rango \[p. 7].
 
+Calcolando tutti i bonus della scheda, un personaggio di Copper Sentai può raggiungere il Rango 5. Può superare questo numero soltanto spendendo un Gettone.
 
-***
+Le categorie dei malus possono essere:
 
-Copper Sentai utilizza il [toolbox CopperHead](https://www.facebook.com/groups/EpigoniGDR/permalink/2318526081604479) per gestire i conflitti e le sfide del Narratore, tranne in alcuni casi specifici che verranno descritti più avanti. Per giocare vi serviranno solo una manciata di d8 e qualche foglio bianco per le schede, oppure solo un tiradadi online se giocate in remoto.
+*   Parola chiave di Ruolo;
+
+*   Difetto extra-Ruolo;
+
+*   Effetti ambientali leggeri (nebbia, umido, scarsa illuminazione ecc.);
+
+*   Effetti ambientali estremi (terremoto, tromba d’aria, buio completo ecc.);
+
+*   Conseguenze Leggere;
+
+*   Conseguenze Gravi.

@@ -9,7 +9,6 @@ Copper Sentai segue il modello di creazione degli Avversari di CopperHead [p. 14
 Vediamo un paio di esempi.
 
 ## Droni Ninja dell’Onnicrimine
-
 <b>Rango</b> 3
 <b>Contatore</b> 4
 

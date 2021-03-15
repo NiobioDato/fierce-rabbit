@@ -14,7 +14,9 @@ Il Nome, la Tipologia e la Forma del robot dovrebbero essere stati decisi in pre
 
 ## Qualità del Robot
 
-Ogni Robot ha una Qualità unica che può essere usata come bonus al Rango nei Conflitti oppure per risolvere automaticamente alcune situazioni. Se il proprio Robot ha la Qualità Volo Supersonico, per esempio, non è necessaria una prova per allontanarsi in volo da una scena.
+Ogni Robot ha una Qualità unica che può essere usata come bonus al Rango nei Conflitti oppure per risolvere automaticamente alcune situazioni.
+
+Se il proprio Robot ha la Qualità Volo Supersonico, per esempio, non è necessaria una prova per allontanarsi in volo da una scena.
 
 Le Qualità dovrebbero essere utili al gruppo, flessibili al punto giusto e al contempo ritagliate sul Ruolo della tutina.
 
@@ -26,13 +28,10 @@ oppure:
 
 > Artemisbot è un robot Umanoide che somiglia ad Artemide e la sua Qualità è l’Inseguimento divino.
 
-
-
 <div class="important"><strong>Importante:</strong> gli armamenti, gli attacchi e le capacità fisiche del robot non possono essere Qualità perché già calcolati nell’aumento al Rango 2 del personaggio mentre lo pilota.</div>
 
+## Chiamare il Robot
 
-## Qualità del Robot
+Gli eroi possono chiamare gratuitamente il proprio robot dall’inizio del capitolo [Attacco del titano](manuale/struttura-episodi/capitolo-4/) in poi, oppure spendendo un Gettone in qualsiasi momento.
 
-Ogni Robot ha una Qualità unica che può essere usata come bonus al Rango nei Conflitti oppure per risolvere automaticamente alcune situazioni. Se il proprio Robot ha la Qualità Volo Supersonico, per esempio, non è necessaria una prova per allontanarsi in volo da una scena.
-
-<div class="note"><strong>Nota:</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle 3 regole delle supertutine.</div>
+<div class="note"><strong>Nota:</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle 

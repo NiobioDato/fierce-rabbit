@@ -63,7 +63,7 @@ La Tappa non viene superata soltanto nel caso in cui il personaggio non impari n
 
 Esempio:
 
-Vanessa non accetta le sirene di un misterioso programma che promette di trasferire cinque anni di studio di una materia in tre comode tracce audio da ascoltare mentre si dorme. Fortunatamente: era l’ennesimo piano del Nemico per schiavizzare l’umanità! Vanessa decide che l’Accademia va meritata col proprio impegno, e chiede una mano a Terenzio per una full immersion di due settimane sugli integrali.
+> Vanessa non accetta le sirene di un misterioso programma che promette di trasferire cinque anni di studio di una materia in tre comode tracce audio da ascoltare mentre si dorme. Fortunatamente: era l’ennesimo piano del Nemico per schiavizzare l’umanità! Vanessa decide che l’Accademia va meritata col proprio impegno, e chiede una mano a Terenzio per una full immersion di due settimane sugli integrali.
 
 Oppure:
 

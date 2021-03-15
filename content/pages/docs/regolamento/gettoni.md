@@ -43,7 +43,7 @@ Andiamo a vedere i metodi di spesa dei Gettoni non spiegati in precedenza.
 
 Andiamo a vedere i due metodi di spesa dei Gettoni che non sono stati già delineati nel capitolo precedente.
 
-### Evitare una Conseguenza Leggera o Grave
+### Utilizzare la Qualità o la Qualità Superiore di un nemico
 Il giocatore può spendere uno o due gettoni per prendere il controllo della scena e raccontare come la situazione è andata meglio di quello che si poteva pensare.
 
 ### Creare una nuova arma suprema per il Super Robot

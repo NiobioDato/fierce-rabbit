@@ -19,9 +19,9 @@ Esempio:
 
 <i>Teresa riceve una lettera a casa: la scuola non ha visto arrivare il pagamento della retta annuale e la ragazza rischia di non potersi iscrivere al terzo anno. 
 
-<i>Il sogno di Teresa di uscire dalle scuole superiori con il massimo dei voti e iscriversi a una prestigiosa università è in pericolo. 
+<i>Il sogno di Teresa di uscire dalle scuole superiori con il massimo dei voti e iscriversi a una prestigiosa università è in pericolo. </i>
 
-<i>I genitori confessano alla figlia di essere nel mezzo di una pesante crisi economica e di non aver avuto il coraggio di dirglielo; il padre la ammonisce che nessuno col suo cognome perderà mai la dignità andando a mendicare fra amici e conoscenti.
+<i>I genitori confessano alla figlia di essere nel mezzo di una pesante crisi economica e di non aver avuto il coraggio di dirglielo; il padre la ammonisce che nessuno col suo cognome perderà mai la dignità andando a mendicare fra amici e conoscenti.</i>
 
 <i>Teresa è orgogliosa proprio come suo padre e il suo difetto di Ruolo, come Cervellone, è quello di non sopportare le umiliazioni. Per chiedere aiuto deve superare un Conflitto oppure provare a racimolare la retta da sola.</i>
 

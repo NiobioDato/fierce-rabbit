@@ -21,8 +21,7 @@ L’episodio si chiude quando tutte le linee narrative sono state risolte e, all
 
 <i>L’avrebbe fatto prima, ma aveva paura che la ragazza si sarebbe risentita, considerando l’aiuto altrui come un’ammissione di debolezza. Vedendo come era stata capace di chiedere una mano ai propri compagni, Jimbo ha ritenuto di poterlo fare senza troppe preoccupazioni.</i>
 
-<i>
-> Sollevati da questa notizia, Michela e Serena possono tornare a discutere della scommessa: Serena ha portato sì più persone, ma quelli invitati da Michela hanno speso molto di più. Nessuna delle due vuole darla vinta. Risate generali. Titoli di coda.</i>
+<i>Sollevati da questa notizia, Michela e Serena possono tornare a discutere della scommessa: Serena ha portato sì più persone, ma quelli invitati da Michela hanno speso molto di più. Nessuna delle due vuole darla vinta. Risate generali. Titoli di coda.</i>
 
 
 ## Variante Pilota

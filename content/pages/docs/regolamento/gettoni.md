@@ -51,5 +51,3 @@ Le Scommesse funzionano esattamente come in CopperHead [p. 12].
 
 ### Riportare in Scena
 Gli avversari sanno essere più coriacei di quanto si pensi e alcune volte sopravvivono a incidenti a prima vista mortali. Il Narratore può far tornare in scena un nemico sconfitto purché non sia la fine dell’Episodio.
-
-

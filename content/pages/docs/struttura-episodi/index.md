@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: Una storia che non va da nessuna parte
 excerpt: >-
   See some interesting tools developed by the Libris community to help automate
   parts of your workflow.

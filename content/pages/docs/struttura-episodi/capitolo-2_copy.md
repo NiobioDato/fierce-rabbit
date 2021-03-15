@@ -4,14 +4,13 @@ weight: 5
 layout: docs
 ---
 
-Nella Minaccia della Settimana i personaggi svelano un piano crudele del Nemico che minaccia l’incolumità dei cittadini.
+Nonostante gli sforzi degli eroi, l’avversario non ha alcuna intenzione di arrendersi e tornarsene da dov’è venuto. Per i protagonisti non rimane altro che trasformarsi.
 
-Il capitolo si apre con i protagonisti che investigano la natura della minaccia corrente col compito di individuarla e neutralizzarla con meno scalpore possibile.
-Quasi sempre la fanteria semplice del Nemico tenta di bloccare i progressi del gruppo, costringendoli a combattere per sé e per liberare eventuali ostaggi presenti.
+Il capitolo si apre con i personaggi che recitano il motto del supergruppo e si trasformano nei loro alter ego tutinati. 
 
-Il Capitolo si chiude con la presentazione dell’avversario della settimana, intenzionato a sconfiggere le supertutine una volta per tutte.
+Segue un combattimento con eventuale fanteria rimasta e con l’avversario della settimana, che proverà a mettere in crisi il gruppo usando le proprie Qualità in maniera creativa e distruttiva.
 
-Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti trasformarsi nei loro alter ego.
+Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo Contatore del Conflitto a zero –⁠ e il gruppo ha il controllo del campo di battaglia.
 
 ### Esempio
 

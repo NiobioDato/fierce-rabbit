@@ -1,6 +1,6 @@
 ---
-title: Supportare Standard e Ultra
-weight: 4
+title: Contatore
+weight: 5
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---

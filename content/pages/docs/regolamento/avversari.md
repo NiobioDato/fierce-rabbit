@@ -46,8 +46,7 @@ Il Nemico giurato dell’umanità, è ricercato in tutta la Via Lattea per il su
 
 <b>[Veterano di mille tutine]</b> La Mossa segreta non manda fuori scena Violentor ma dimezza soltanto il numero di fasi del Contatore da esaurire.
 
-<b>[Forma perfetta]</b> 
-> Violentor è se stesso solo in forma Titanica: quando ingigantito, il suo Rango sale di +2.
+<b>[Forma perfetta]</b> Violentor è se stesso solo in forma Titanica: quando ingigantito, il suo Rango sale di +2.
 
 
 

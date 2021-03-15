@@ -9,7 +9,7 @@ sections:
       ispirato da Power Rangers e Super Sentai
     actions:
       - label: Sfoglia il manuale
-        url: /
+        url: /manuale
         style: primary
     title: Tieni pronta la tua tutina
   - section_id: features

@@ -22,3 +22,6 @@ Decidete insieme come legare il nome del supergruppo a quello delle tutine e, ov
 I Tech Pirati dell’esempio sopra avranno robot con le fattezze degli animali che li rappresentano, come i Super Wow gireranno spensierati dentro versioni high-tech e sovradimensionate dei veicoli di lavoro scelti.
 
 Non entrate nel particolare delle caratteristiche di ogni robot; quello avverrà in fase di creazione del personaggio. 
+
+\<div class="note">\<strong>Nota:\</strong>I robot, a prescindere dalla tipologia, sono enormi. Parliamo di colossi meccanici di 20-30 metri di lunghezza e/o altezza. Tenetene di conto quando create un concept per il gruppo.\</div>
+

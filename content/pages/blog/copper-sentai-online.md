@@ -15,6 +15,7 @@ image: images/Super Sentai.jpg
 «Ma guarda, è uscito il toolbox di CopperHead» mi sono detto, pieno di gioia infantile. «Finalmente potrò costruire un gioco di ruolo che rappresenti il mio percorso personale, i miei gusti, la mia maturità come narratore e, perché no, come uomo.» 
 Poi ho cambiato idea e ho scritto un hack su gente che mena mostri in tutine colorate.
 Partito come uno spunto di poche righe, non dissimile allo spassoso *Geronimo!* che trovate nel manuale di CopperHead, il progetto è aumentato di complessità, e ora contiene materiale che francamente nessuno aveva richiesto.
+
 In Copper Sentai trovate:
 
 

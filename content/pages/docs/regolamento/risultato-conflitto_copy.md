@@ -1,6 +1,6 @@
 ---
 title: Riserva dadi, tiri e risultati del Conflitto
-weight: 23
+weight: 3
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---

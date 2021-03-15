@@ -1,5 +1,5 @@
 ---
-title: Armi e Mosse segrete
+title: Robot personale
 weight: 5
 excerpt: Come aggiungere armi e mosse segrete alle schede personaggio di Copper Sentai.
 layout: docs

@@ -1,5 +1,5 @@
 ---
-title: Capitolo 6 - Scontro fra titani
+title: Capitolo 6 - Ritorno alla normalità
 weight: 8
 layout: docs
 ---

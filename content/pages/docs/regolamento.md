@@ -1,5 +1,5 @@
 ---
-title: Il Regolamento
+title: Regolamento
 weight: 0
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs

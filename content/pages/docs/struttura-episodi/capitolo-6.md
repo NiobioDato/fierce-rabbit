@@ -26,7 +26,7 @@ L’episodio si chiude quando tutte le linee narrative sono state risolte e, all
 
 ## Variante Pilota
 
-Questo capitolo rimane nella sostanza invariato, ma sarà il SuperCoso a chiamare la trasformazione in Super Robot per la prima volta e spiegare brevemente il suo funzionamento a livello narrativo. Sarà sempre il SuperCoso a chiamare il Colpo Finale alla fine del Contatore.
+Sconfitta la minaccia, i personaggi vengono promossi a eroi a tempo pieno, anche se il SuperCoso li avverte subito: un vero eroe non smette mai di crescere e migliorarsi.
 
  
 ## Variante Finale

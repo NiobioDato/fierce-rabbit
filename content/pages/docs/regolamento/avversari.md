@@ -52,8 +52,7 @@ Il Nemico giurato dell’umanità, è ricercato in tutta la Via Lattea per il su
 
 ### Qualità Superiore 
 
-<b>[Le catene del maleficio | 2 Gettoni]</b> 
-> In forma titanica, Violentor il Turbomeschino può bloccare uno dei Robot personali degli eroi con delle spesse catene psichiche. Il Robot è inutilizzabile senza il superamento di un Conflitto di Rango 6.  Se lanciate contro il Super Robot, le catene hanno effetti diversi in base al luogo in cui sono lanciate: sul braccio non permettono di usare l’arma suprema, su una gamba non lo fanno muovere. 
+<b>[Le catene del maleficio | 2 Gettoni]</b> In forma titanica, Violentor il Turbomeschino può bloccare uno dei Robot personali degli eroi con delle spesse catene psichiche. Il Robot è inutilizzabile senza il superamento di un Conflitto di Rango 6.  Se lanciate contro il Super Robot, le catene hanno effetti diversi in base al luogo in cui sono lanciate: sul braccio non permettono di usare l’arma suprema, su una gamba non lo fanno muovere. 
 
 
 

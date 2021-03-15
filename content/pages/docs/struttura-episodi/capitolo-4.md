@@ -34,4 +34,4 @@ Questo capitolo rimane nella sostanza invariato, ma sarà il SuperCoso a chiamar
  
 ## Variante Finale
 
-Questo capitolo rimane nella sostanza invariato, anche se il Nemico ha un Rango sensibilmente superiore ai suoi sottoposti e più Qualità spendibili per complicare il Conflitto. 
+Questo capitolo rimane nella sostanza invariato, anche se il Nemico ha un Rango sensibilmente superiore ai suoi sottoposti e più Qualità spendibili per complicare il Conflitto. Per complicare la questione, i suoi sottoposti potrebbero apparire in forma titanica al suo fianco. Al contrario degli episodi standard, i titani che non sono il Nemico possono essere sconfitti anche dai robot singoli.

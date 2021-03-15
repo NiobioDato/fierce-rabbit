@@ -15,7 +15,7 @@ Nel caso il protagonista sia proprio il Bello, be’, tutti vogliono aiutarlo.
 
 Il capitolo Vita vissuta si chiude con l’Ostacolo superato, oppure complicato dai sottoposti del Nemico, infiltratisi nella vita della comunità per i loro turpi scopi.
 
-Esempio:
+Esempio
 
 <i>Teresa riceve una lettera a casa: la scuola non ha visto arrivare il pagamento della retta annuale e la ragazza rischia di non potersi iscrivere al terzo anno</i>
 

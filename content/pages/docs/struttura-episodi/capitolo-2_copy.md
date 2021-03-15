@@ -1,5 +1,5 @@
 ---
-title: Capitolo 2 - Forza, supertutine!
+title: Capitolo 3 - Forza, supertutine!
 weight: 5
 layout: docs
 ---

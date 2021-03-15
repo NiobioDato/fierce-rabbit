@@ -40,9 +40,4 @@ Questo capitolo rimane nella sostanza invariato nel pilota, ma il SuperCoso sar�
  
 ## Variante Finale
 
-Nella Variante Finale la normalità viene spezzata dopo poche scene da un violentissimo attacco del Nemico, preparato e messo in modo da molte puntate.
-
-Non solo, il piano del Nemico ha seriamente spezzato l’equilibrio e lo status quo, costringendo gli eroi a rischiare non solo la propria vita, ma i rapporti con le persone a sé più care.
-I modi in cui ciò accade possono essere fra i più disparati, dall’alleato che si dimostra una spia al Nemico che decide di punire gli eroi attaccando, corrompendo o imprigionando i propri familiari.
-
-Il capitolo si chiude quando i protagonisti hanno capito la natura della minaccia che li aspetta.
+Questo capitolo rimane nella sostanza invariato nel Finale, con la sola differenza che la minaccia è rappresentata dal Nemico. Per fornire la sensazione di una minaccia più perniciosa, al posto della fanteria potrebbero palesarsi i sottoposti già sconfitti dal gruppo nelle puntate precedenti.

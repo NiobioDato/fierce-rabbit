@@ -1,5 +1,5 @@
 ---
-title: Come si chiamano i robot delle tutine?
+title: Com'è fatto il Super Robot?
 weight: 12
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

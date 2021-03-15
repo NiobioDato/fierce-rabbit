@@ -46,7 +46,6 @@ Mica come quella roba che esce su KS sfruttando la forza di altri brand e facend
 
 Copper Sentai sarà un volume in brossura tutto a colori, con 48 illustrazioni dei migliori artisti internazionali, in stampa offset e rilegatura a filo refe in lino purissimo.
 
-
 Al raggiungimento del primo stretch goal, che dovrebbe essere sui 2.000 euro, aggiungeremo un secondo volume di 180 pagine di... boh, probabilmente ci metteremo alcuni mostri e un centinaio di nuove illustrazioni. Le illustrazioni sono importanti; come i LED nel PC, le illustrazioni in un gioco di ruolo aumentano le performance del 92%.
 
 

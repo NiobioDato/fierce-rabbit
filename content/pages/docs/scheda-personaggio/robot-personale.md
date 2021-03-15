@@ -35,4 +35,4 @@ oppure:
 
 Ogni Robot ha una Qualità unica che può essere usata come bonus al Rango nei Conflitti oppure per risolvere automaticamente alcune situazioni. Se il proprio Robot ha la Qualità Volo Supersonico, per esempio, non è necessaria una prova per allontanarsi in volo da una scena.
 
-<div class="note"><strong>Nota:</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle[ 3 regole delle supertutine](https://paper.dropbox.com/doc/Copper-Sentai--BF5RWtq7U28d0v1fh9Glp6q6Ag-nAGtoyxFPTjyGTpZJjlmt#:uid=134725583492942700479071\&h2=Le-tre-regole-delle-supertutin).</div>
+<div class="note"><strong>Nota:</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle 3 regole delle supertutine (https://paper.dropbox.com/doc/Copper-Sentai--BF5RWtq7U28d0v1fh9Glp6q6Ag-nAGtoyxFPTjyGTpZJjlmt#:uid=134725583492942700479071\&h2=Le-tre-regole-delle-supertutin).</div>

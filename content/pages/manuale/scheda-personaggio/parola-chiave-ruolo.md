@@ -6,7 +6,7 @@ excerpt: >-
   rendere il proprio eroe più personalizzato.
 layout: docs
 ---
-La Parola chiave di Ruolo racchiude tutte le qualità (e difetti) di uno dei cinque archetipi del [capitolo precedente](https://www.coppersentai.com/manuale/ruoli/).
+La Parola chiave di Ruolo racchiude tutte le qualità (e difetti) di uno dei cinque archetipi del [capitolo precedente](/manuale/ruoli/).
 
 Il Ruolo può essere usato dal giocatore come bonus per aumentare il Rango in un Conflitto \[p. 6], ma anche dal Narratore come malus per abbassarlo. Non contemporaneamente, ovviamente.
 

@@ -4,14 +4,31 @@ weight: 1
 layout: docs
 ---
 
-Per mantenere quel minimo di coerenza narrativa ed evitare l’effetto festa dei clown, i protagonisti di Copper Sentai devono aderire sempre a tre regole:
+Per evitare l’effetto “Narratore che gioca da solo”, un classico dell’intrattenimento ruolistico su Twitch, è sconsigliato lasciare che i Ruoli scoperti siano trattati alla stregua di personaggi non giocanti.
+Basta ricreare le dinamiche fra i Ruoli rimasti oppure fondere più Ruoli in uno.
 
-1. una supertutina non usa i suoi poteri per vantaggi personali;
-2. una supertutina difende e non attacca, perché il suo scopo è di smorzare i conflitti e non aumentarne l’intensità; 
-3. una supertutina deve mantenere segreta la sua vera identità.
 
-Se la prima e la terza regola sono piuttosto intuibili e vecchie quanto l’Uomo Ragno, la seconda probabilmente merita un minimo di contestualizzazione.
+Giocare con quattro tutine
 
-Copper Sentai prende ispirazione da show televisivi precedenti alla normalizzazione delle “guerre preventive” e delle “operazioni di pace” di gruppi armati in territori fuori dalla propria giurisdizione; i suoi eroi reagiscono ai soprusi e difendono l’umanità, ma non sono mai i primi ad aggredire e cercano attivamente di evitare la violenza.
- 
-Inoltre la seconda regola evita l’uso eccessivo della forza, con la speranza mai sopita che il Nemico si ritiri finché ne ha tempo; è per questo motivo che sia le tutine sia i robot vengono messi in gioco solo quando strettamente necessario. 
+Con quattro giocatori cambia meccanicamente poco; decidete quali Ruoli vi piacciono di più e cassate il quinto avanzato. Successivamente ricreate legami sensati fra coppie di personaggi e trovate un collante per tutto il gruppo nel caso che il Bello sia il Ruolo eliminato.
+
+
+Giocare con tre tutine
+
+Con un power trio, i tre Ruoli dovrebbero essere tutti legati da un rapporto e una relazione consolidata con dinamiche certe. 
+
+I tre Ruoli per esempio potrebbero essere Leader, Bassista carismatico e Cervellone: il Leader si fida dell’acume del Cervellone, il Cervellone è rapito dal savoir-faire del Bassista carismatico e il Bassista carismatico è in competizione feroce con il Leader. Allo stesso tempo, il Bassista carismatico potrebbe avere alcune caratteristiche di Ruolo del Bruto, mentre il Leader la temperanza e l’empatia del Bello.
+
+Per ovviare al numero limitato di giocatori e quindi di Parole chiave, si può aggiungere un secondo Hobby alle schede dei personaggi.
+
+
+Giocare con due tutine 
+
+Con un power duo, ci si può sbizzarrire con Ruoli misti e multipli Robot personali per rispondere alle esigenze di trama. 
+
+Per ovviare al numero limitato di giocatori e quindi di Parole chiave, si possono aggiungere un secondo Hobby e un secondo pregio extra-Ruolo alle schede dei personaggi. 
+
+
+Giocare con una tutina
+
+Con un solo giocatore non è più Copper Sentai, ma Kamen Rider. Molto bello, ma probabilmente richiederebbe un manuale intero solo di variazioni per farlo funzionare. 

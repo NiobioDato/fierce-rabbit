@@ -71,4 +71,16 @@ Oppure:
 
 ## Avanzamento e nuove Tappe
 
+Il SuperCoso supporta attivamente la crescita dei suoi ragazzi, donando uno dei seguenti oggetti al personaggio che supera una Tappa:
+
+
+- un nuovo casco della tutina che nega un malus ambientale leggero una volta per episodio;
+- un fischietto sonico che richiama il robot personale gratuitamente una volta per episodio;
+- un mediplasma che trasforma una Conseguenza Grave in Leggera una volta per episodio;
+- una nuova Arma creata dal SuperCoso viene aggiunta all’arsenale del personaggio.
+
+Superata una Tappa, il giocatore indicherà il suo nuovo Obiettivo e il Narratore segnerà in segreto un nuovo Ostacolo.
+
+Se tutti i personaggi hanno superato almeno una Tappa di crescita, il Narratore può pensare a qualche interessante bonus per il gruppo, come un Mega Robot, un Super Robot con +1 al Rango, oppure una versione più aggiornata e potente delle tutine.
+
 

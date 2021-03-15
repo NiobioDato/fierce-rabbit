@@ -36,7 +36,7 @@ Capitano della Flotta di Violentor il Turbomeschino, Schifilman è una creatura 
 
 
 ## Violentor il Turbomeschino
-<b>Rango</b> 5
+<b>Rango</b> 6
 <b>Contatore</b> 4
  
 Capitano della Flotta di Violentor il Turbomeschino, Schifilman è una creatura bipede chimerica, con le corna da bufalo, una proboscide nerastra da elefante e un ventre gonfio come lo zio che non riesce mai a smettere di mangiare ai buffet. 

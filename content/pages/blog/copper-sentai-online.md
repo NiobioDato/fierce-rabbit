@@ -34,7 +34,7 @@ Sì, insomma, un sacco di roba.
 
 E quindi? Be', si passa alla cassa!
 
-### &#xA;**Introducing Copper Sentai - The Real Experience**
+### Introducing Copper Sentai - The Real Experience
 
 #### ****![](https://raw.githubusercontent.com/NiobioDato/fierce-rabbit/master/public/images/copper-sentai-book.jpg)
 

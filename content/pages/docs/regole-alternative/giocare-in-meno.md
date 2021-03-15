@@ -22,7 +22,7 @@ I tre Ruoli per esempio potrebbero essere Leader, Bassista carismatico e Cervell
 Per ovviare al numero limitato di giocatori e quindi di Parole chiave, si può aggiungere un secondo Hobby alle schede dei personaggi.
 
 
-Giocare con due tutine 
+## Giocare con due tutine 
 
 Con un power duo, ci si può sbizzarrire con Ruoli misti e multipli Robot personali per rispondere alle esigenze di trama. 
 

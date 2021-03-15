@@ -34,4 +34,4 @@ Questo capitolo rimane nella sostanza invariato, ma sarà il SuperCoso a chiamar
  
 ## Variante Finale
 
-Questo capitolo rimane nella sostanza invariato nel Finale, con la sola differenza che la minaccia è rappresentata dal Nemico. Per fornire la sensazione di una minaccia più perniciosa, al posto della fanteria potrebbero palesarsi i sottoposti già sconfitti dal gruppo nelle puntate precedenti.
+Questo capitolo rimane nella sostanza invariato, anche se il Nemico ha un Rango sensibilmente superiore ai suoi sottoposti e più Qualità spendibili per complicare il Conflitto. 

@@ -23,6 +23,6 @@ Le Tappe di crescita devono essere condivise da coppie di personaggi, in modo ch
 Per equilibrare la sfida, gregari e Nemico vedono il proprio Rango aumentare di +1, e il Narratore parte con 6 gettoni mentre i giocatori con 4.
 
 
-Giocare con otto tutine
+## Giocare con otto tutine
 
 Non… non credo sia davvero una buona idea. Fare un multitavolo, magari?

@@ -40,7 +40,6 @@ E quindi? Be', si passa alla cassa!
 
 Se c'è una cosa che funziona alla grande in Italia è l'editoria indipendente. Persone indigenti hanno investito qualche migliaio di euro in progetti a prima vista spinti da sola vanità e BAM!, ora sono più ricchi di un sultano e più spietati dei suoi torturatori di corte!
 
-
 Per questo motivo, forte della mia esperienza che vi racconterò mentre cerco di posizionarmi con papiri soporiferi nei maggiori gruppi del settore, anch'io ho deciso di lanciare il mio prodotto sul mercato. Qualcosa di fresco, reale, davvero indipendente.
 
 

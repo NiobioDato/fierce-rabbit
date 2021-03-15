@@ -1,6 +1,6 @@
 ---
 title: Conseguenze
-weight: 3
+weight: 4
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---

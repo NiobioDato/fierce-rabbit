@@ -44,8 +44,9 @@ Il Nemico giurato dell’umanità, è ricercato in tutta la Via Lattea per il su
 ### Qualità
 <b>[Occhiata tremenda]</b> Lo sguardo perentorio di Violentor piega anche le volontà più ferree. Gli eroi che affrontano faccia a faccia il Nemico subiscono un malus di -1 al Rango.
 
-<b>[Veterano di mille tutine]</b> 
-> La Mossa segreta non manda fuori scena Violentor ma dimezza soltanto il numero di fasi del Contatore da esaurire.
+<b>[Veterano di mille tutine]</b> La Mossa segreta non manda fuori scena Violentor ma dimezza soltanto il numero di fasi del Contatore da esaurire.
+
+
 
 
 ### Qualità Superiore

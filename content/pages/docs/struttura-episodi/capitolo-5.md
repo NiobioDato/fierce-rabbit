@@ -22,7 +22,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto, possibilmente se
 
 <i>Ekaterina prova a rispondere con i suoi poteri ipnotici, ma i piloti, ora che sono insieme nella stessa cabina, sembrano immuni a qualsiasi cosa li possa dividere.</i>
 
-<i>Cristiano, grazie alla Qualità Volo Supersonico del suo Galahadroid, si lancia contro la torre provando a buttarla giù con una spallata, mentre gli altri quattro distraggono Ekaterina usando le loro Qualità.</i>
+<i>Con pochi fendenti della spada, Ekaterina è in ginocchio. È il momento di chiudere il combattimento con il Colpo finale, il Pendragon Special Slash. Dopo un’esplosione gigantesca, di Ekaterina non v’è più traccia. Che sia scappata o meno non importa; la città è salva!</i>
 
 <i>Per un soffio, Cristiano riesce a sradicare la Torre prima che Ekaterina lo blocchi con la sua Qualità Superiore, Pattern ipnotico.</i>
 

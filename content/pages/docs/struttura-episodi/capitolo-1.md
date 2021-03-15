@@ -4,17 +4,17 @@ weight: 3
 layout: docs
 ---
 
-Copper Sentai dà il meglio di sé quando giocato per un’intera stagione di un’ipotetica serie televisiva di supertutine.
+Il primo capitolo dell’episodio si concentra sulla quotidianità dei ragazzi, alle prese con i problemi e i dubbi classici dell’adolescenza. 
 
-Una stagione standard è formata da un episodio pilota, cinque episodi centrali e un episodio finale.
+Nel capitolo Vita vissuta i personaggi non vestono mai i panni dei propri alter ego, né tantomeno si preoccupano troppo della silenziosa minaccia del Nemico; la prima parte dell’episodio è dedicato alle relazioni interpersonali fra i personaggi e alla loro formazione, emotiva e caratteriale.
 
-Nell’episodio pilota si giocano le origini del gruppo, la scoperta del SuperCoso e il primo contatto con il Nemico.
+In Vita vissuta si pone generalmente al centro l’Ostacolo di uno dei protagonisti, che dovrà superare senza utilizzare i poteri conferiti dalla tutina e dal dispositivo di trasformazione. Gli altri personaggi potranno aiutarlo a superare il Conflitto nel modo che più ritengono affine alla propria personalità e al Ruolo che ricoprono. 
 
-Ogni episodio centrale vede il gruppo alle prese con uno o più sottoposti del Nemico, mentre uno dei protagonisti tenta di superare un Ostacolo alla propria Tappa di crescita. L’idea è che ognuno degli episodi si concentri in modo particolare su uno dei protagonisti, pur mantenendo l’agenzia di tutti gli altri.
+Il personaggio legato per Ruolo al protagonista della puntata, come per esempio il Bassista carismatico per il Leader, dovrà fungere da deuteragonista, con il Bello che farà da ponte con gli altri due Ruoli meno emotivamente coinvolti dalla storia raccontata. 
+Nel caso il protagonista sia proprio il Bello, be’, tutti vogliono aiutarlo. 
 
-L’episodio finale vede il supergruppo resistere all’attacco finale del Nemico, superare la crisi e avviarsi verso il prologo felice della stagione. Per un minimo di pepe in più, l’episodio può essere diviso in due parti e fornire così l’unico colpo di scena dell’intera esperienza di gioco.
+Il capitolo Vita vissuta si chiude con l’Ostacolo superato, oppure complicato dai sottoposti del Nemico, infiltratisi nella vita della comunità per i loro turpi scopi.
 
-La struttura che vedremo in seguito è pensata per gli episodi centrali, ma ogni capitolo offre eventuali variazioni per il pilota e il finale di stagione quando necessarie.
 
 <div class="note">
   <strong>Nota:</strong> la stagione può essere anche più lunga, nel caso si attivino più Tappe di crescita, o più corta, nel caso si riesca a raccontare la crescita di più di un protagonista per puntata.

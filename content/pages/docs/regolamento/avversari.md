@@ -50,6 +50,7 @@ Il Nemico giurato dell’umanità, è ricercato in tutta la Via Lattea per il su
 
 <b>[Frusta laser | 1 Gettone]</b> Niente è fuori dalla portata della frusta più veloce della Galassia. Il personaggio colpito dalla frusta durante una prova di un Conflitto deve ritirare il dado più alto e utilizzare quel risultato.
 
+### Qualità Superiore 
 
 
 

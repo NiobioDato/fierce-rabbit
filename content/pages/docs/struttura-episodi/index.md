@@ -9,7 +9,6 @@ A un’analisi anche superficiale, è chiaro che l’impalcatura di queste stori
 
 Ci sono tre cose che sono sempre certe, in Copper Sentai:
 
-
 1. il Nemico non può vincere;
 2. ai civili non viene fatto davvero male;
 3. se l’episodio non ha un “Parte 1” in chiusura del titolo, i protagonisti non rischiano nemmeno incidenti temporanei.

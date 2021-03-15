@@ -1,6 +1,6 @@
 ---
 title: Capitolo 1 - Vita Vissuta
-weight: 23
+weight: 3
 layout: docs
 ---
 

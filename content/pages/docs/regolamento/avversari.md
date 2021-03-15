@@ -10,7 +10,6 @@ Vediamo un paio di esempi.
 
 ## Droni Ninja dell’Onnicrimine
 
-
 <b>Rango</b> 3
 <b>Contatore</b> 4
 

@@ -5,7 +5,8 @@ layout: docs
 ---
 
 <div class="note">
-  <strong>Nota:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+  <strong>Nota:</strong> La stagione può essere anche più lunga, nel caso si attivino più Tappe di crescita, o più corta, nel caso si riesca a raccontare la crescita di più di un protagonista per puntata.
+.
 </div>
 
 ### Syntax highlighting

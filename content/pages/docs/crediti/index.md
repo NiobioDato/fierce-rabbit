@@ -10,7 +10,7 @@ Niente editing esterno, niente grafici bravi, niente illustratori. Questo è un 
 
 Ringrazio solo <b>Nicola Santagostino</b> per il fantastico toolbox che ha scritto in coppia con <b>Antonio Rossetti</b>.
 
-Ah, questo manuale che vedete è montato su un sito statico gentilmente offerto da Stackbit, che è un servizio un po' hipster per chi vuole
+Ah, questo manuale che vedete è montato su un sito statico gentilmente offerto da Stackbit, che è un servizio un po' hipster per chi vuole il meglio del meglio senza spender
 
 <div class="note">
   <strong>Note:</strong> 

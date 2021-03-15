@@ -63,10 +63,8 @@ La Tappa non viene superata soltanto nel caso in cui il personaggio non impari n
 
 Esempio:
 
-
 > Vanessa non accetta le sirene di un misterioso programma che promette di trasferire cinque anni di studio di una materia in tre comode tracce audio da ascoltare mentre si dorme. Fortunatamente: era l’ennesimo piano del Nemico per schiavizzare l’umanità! Vanessa decide che l’Accademia va meritata col proprio impegno, e chiede una mano a Terenzio per una full immersion di due settimane sugli integrali.
 
 Oppure:
-
 
 > Giampiero segue il nuovo ragazzo fino a casa per scoprire quale sia il suo sordido segreto. Come può aver conquistato Stefano così velocemente, del resto? C’è puzza di Nemico! Eppure, dopo aver perso una nottata a spiare la camera del suo avversario in amore, Giampiero non scopre niente. Per questa mancanza di giudizio, si trova a dover affrontare uno dei Generali del Nemico il giorno dopo senza aver dormito neanche un’ora. Sconfitto il patetico Lord Splendor, Giampiero si mette l’anima in pace: se vuoi bene a una persona, vuoi la sua felicità, anche se non la condivide con te.

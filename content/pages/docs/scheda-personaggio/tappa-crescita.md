@@ -36,19 +36,18 @@ Durante i capitoli Vita vissuta degli episodi, il personaggio deve cercare di pe
 
 <div class="note"><strong>Nota:</strong> il Narratore può utilizzare un Obiettivo come spinta propulsiva di un intero episodio, incentrando il capitolo di Vita vissuta su un solo personaggio.</div>
 
-## Mossa segreta
+## L’Ostacolo di una Tappa di crescita
 
-La mossa segreta è l’arma più potente nell’arsenale dell’eroe quando appiedato, oltre a essere un metodo efficace per chiudere un combattimento nel modo più spettacolare e tamarro possibile.
+Che crescita sarebbe senza un ostacolo che mette alla prova la fibra morale, la volontà e le intenzioni dei protagonisti?
 
-Quando lanciata, la Mossa segreta azzera il Contatore \[p. 11] del Conflitto, chiudendo di conseguenza la scena.
+Per ogni Obiettivo, il Narratore segna in un foglio segreto un Ostacolo al suo raggiungimento.
 
-Per lanciarla, è necessario spendere due Gettoni \[p. 11] dalla riserva in possesso dei giocatori, come spiegato nella sezione più in basso.
+L’Ostacolo può essere qualsiasi cosa purché si tratti di un intralcio che, se superato, farà crescere il ragazzo e gli insegnerà un’importante lezione di vita.
 
-Si può usare una sola Mossa segreta per Episodio, perciò è consigliabile trovare un modo per coinvolgere tutti gli eroi nel suo funzionamento.
+Esempio:
 
-Per esempio:
+> La preside della scuola chiama Vanessa ed è un bel guaio: i suoi voti in matematica sono troppo bassi perché possa essere accettata all’accademia; oltre a grandi atleti, si aspettano anche studenti modello. Vanessa ha due settimane per provare a dare un esame di riparazione di matematica e migliorare la sua media.
 
-> «Spendo due Gettoni per attivare la Mossa segreta di Sofia, il Banksy Piledriver. I suoi compagni circondano il nemico sui quattro lati, mentre creano con il dispositivo di trasformazione delle corde di un ring fatte di pura luce.
-> Sofia corre verso Schifilman il Fetente con il braccio destro teso perpendicolarmente al corpo e lo colpisce con una clothesline. Lo prende subito dopo per le corna, sale sulle corde e urlando “morte al consumismo alieno” si lancia in un piledriver così potente che il mostro si irrigidisce in una curiosa posa a banana.»
+oppure:
 
-Ovviamente è obbligatorio, quando si gioca al tavolo e non in remoto, mimare tutte le mosse e urlare come ossessi.
+> Giampiero sta per aprirsi a Stefano quando scopre che sta già frequentando qualcun altro; un ragazzo bellissimo appena trasferitosi da un’altra scuola. C’è qualcosa di strano in lui; è solo gelosia oppure il nuovo arrivato nasconde qualcosa?

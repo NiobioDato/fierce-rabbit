@@ -32,4 +32,5 @@ Questo capitolo rimane nella sostanza invariato, ma sarà il SuperCoso a chiamar
  
 ## Variante Finale
 
-Questo capitolo rimane nella sostanza invariato, anche se il Nemico ha un Rango sensibilmente superiore ai suoi sottoposti e più Qualità spendibili per complicare il Conflitto. Per complicare la questione, i suoi sottoposti potrebbero apparire in forma titanica al suo fianco. Al contrario degli episodi standard, i titani che non sono il Nemico possono essere sconfitti anche dai robot singoli.
+Al contrario degli episodi normali, sono i giocatori a dover superare il Conflitto. Il Super Robot rimane di Rango 6 e l’arma fornisce sempre un +1 quando usata per colpire, per il resto si possono usare come bonus tutte le Parole chiave degli eroi tolte le armi e le mosse segrete.
+Allo scadere del Contatore, i giocatori possono descrivere una nuova trasformazione dell’arma capace di far scomparire per sempre il Nemico dalla Terra. 

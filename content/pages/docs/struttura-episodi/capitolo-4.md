@@ -29,7 +29,7 @@ Il capitolo si conclude quando il supergruppo raggiunge un obiettivo specifico, 
 
 ## Variante Pilota
 
-Questo capitolo rimane nella sostanza invariato, ma sarà il SuperCoso a chiamare la trasformazione per la prima volta e ha spiegare brevemente il funzionamento del loro equipaggiamento a livello narrativo.
+Questo capitolo rimane nella sostanza invariato, ma sarà il SuperCoso a chiamare i robot per la prima volta e spiegare brevemente il loro funzionamento a livello narrativo.
 
  
 ## Variante Finale

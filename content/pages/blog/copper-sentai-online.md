@@ -52,7 +52,7 @@ Figo, no?
 
 ### Oppure torniamo alle basi, eh?
 
-Tipo che un gioco non necessariamente si vende, perché non necessariamente è un prodotto. Esiste merito e dignità anche per gli hack o i titoli da una pagina gratuiti, che fortunatamente ora ci possiamo passare via etere
+Tipo che un gioco non necessariamente si vende, perché non necessariamente è un prodotto. Esiste merito e dignità anche per gli hack o i titoli da una pagina gratuiti, che fortunatamente ora ci possiamo passare via etere e non rimangono strambi esperimenti che si diffondono da tavolo a tavolo
 
 #### Crediti
 

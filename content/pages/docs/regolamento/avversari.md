@@ -28,6 +28,7 @@ Capitano della Flotta di Violentor il Turbomeschino, Schifilman è una creatura 
  
 ### Qualità
 [Fetore nauseabondo] Quando attaccato in corpo a corpo, Schifilman rilascia una puzza capace di impregnare vestiti e passare anche dai filtri dei caschi delle supertutine. Tutti i personaggi in scena subiscono un Effetto ambientale leggero.
+
 [Bomba disgustosa | 1 Gettone] Con un suono francamente rivoltante e inaccettabile in qualsivoglia società civilizzata, Schifilman rilascia dalla bocca una palla di muco verdastro che esplode al contatto con una superficie. Tutti i personaggi in scena vengono assaliti da una forte nausea che rende qualsiasi azione complicata, applicando così un malus come Effetto ambientale estremo.
 
 ### Qualità Superiore

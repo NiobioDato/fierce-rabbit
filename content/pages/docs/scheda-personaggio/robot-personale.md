@@ -26,10 +26,13 @@ oppure:
 
 > Artemisbot è un robot Umanoide che somiglia ad Artemide e la sua Qualità è l’Inseguimento divino.
 
-Importante: gli armamenti, gli attacchi e le capacità fisiche del robot non possono essere Qualità perché già calcolati nell’aumento al Rango 2 del personaggio mentre lo pilota.
+
+
+\<div class="important">\<strong>Importante:\</strong> gli armamenti, gli attacchi e le capacità fisiche del robot non possono essere Qualità perché già calcolati nell’aumento al Rango 2 del personaggio mentre lo pilota.\</div>
+
 
 ## Qualità del Robot
 
 Ogni Robot ha una Qualità unica che può essere usata come bonus al Rango nei Conflitti oppure per risolvere automaticamente alcune situazioni. Se il proprio Robot ha la Qualità Volo Supersonico, per esempio, non è necessaria una prova per allontanarsi in volo da una scena.
 
-Nota: Il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle[ 3 regole delle supertutine](https://paper.dropbox.com/doc/Copper-Sentai--BF5RWtq7U28d0v1fh9Glp6q6Ag-nAGtoyxFPTjyGTpZJjlmt#:uid=134725583492942700479071\&h2=Le-tre-regole-delle-supertutin).
+\<div class="note">\<strong>Nota:\</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle[ 3 regole delle supertutine](https://paper.dropbox.com/doc/Copper-Sentai--BF5RWtq7U28d0v1fh9Glp6q6Ag-nAGtoyxFPTjyGTpZJjlmt#:uid=134725583492942700479071\&h2=Le-tre-regole-delle-supertutin).\</div>

@@ -40,7 +40,7 @@ E quindi? Be', si passa alla cassa!
 
 Se c'è una cosa che funziona alla grande in Italia è l'editoria indipendente. Persone indigenti hanno investito qualche migliaio di euro in progetti a prima vista spinti da sola vanità e BAM!, ora sono più ricchi di un sultano e più spietati dei suoi torturatori di corte!
 
-Per questo motivo, forte della mia esperienza che vi racconterò mentre cerco di posizionarmi con papiri soporiferi nei maggiori gruppi del settore, anch'io ho deciso di lanciare il mio prodotto sul mercato. Qualcosa di fresco, reale, davvero indipendente.
+Per questo motivo, forte della mia esperienza che vi racconterò mentre cerco di posizionarmi con papiri soporiferi nei maggiori gruppi di discussione del settore, anch'io ho deciso di lanciare il mio prodotto sul mercato. Qualcosa di fresco, reale, davvero indipendente.
 
 
 Mica come quella roba che esce su KS sfruttando la forza di altri brand e facendo soldi perché hanno individuato un target che acquista, oh!

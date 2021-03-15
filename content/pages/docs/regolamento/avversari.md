@@ -44,7 +44,9 @@ Il Nemico giurato dell’umanità, è ricercato in tutta la Via Lattea per il su
 ### Qualità
 <b>[Occhiata tremenda]</b> Lo sguardo perentorio di Violentor piega anche le volontà più ferree. Gli eroi che affrontano faccia a faccia il Nemico subiscono un malus di -1 al Rango.
 
-<b>[Veterano di mille tutine]</b> Con un suono francamente rivoltante e inaccettabile in qualsivoglia società civilizzata, Schifilman rilascia dalla bocca una palla di muco verdastro che esplode al contatto con una superficie. Tutti i personaggi in scena vengono assaliti da una forte nausea che rende qualsiasi azione complicata, applicando così un malus come Effetto ambientale estremo.
+<b>[Veterano di mille tutine]</b> 
+> La Mossa segreta non manda fuori scena Violentor ma dimezza soltanto il numero di fasi del Contatore da esaurire.
+
 
 ### Qualità Superiore
 <b>[Nuvola pestilenziale | 2 Gettoni]</b> In forma titanica, Schifilman può rilasciare dalla proboscide una fitta coltre di nebbia color senape, ampia abbastanza da avvolgere un intero quartiere. La nuvola ha due effetti: si attiva un Contatore da 6 che rappresenta la salute degli abitanti del quartiere; il Contatore del Colpo Finale non si muove fintantoché Schifilman è ancora nella nebbia.

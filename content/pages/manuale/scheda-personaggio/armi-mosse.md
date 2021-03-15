@@ -38,7 +38,7 @@ La mossa segreta è l’arma più potente nell’arsenale dell’eroe quando app
 
 Quando chiamata, la Mossa segreta azzera il Contatore \[p. 11] del Conflitto, chiudendo di conseguenza la scena.
 
-Per lanciarla, è necessario spendere due Gettoni \[p. 11] dalla riserva in possesso dei giocatori, come spiegato nella sezione più in basso.
+Per lanciarla, è necessario spendere due Gettoni \[p. 11] dalla riserva in possesso dei giocatori, come spiegato nella [sezione più in basso](/manuale/regolamento/gettoni/).
 
 Si può usare una sola Mossa segreta per Episodio, perciò è consigliabile trovare un modo per coinvolgere tutti gli eroi nel suo funzionamento.
 

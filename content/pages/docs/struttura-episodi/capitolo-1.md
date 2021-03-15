@@ -45,8 +45,3 @@ Non solo, il piano del Nemico ha seriamente spezzato l’equilibrio e lo status 
 I modi in cui ciò accade possono essere fra i più disparati, dall’alleato che si dimostra una spia al Nemico che decide di punire gli eroi attaccando, corrompendo o imprigionando i propri familiari.
 
 Il capitolo si chiude quando i protagonisti hanno capito la natura della minaccia che gli aspetta.
-
-
-<div class="note">
-  <strong>Nota:</strong> la stagione può essere anche più lunga, nel caso si attivino più Tappe di crescita, o più corta, nel caso si riesca a raccontare la crescita di più di un protagonista per puntata.
-</div>

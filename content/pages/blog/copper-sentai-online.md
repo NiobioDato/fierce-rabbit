@@ -18,7 +18,6 @@ Partito come uno spunto di poche righe, non dissimile allo spassoso *Geronimo!* 
 
 In Copper Sentai trovate:
 
-
 1.  una guida di world building pezzotta con alcuni generatori casuali che fanno molto OSR;
 
 2.  regole personalizzate per la costruzione dei personaggi;

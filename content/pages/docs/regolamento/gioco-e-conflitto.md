@@ -1,5 +1,5 @@
 ---
-title: Regolamento
+title: Gioco e Conflitto
 weight: 0
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs

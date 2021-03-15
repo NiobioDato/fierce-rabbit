@@ -11,7 +11,7 @@ Vediamo un paio di esempi.
 ## Droni Ninja dell’Onnicrimine
 
 
-<b>Rango 3
+<b>Rango</b> 3
 Contatore 4
 
 I droni ninja sono la carne da cannone dell’associazione di stampo onnimafioso. Sufficienti per spaventare il lattaio di quartiere, disturbare i bambini nel parco giochi oppure guadagnare tempo per l’entrata in scena del Capobastone. 

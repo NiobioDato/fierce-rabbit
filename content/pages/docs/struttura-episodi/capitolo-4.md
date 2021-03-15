@@ -24,9 +24,7 @@ Il capitolo si conclude quando il supergruppo raggiunge un obiettivo specifico, 
 
 <i>Per un soffio, Cristiano riesce a sradicare la Torre prima che Ekaterina lo blocchi con la sua Qualità Superiore, Pattern ipnotico.</i>
 
-<i>Teresa è stanca e preoccupata per le ferite dei propri compagni, perciò non perde ulteriore tempo e usa la sua Mossa Segreta, Magnum cum Laude: impugna il suo cannone portatile e prende la mira, mentre gli altri quattro cavalieri le donano la loro energia con la punta della loro spada.</i>
-
-<i>La Magnum esplode un proiettile di luce che taglia l’aria come un rasoio e colpisce Ekaterina che capitombola dalla finestra per l’impatto.</i>
+<i>Ora che la città è salva, è il momento di chiudere la battaglia.</i>
 
 
 ## Variante Pilota

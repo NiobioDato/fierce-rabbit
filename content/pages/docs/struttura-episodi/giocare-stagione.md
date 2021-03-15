@@ -16,8 +16,6 @@ L’episodio finale vede il supergruppo resistere all’attacco finale del Nemic
 
 La struttura che vedremo in seguito è pensata per gli episodi centrali, ma ogni capitolo offre eventuali variazioni per il pilota e il finale di stagione quando necessarie.
 
-
-
 <div class="note">
   <strong>Nota:</strong> la stagione può essere anche più lunga, nel caso si attivino più Tappe di crescita, o più corta, nel caso si riesca a raccontare la crescita di più di un protagonista per puntata.
 </div>

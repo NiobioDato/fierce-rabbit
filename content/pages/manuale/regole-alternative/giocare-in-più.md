@@ -16,7 +16,7 @@ Il Lupo Solitario ha un Pregio di Ruolo ed extra-Ruolo aggiuntivo e guida un Sup
 
 ## Giocare con sette tutine
 
-Si può aggiungere il Lupo Solitario più una delle varianti di Ruolo mostrate nella creazione del personaggio oppure due varianti di Ruolo.
+Si può aggiungere il Lupo Solitario più <a href="/manuale/ruoli/archetipi/">una delle varianti di Ruolo mostrate nella creazione del personaggio oppure due varianti di Ruolo.
 
 Le Tappe di crescita devono essere condivise da coppie di personaggi, in modo che lo stesso Ostacolo venga superato da più giocatori contemporaneamente.
 

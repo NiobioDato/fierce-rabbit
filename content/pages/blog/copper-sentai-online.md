@@ -55,8 +55,7 @@ Figo, no?
 ### Oppure
 
 Oppure gli hobbyisti continuano a fare gli hobbyisti, e i professionisti i professionisti. Si possono scrivere giochi di ruolo ed esperienze fantastiche senza creare prodotti. Ho visto creare fantastici prodotti senza che qualcuno scrivesse un vero gioco di ruolo, e va bene pure quello! 
-
-
+Ma non tutti i giochi vanno pubblicati a pagamento
 
 
 #### Crediti

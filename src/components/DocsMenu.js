@@ -13,7 +13,7 @@ export default class DocsMenu extends React.Component {
         return (
             <nav id="docs-nav" className="docs-nav">
               <div id="docs-nav-inside" className="docs-nav-inside sticky">
-                <button id="docs-nav-toggle" className="docs-nav-toggle">Navigate Docs<span className="icon-angle-right" aria-hidden="true" /></button>
+                <button id="docs-nav-toggle" className="docs-nav-toggle">Sfoglia le sottosezioni<span className="icon-angle-right" aria-hidden="true" /></button>
                 <div className="docs-nav-menu">
                   <ul id="docs-menu" className="docs-menu">
                     <li className={classNames('docs-menu-item', {'current': _.get(page, '__metadata.urlPath', null) === _.get(root_page, '__metadata.urlPath', null)})}>

@@ -5,7 +5,7 @@ layout: docs
 ---
 
 <div class="note">
-  <strong>Nota:</strong> La stagione può essere anche più lunga, nel caso si attivino più Tappe di crescita, o più corta, nel caso si riesca a raccontare la crescita di più di un protagonista per puntata.
+  <strong>Nota:</strong> la stagione può essere anche più lunga, nel caso si attivino più Tappe di crescita, o più corta, nel caso si riesca a raccontare la crescita di più di un protagonista per puntata.
 </div>
 
 ### Syntax highlighting

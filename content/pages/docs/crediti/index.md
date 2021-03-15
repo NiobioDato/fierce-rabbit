@@ -5,7 +5,7 @@ excerpt: >-
 layout: docs
 ---
 
-I ringraziamenti sono molto brevi, perché questo prodotto è specificamente nato per essere iniziato e finito dal solo Massimiliano Palloni, che poi sarei io. Niente editing esterno
+I ringraziamenti sono molto brevi, perché questo prodotto è specificamente nato per essere iniziato e finito dal solo Massimiliano Palloni, che poi sarei io. Niente editing esterno, niente grafici bravi
 
 <div class="note">
   <strong>Note:</strong> 

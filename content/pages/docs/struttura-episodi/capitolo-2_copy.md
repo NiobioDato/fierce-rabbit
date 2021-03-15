@@ -22,7 +22,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo
 
 <i>Serena capisce dopo poco che gli occhi li stanno tradendo, e chiede a tutti di chiuderli e usare soltanto l’udito: Ekaterina ha perso il suo vantaggio tattico ed è costretta ora a combattere senza trucchi.</i>
 
-<i>Teresa è stanca e preoccupata per le ferite dei propri compagni, perciò non perde ulteriore tempo e usa la sua Mossa Segreta, Magnum cum Laude: impugna il suo cannone portatile e prende la mira, mentre gli altri quattro cavalieri le donano la loro energia con la punta della loro spada. La Magnum esplode un proiettile di luce che taglia l’aria come un rasoio e colpisce Ekaterina che capitombola dalla finestra per l’impatto.</i>
+<i>Teresa è stanca e preoccupata per le ferite dei propri compagni, perciò non perde ulteriore tempo e usa la sua Mossa Segreta, Magnum cum Laude: impugna il suo cannone portatile e prende la mira, mentre gli altri quattro cavalieri le donano la loro energia con la punta della loro spada. La Magnum esplode un proiettile di luce che taglia l’aria come un rasoio e colpisce Ekaterina che capitombola dalla finestra per l’impatto. </i>
 
 <i>Utilizzando le proprie abilità marziali e un po’ di ingegno, il supergruppo sconfigge le truppe del Nemico e può finalmente entrare nell’edificio.</i>
 

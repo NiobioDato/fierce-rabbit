@@ -1,5 +1,5 @@
 ---
-title: Capitolo 5 - Attacco del titano
+title: Capitolo 5 - Scontro fra titani
 weight: 7
 layout: docs
 ---

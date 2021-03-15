@@ -22,7 +22,7 @@ Il capitolo si conclude quando il supergruppo raggiunge un obiettivo specifico, 
 
 <i>Cristiano, grazie alla Qualità Volo Supersonico del suo Galahadroid, si lancia contro la torre provando a buttarla giù con una spallata, mentre gli altri quattro distraggono Ekaterina usando le loro Qualità.</i>
 
-<i>Serena capisce dopo poco che gli occhi li stanno tradendo, e chiede a tutti di chiuderli e usare soltanto l’udito: Ekaterina ha perso il suo vantaggio tattico ed è costretta ora a combattere senza trucchi.</i>
+<i>Per un soffio, Cristiano riesce a sradicare la Torre prima che Ekaterina lo blocchi con la sua Qualità Superiore, Pattern ipnotico.</i>
 
 <i>Teresa è stanca e preoccupata per le ferite dei propri compagni, perciò non perde ulteriore tempo e usa la sua Mossa Segreta, Magnum cum Laude: impugna il suo cannone portatile e prende la mira, mentre gli altri quattro cavalieri le donano la loro energia con la punta della loro spada.</i>
 

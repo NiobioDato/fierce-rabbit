@@ -1,5 +1,5 @@
 ---
-title: Chi è il SuperCoso?
+title: Come si chiama il SuperCoso?
 weight: 5
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

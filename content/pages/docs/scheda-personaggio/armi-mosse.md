@@ -9,6 +9,7 @@ Vestire la tutina sblocca una nuova categoria di Parole chiave, utilissime per f
 ## Arma
 
 L'Arma è lo strumento con cui la tutina aumenta significativamente le capacità combattive del protagonista.
+
 L’Arma, oltre a essere in sostanza un bonus al Rango costante durante i combattimenti, offre un potere secondario unico per chi la impugna.
 
 Il potere secondario può essere tematico col resto dei personaggi –⁠ per esempio il potere di creare un getto d’acqua potentissimo per la supertutina blu di un supergruppo basato sui cinque elementi – oppure assolutamente indipendente.
@@ -35,7 +36,7 @@ Durante un Conflitto non è possibile aumentare il Rango contemporaneamente col 
 
 La mossa segreta è l’arma più potente nell’arsenale dell’eroe quando appiedato, oltre a essere un metodo efficace per chiudere un combattimento nel modo più spettacolare e tamarro possibile.
 
-Quando lanciata, la Mossa segreta azzera il Contatore \[p. 11] del Conflitto, chiudendo di conseguenza la scena.
+Quando chiamata, la Mossa segreta azzera il Contatore \[p. 11] del Conflitto, chiudendo di conseguenza la scena.
 
 Per lanciarla, è necessario spendere due Gettoni \[p. 11] dalla riserva in possesso dei giocatori, come spiegato nella sezione più in basso.
 

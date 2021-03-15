@@ -52,7 +52,7 @@ Figo, no?
 
 ### Oppure torniamo alle basi, eh?
 
-Tipo di scrivere giochi per far giocare la gente e, magari, pubblicare PRODOTTI
+Tipo che un gioco non necessariamente si vende, perché non necessariamente è un prodotto.
 
 #### Crediti
 

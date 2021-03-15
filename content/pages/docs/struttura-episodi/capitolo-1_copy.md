@@ -26,7 +26,9 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 <i>Il gruppo raggiunge il luogo in pochi minuti, ma viene bloccata all’entrata dai Pedoni, la fanteria tecno-organica del Cavaliere Grigio.</i>
 
-<i>Teresa riesce fortunatamente a passare il Conflitto, e può quindi aprirsi con Cristiano, il suo migliore amico e il Bruto del gruppo.</i>
+<i>
+> Utilizzando le proprie abilità marziali e un po’ di ingegno, il supergruppo sconfigge le truppe del Nemico e può finalmente entrare nell’edificio.
+.</i>
 
 <i>Questo le consiglia di fare una bella vendita di torte salate, bibite analcoliche e dolcetti durante la fiera cittadina di quel fine settimana. Gioacchino il Bello decide subito di aiutare mettendosi ai fornelli; il suo sogno del resto è quello di fare come Mestiere il cuoco.</i>
 

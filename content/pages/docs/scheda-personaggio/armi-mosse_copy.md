@@ -6,7 +6,9 @@ excerpt: >-
   del Nemico.
 layout: docs
 ---
-Vestire la tutina sblocca una nuova categoria di Parole chiave, utilissime per far polpette dei tanti ninja senza nome o del Cattivo della Settimana™ che ha sottovalutato il potere dell’amicizia e del consumo consapevole.
+Per i protagonisti di Copper Sentai, combattere il Nemico e i suoi scherani è la parte più facile della giornata. I problemi veri nascono fra i banchi di scuola, sulle panchine dei parchi e sui campi sportivi, durante le piccole e grandi crisi adolescenziali che sembrano spesso insuperabili.
+
+Le Tappe di crescita aiutano giocatori e Narratore a concentrare il capitolo Vita vissuta sulle storie quotidiane dei ragazzi e sulle loro aspirazioni e desideri, fuori dai loro obblighi da supereroi.
 
 ## Arma
 

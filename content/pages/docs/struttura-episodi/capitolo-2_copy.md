@@ -1,5 +1,6 @@
 ---
-title: Capitolo 2 - Minaccia della settimana
+title: Capitolo 2 - 
+Forza, supertutine!
 weight: 5
 layout: docs
 ---

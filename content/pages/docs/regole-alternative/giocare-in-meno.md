@@ -8,7 +8,7 @@ Per evitare l’effetto “Narratore che gioca da solo”, un classico dell’in
 Basta ricreare le dinamiche fra i Ruoli rimasti oppure fondere più Ruoli in uno.
 
 
-Giocare con quattro tutine
+## Giocare con quattro tutine
 
 Con quattro giocatori cambia meccanicamente poco; decidete quali Ruoli vi piacciono di più e cassate il quinto avanzato. Successivamente ricreate legami sensati fra coppie di personaggi e trovate un collante per tutto il gruppo nel caso che il Bello sia il Ruolo eliminato.
 

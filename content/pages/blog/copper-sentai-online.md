@@ -54,7 +54,7 @@ Figo, no?
 
 ### Oppure
 
-Oppure gli hobbyisti continuano a fare gli hobbyisti, e i professionisti i professionisti. Si possono scrivere giochi di ruolo ed esperienze fantastiche senza creare prodotti. Ho visto creare fantastici prodotti senza che qualcuno scrivesse un vero gioco di ruolo, e va bene pure quello.
+Oppure gli hobbyisti continuano a fare gli hobbyisti, e i professionisti i professionisti. Si possono scrivere giochi di ruolo ed esperienze fantastiche senza creare prodotti. Ho visto creare fantastici prodotti senza che qualcuno scrivesse un vero gioco di ruolo, e va bene pure quello! Ma Copper Sentai nasce proprio con questo scopo: scrivere una roba
 
 
 #### Crediti

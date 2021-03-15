@@ -20,8 +20,7 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 <i>Non sembrano rispondere agli stimoli esterni, e continuano a ripetere incessantemente “Servire il potente Cavaliere Grigio è giusto. Servire il potente Cavaliere Grigio è corretto”. 
 </i>
 
-<i>Jimbo il Gorilla senziente, il SuperCoso del gruppo, ha analizzato la situazione e svela si tratti di una potente ipnosi via onde televisive; è una fortuna che il loro dispositivo di trasformazione li schermi dai suoi effetti nefasti! 
-</i>
+<i>Jimbo il Gorilla senziente, il SuperCoso del gruppo, ha analizzato la situazione e svela si tratti di una potente ipnosi via onde televisive; è una fortuna che il loro dispositivo di trasformazione li schermi dai suoi effetti nefasti! </i>
 
 <i>I genitori confessano alla figlia di essere nel mezzo di una pesante crisi economica e di non aver avuto il coraggio di dirglielo; il padre la ammonisce che nessuno col suo cognome perderà mai la dignità andando a mendicare fra amici e conoscenti.</i>
 

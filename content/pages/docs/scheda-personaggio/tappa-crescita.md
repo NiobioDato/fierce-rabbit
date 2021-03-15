@@ -10,30 +10,31 @@ Per i protagonisti di Copper Sentai, combattere il Nemico e i suoi scherani è l
 
 Le Tappe di crescita aiutano giocatori e Narratore a concentrare il capitolo Vita vissuta sulle storie quotidiane dei ragazzi e sulle loro aspirazioni e desideri, fuori dai loro obblighi da supereroi.
 
-## Arma
+## Scegliere l’Obiettivo di una Tappa di crescita
 
-L'Arma è lo strumento con cui la tutina aumenta significativamente le capacità combattive del protagonista.
-L’Arma, oltre a essere in sostanza un bonus al Rango costante durante i combattimenti, offre un potere secondario unico per chi la impugna.
+Ogni personaggio parte con un Obiettivo di crescita che rappresenta un proposito o un desiderio a breve-medio termine che lo muove (o lo preoccupa!).
 
-Il potere secondario può essere tematico col resto dei personaggi –⁠ per esempio il potere di creare un getto d’acqua potentissimo per la supertutina blu di un supergruppo basato sui cinque elementi – oppure assolutamente indipendente.
+Un Obiettivo di crescita può essere:
 
-Questa scelta, viene da sé, deve essere fatta di gruppo.
+*   relazionale (parlare con la ragazza dai capelli rossi, riallacciare i rapporti l’amico d’infanzia, farsi capire dai genitori ecc.);
 
-Nel caso il potere secondario sia indipendente, è consigliato abbia un legame con l’Hobby oppure il Mestiere; si tratta di un buon metodo per mantenere una certa continuità fra il personaggio nella vita quotidiana e la sua identità supereroistica. Oltre a essere invero buffo.
+*   aspirazionale (entrare nella squadra di football, vincere il talent scolastico, prendere i massimi voti ecc.);
 
-Per delineare l’Arma è necessario compilare questa frase:
+*   materiale (comprare uno scooter, ripagare un debito, risparmiare per un viaggio all’estero ecc.)
 
-\[NOME] impugna \[NOME ARMA], una \[TIPOLOGIA ARMA] che può anche \[POTERE SECONDARIO].
+*   un mix delle suddette categorie.
 
 Per esempio:
 
-> Sofia impugna l’**Ultraspray**, una **Pistola laser** che può anche **Spruzzare vernice antiproiettile**.
+> Vanessa ha come Obiettivo quello di essere ammessa nella prestigiosa accademia sportiva di Metropoli Inferiore.
 
 oppure:
 
-> Terenzio impugna il **Supermartelletto**, un **Martello a due mani** che può anche **Stordire col suo giudizio irrevocabile**.
+> Giampiero ha come Obiettivo quello di conquistare Stefano, un ragazzo conosciuto al corso di dibattito studentesco.
 
-Durante un Conflitto non è possibile aumentare il Rango contemporaneamente col potere secondario e con quello principale dell’Arma.
+Durante i capitoli Vita vissuta degli episodi, il personaggio deve cercare di perseguire l’Obiettivo che si è prefissato, bilanciandolo con la sua identità segreta e le sue responsabilità verso i propri compagni.
+
+Nota: il Narratore può utilizzare un Obiettivo come spinta propulsiva di un intero episodio, incentrando il capitolo di Vita vissuta su un solo personaggio.
 
 ## Mossa segreta
 

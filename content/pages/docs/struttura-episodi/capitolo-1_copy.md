@@ -15,7 +15,9 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 ### Esempio
 
-<i>Teresa riceve una lettera a casa: la scuola non ha visto arrivare il pagamento della retta annuale e la ragazza rischia di non potersi iscrivere al terzo anno</i>
+<i>
+> Non solo la fiera è deserta, ma tutte le strade sono praticamente vuote. Il gruppo, investigando nei pressi, scopre che sono tutti incollati allo schermo delle tv, imbambolati nella visione di uno strambo show televisivo in bianco e nero. Non sembrano rispondere agli stimoli esterni, e continuano a ripetere incessantemente “Servire il potente Cavaliere Grigio è giusto. Servire il potente Cavaliere Grigio è corretto”. 
+</i>
 
 <i>Il sogno di Teresa di uscire dalle scuole superiori con il massimo dei voti e iscriversi a una prestigiosa università è in pericolo.</i>
 

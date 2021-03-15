@@ -52,7 +52,9 @@ Il Nemico giurato dell’umanità, è ricercato in tutta la Via Lattea per il su
 
 ### Qualità Superiore 
 
-<b>[Le catene del maleficio | 2 Gettoni]</b> In forma titanica, Schifilman può rilasciare dalla proboscide una fitta coltre di nebbia color senape, ampia abbastanza da avvolgere un intero quartiere. La nuvola ha due effetti: si attiva un Contatore da 6 che rappresenta la salute degli abitanti del quartiere; il Contatore del Colpo Finale non si muove fintantoché Schifilman è ancora nella nebbia.
+<b>[Le catene del maleficio | 2 Gettoni]</b> 
+> In forma titanica, Violentor il Turbomeschino può bloccare uno dei Robot personali degli eroi con delle spesse catene psichiche. Il Robot è inutilizzabile senza il superamento di un Conflitto di Rango 6.  Se lanciate contro il Super Robot, le catene hanno effetti diversi in base al luogo in cui sono lanciate: sul braccio non permettono di usare l’arma suprema, su una gamba non lo fanno muovere. 
+
 
 
 

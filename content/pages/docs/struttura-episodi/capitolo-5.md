@@ -20,7 +20,9 @@ Il capitolo si chiude quando l’avversario è stato sconfitto, possibilmente se
 
 <i>In pochi secondi questa meraviglia tecnologica prende forma e dal suolo richiama la sua gigantesca Excalibur, una spada fatta di pura luce.</i>
 
-<i>I Cavalieri della Tavola Rotonda richiamano i propri Robot e con un balzo entrano nella cabina di pilotaggio. </i>
+<i>
+> Ekaterina prova a rispondere con i suoi poteri ipnotici, ma i piloti, ora che sono insieme nella stessa cabina, sembrano immuni a qualsiasi cosa li possa dividere.
+ </i>
 
 <i>Cristiano, grazie alla Qualità Volo Supersonico del suo Galahadroid, si lancia contro la torre provando a buttarla giù con una spallata, mentre gli altri quattro distraggono Ekaterina usando le loro Qualità.</i>
 

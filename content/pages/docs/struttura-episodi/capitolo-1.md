@@ -43,4 +43,4 @@ Nella Variante Finale la normalità viene spezzata dopo poche scene da un violen
 Non solo, il piano del Nemico ha seriamente spezzato l’equilibrio e lo status quo, costringendo gli eroi a rischiare non solo la propria vita, ma i rapporti con le persone a sé più care.
 I modi in cui ciò accade possono essere fra i più disparati, dall’alleato che si dimostra una spia al Nemico che decide di punire gli eroi attaccando, corrompendo o imprigionando i propri familiari.
 
-Il capitolo si chiude quando i protagonisti hanno capito la natura della minaccia che gli aspetta.
+Il capitolo si chiude quando i protagonisti hanno capito la natura della minaccia che li aspetta.

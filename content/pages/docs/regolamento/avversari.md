@@ -20,12 +20,12 @@ I droni ninja sono la carne da cannone dell’associazione di stampo onnimafioso
 <b>[Troppo patetici per sforzarsi]</b> Quando presenti in scena, i protagonisti non possono trasformarsi nel loro alter ego supertutinato.
 
 
-> Schifilman il Fetente
-> Rango 5
-> Contatore 4
->  
-> Capitano della Flotta di Violentor il Turbomeschino, Schifilman è una creatura bipede chimerica, con le corna da bufalo, una proboscide nerastra da elefante e un ventre gonfio come lo zio che non riesce mai a smettere di mangiare ai buffet. 
-> 
+Schifilman il Fetente
+Rango 5
+Contatore 4
+ 
+Capitano della Flotta di Violentor il Turbomeschino, Schifilman è una creatura bipede chimerica, con le corna da bufalo, una proboscide nerastra da elefante e un ventre gonfio come lo zio che non riesce mai a smettere di mangiare ai buffet. 
+ 
 > Qualità
 > [Fetore nauseabondo] Quando attaccato in corpo a corpo, Schifilman rilascia una puzza capace di impregnare vestiti e passare anche dai filtri dei caschi delle supertutine. Tutti i personaggi in scena subiscono un Effetto ambientale leggero.
 > [Bomba disgustosa | 1 Gettone] Con un suono francamente rivoltante e inaccettabile in qualsivoglia società civilizzata, Schifilman rilascia dalla bocca una palla di muco verdastro che esplode al contatto con una superficie. Tutti i personaggi in scena vengono assaliti da una forte nausea che rende qualsiasi azione complicata, applicando così un malus come Effetto ambientale estremo.

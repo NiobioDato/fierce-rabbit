@@ -7,6 +7,7 @@ layout: docs
 Con un urlo all’unisono degli eroi, i cinque robot si trasformano e si cin un unico Super Robot dalle dimensioni gargantuesche. 
 
 Il Super Robot è così superiore rispetto a un semplice luogotenente del Nemico che la situazione si ribalta: è il Narratore a dover superare i Conflitti, mentre sono i giocatori a descrivere i risultati delle sue azioni. 
+
 Il Super Robot è un’entità di Rango 6, con la Qualità Arma suprema che aggiunge un +1 al Rango quando usata per colpire. L’avversario può aumentare il proprio rango utilizzando le sue qualità, e saranno i giocatori a decidere se sono narrativamente accettabili come bonus.
 
 L’unico aspetto su cui mantiene autorità il Narratore è il Contatore da quattro Colpo finale; quando raggiunge lo zero, i giocatori possono descrivere e recitare la mossa più potente nell’arsenale del Super Robot, portata generalmente con la propria arma principale.

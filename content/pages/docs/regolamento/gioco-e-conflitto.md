@@ -1,6 +1,6 @@
 ---
 title: Gioco e Conflitto
-weight: 0
+weight: 1
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---

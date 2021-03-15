@@ -29,6 +29,6 @@ Con un power duo, ci si può sbizzarrire con Ruoli misti e multipli Robot person
 Per ovviare al numero limitato di giocatori e quindi di Parole chiave, si possono aggiungere un secondo Hobby e un secondo pregio extra-Ruolo alle schede dei personaggi. 
 
 
-Giocare con una tutina
+## Giocare con una tutina
 
 Con un solo giocatore non è più Copper Sentai, ma Kamen Rider. Molto bello, ma probabilmente richiederebbe un manuale intero solo di variazioni per farlo funzionare. 

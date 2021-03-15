@@ -44,7 +44,6 @@ Il Nemico giurato dell’umanità, è ricercato in tutta la Via Lattea per il su
 ### Qualità
 <b>[Occhiata tremenda]</b> Lo sguardo perentorio di Violentor piega anche le volontà più ferree. Gli eroi che affrontano faccia a faccia il Nemico subiscono un malus di -1 al Rango.
 
-
 <b>[Bomba disgustosa | 1 Gettone]</b> Con un suono francamente rivoltante e inaccettabile in qualsivoglia società civilizzata, Schifilman rilascia dalla bocca una palla di muco verdastro che esplode al contatto con una superficie. Tutti i personaggi in scena vengono assaliti da una forte nausea che rende qualsiasi azione complicata, applicando così un malus come Effetto ambientale estremo.
 
 ### Qualità Superiore

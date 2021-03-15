@@ -1,5 +1,6 @@
 ---
-title: Giocare una stagione
+title: 
+Capitolo 1: Vita vissuta
 weight: 2
 layout: docs
 ---

@@ -24,10 +24,6 @@ Il capitolo si chiude quando l’avversario è stato sconfitto, possibilmente se
 
 <i>Con pochi fendenti della spada, Ekaterina è in ginocchio. È il momento di chiudere il combattimento con il Colpo finale, il Pendragon Special Slash. Dopo un’esplosione gigantesca, di Ekaterina non v’è più traccia. Che sia scappata o meno non importa; la città è salva!</i>
 
-<i>Per un soffio, Cristiano riesce a sradicare la Torre prima che Ekaterina lo blocchi con la sua Qualità Superiore, Pattern ipnotico.</i>
-
-<i>Ora che la città è salva, è il momento di chiudere la battaglia.</i>
-
 
 ## Variante Pilota
 

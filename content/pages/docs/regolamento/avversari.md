@@ -18,6 +18,7 @@ I droni ninja sono la carne da cannone dell’associazione di stampo onnimafioso
 
 ### Qualità
 <b>[Legge di conservazione dei Ninjutsu]</b> Dieci o mille droni ninja, non fa alcuna differenza in combattimento: il potere a loro disposizione è sempre lo stesso, solo diluito in più persone. Attenzione a incrociarne solo uno, perché tutto il ninjutsu disponibile è concentrato in lui: in quel caso il suo Rango sale a 4.
+
 [Troppo patetici per sforzarsi] Quando presenti in scena, i protagonisti non possono trasformarsi nel loro alter ego supertutinato.
 
 ### Evitare una Conseguenza Leggera o Grave

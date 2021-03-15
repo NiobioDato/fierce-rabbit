@@ -8,7 +8,7 @@ Nel capitolo 6 i personaggi tornano a vestire i propri panni comuni e risolvono 
 
 Il Ritorno alla normalità è il momento perfetto in cui superare definitivamente l’Ostacolo e spiegare come questo porti a raggiungere la propria Tappa di crescita.
 
-L’episodio si chiude quando tutte le linee narrative sono state risolte e, alla fine, si torni allo status quo.
+L’episodio si chiude quando tutte le linee narrative sono state risolte e, alla fine, si torna allo status quo.
 
 ### Esempio
 

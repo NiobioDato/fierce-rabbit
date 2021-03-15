@@ -1,6 +1,6 @@
 ---
-title: I Gettoni
-weight: 6
+title: Creazione degli Avversari
+weight: 7
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---

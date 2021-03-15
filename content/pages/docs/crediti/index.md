@@ -6,7 +6,7 @@ layout: docs
 ---
 
 I ringraziamenti sono molto brevi, perché questo prodotto è specificamente nato per essere iniziato e finito dal solo Massimiliano Palloni, che poi sarei io. 
-Niente editing esterno, niente grafici bravi
+Niente editing esterno, niente grafici bravi, niente illustratori. 
 
 <div class="note">
   <strong>Note:</strong> 

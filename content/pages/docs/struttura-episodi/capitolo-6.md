@@ -4,15 +4,11 @@ weight: 8
 layout: docs
 ---
 
-Con un urlo all’unisono degli eroi, i cinque robot si trasformano e si cin un unico Super Robot dalle dimensioni gargantuesche. 
+Nel capitolo 6 i personaggi tornano a vestire i propri panni comuni e risolvono le situazioni rimaste in sospeso per colpa della minaccia della settimana.
 
-Il Super Robot è così superiore rispetto a un semplice luogotenente del Nemico che la situazione si ribalta: è il Narratore a dover superare i Conflitti, mentre sono i giocatori a descrivere i risultati delle sue azioni. 
+Il Ritorno alla normalità è il momento perfetto in cui superare definitivamente l’Ostacolo e spiegare come questo porti a raggiungere la propria Tappa di crescita.
 
-Il Super Robot è un’entità di Rango 6, con la Qualità Arma suprema che aggiunge un +1 al Rango quando usata per colpire. L’avversario può aumentare il proprio rango utilizzando le sue qualità, e saranno i giocatori a decidere se sono narrativamente accettabili come bonus.
-
-L’unico aspetto su cui mantiene autorità il Narratore è il Contatore da quattro Colpo finale; quando raggiunge lo zero, i giocatori possono descrivere e recitare la mossa più potente nell’arsenale del Super Robot, portata generalmente con la propria arma principale.
-
-Il capitolo si chiude quando l’avversario è stato sconfitto, possibilmente senza descrivere la sua morte.
+L’episodio si chiude quando tutte le linee narrative sono state risolte e, alla fine, si torni allo status quo.
 
 ### Esempio
 

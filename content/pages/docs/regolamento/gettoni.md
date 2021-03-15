@@ -47,6 +47,6 @@ Andiamo a vedere i due metodi di spesa dei Gettoni che non sono stati già delin
 Come in CopperHead, gli Avversari [p. 14] alcune volte possiedono Qualità potenti che possono essere attivate spendendo un Gettone. In Copper Sentai, alcune di queste Qualità sono così poderose da richiedere addirittura due Gettoni per essere attivate.
 
 ### Lanciare una Scommessa
-Il nemico aveva sottovalutato la potenza del Super Robot; spendendo 4 Gettoni, i giocatori possono descrivere una nuova arma del Super Robot capace di dimezzare il numero di sezioni del contatore richieste per utilizzare il Colpo Finale nel capitolo Scontro fra titani.
+le Scommesse funzionano esattamente come in CopperHead [p. 12].
 
 

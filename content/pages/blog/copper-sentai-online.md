@@ -60,7 +60,7 @@ Ma non tutti i giochi devono per forza essere pubblicati a pagamento, e questo p
 
 Copper Sentai è costato letteralmente dieci euro di dominio, e solo perché mi faceva fatica cercare un prezzo migliore di quello proposto da Netlify. Per questo, posso seneramente regalarlo. Se un giorno qualcuno batterà la testa e per il trauma vorrà pagare una versione più corposa e piena di disegnini, ne riparleremo. Ma non succederà. E non avendo la sindrome di Napoleone, non mi interessa. 
 
-Lo dico per voi!
+E niente, buon gioco!
 
 
 #### Crediti

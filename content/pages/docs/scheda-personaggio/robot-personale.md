@@ -28,7 +28,7 @@ oppure:
 
 
 
-\<div class="important">\<strong>Importante:\</strong> gli armamenti, gli attacchi e le capacità fisiche del robot non possono essere Qualità perché già calcolati nell’aumento al Rango 2 del personaggio mentre lo pilota.\</div>
+\<div class="important"><strong>Importante:\</strong> gli armamenti, gli attacchi e le capacità fisiche del robot non possono essere Qualità perché già calcolati nell’aumento al Rango 2 del personaggio mentre lo pilota.</div>
 
 
 ## Qualità del Robot

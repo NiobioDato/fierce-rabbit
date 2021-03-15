@@ -44,7 +44,7 @@ Andiamo a vedere i metodi di spesa dei Gettoni non spiegati in precedenza.
 Andiamo a vedere i due metodi di spesa dei Gettoni che non sono stati già delineati nel capitolo precedente.
 
 ### Utilizzare la Qualità o la Qualità Superiore di un nemico
-come in CopperHead, gli Avversari [p. 14] alcune volte possiedono Qualità potenti che possono essere attivate spendendo un Gettone. In Copper Sentai, alcune di queste Qualità sono così poderose da richiedere addirittura due Gettoni per essere attivate.
+Come in CopperHead, gli Avversari [p. 14] alcune volte possiedono Qualità potenti che possono essere attivate spendendo un Gettone. In Copper Sentai, alcune di queste Qualità sono così poderose da richiedere addirittura due Gettoni per essere attivate.
 
 ### Creare una nuova arma suprema per il Super Robot
 Il nemico aveva sottovalutato la potenza del Super Robot; spendendo 4 Gettoni, i giocatori possono descrivere una nuova arma del Super Robot capace di dimezzare il numero di sezioni del contatore richieste per utilizzare il Colpo Finale nel capitolo Scontro fra titani.

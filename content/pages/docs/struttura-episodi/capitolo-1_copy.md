@@ -22,7 +22,9 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 <i>Jimbo il Gorilla senziente, il SuperCoso del gruppo, ha analizzato la situazione e svela si tratti di una potente ipnosi via onde televisive; è una fortuna che il loro dispositivo di trasformazione li schermi dai suoi effetti nefasti! </i>
 
-<i>I genitori confessano alla figlia di essere nel mezzo di una pesante crisi economica e di non aver avuto il coraggio di dirglielo; il padre la ammonisce che nessuno col suo cognome perderà mai la dignità andando a mendicare fra amici e conoscenti.</i>
+<i>
+> Lo spettacolo sembra prodotto nella sede della rete televisiva locale, dove è installata un’antenna che copre più di 60 km quadrati di territorio. 
+</i>
 
 <i>Teresa è orgogliosa proprio come suo padre e il suo difetto di Ruolo, come Cervellone, è quello di non sopportare le umiliazioni. Per chiedere aiuto deve superare un Conflitto oppure provare a racimolare la retta da sola.</i>
 

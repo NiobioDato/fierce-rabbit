@@ -4,13 +4,13 @@ weight: 6
 layout: docs
 ---
 
-Nonostante gli sforzi degli eroi, l’avversario non ha alcuna intenzione di arrendersi e tornarsene da dov’è venuto. Per i protagonisti non rimane altro che trasformarsi.
+L’avversario della settimana è stanco di giocare; il mostro si trasforma in un gigante alto come un grattacielo e pronto a devastare la città e i suoi difensori.
 
-Il capitolo si apre con i personaggi che recitano il motto del supergruppo e si trasformano nei loro alter ego tutinati. 
+In questo capitolo l’obiettivo è principalmente quello di neutralizzare la minaccia della settimana ed evitare al contempo che l’avversario titanico semini distruzione per le strade della città.
 
-Segue un combattimento con eventuale fanteria rimasta e con l’avversario della settimana, che proverà a mettere in crisi il gruppo usando le proprie Qualità in maniera creativa e distruttiva.
+In questo capitolo, i protagonisti possono richiamare i Robot personali senza il bisogno di spendere Gettoni.
 
-Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo Contatore del Conflitto a zero –⁠ e il gruppo ha il controllo del campo di battaglia.
+Il capitolo si conclude quando il supergruppo raggiunge un obiettivo specifico, come per esempio disinnescare una bomba o portare in salvo degli innocenti. Nel caso l’obiettivo non esista, il capitolo si conclude quando il gruppo resiste alla controffensiva dell’Avversario per la durata di un Contatore da quattro.
 
 ### Esempio
 

@@ -20,8 +20,8 @@ I droni ninja sono la carne da cannone dell’associazione di stampo onnimafioso
 <b>[Troppo patetici per sforzarsi]</b> Quando presenti in scena, i protagonisti non possono trasformarsi nel loro alter ego supertutinato.
 
 
-Schifilman il Fetente
-Rango 5
+## Schifilman il Fetente
+<b>Rango</b> 5
 Contatore 4
  
 Capitano della Flotta di Violentor il Turbomeschino, Schifilman è una creatura bipede chimerica, con le corna da bufalo, una proboscide nerastra da elefante e un ventre gonfio come lo zio che non riesce mai a smettere di mangiare ai buffet. 

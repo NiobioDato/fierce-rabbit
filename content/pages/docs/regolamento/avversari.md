@@ -19,6 +19,7 @@ I droni ninja sono la carne da cannone dell’associazione di stampo onnimafioso
 
 <b>[Troppo patetici per sforzarsi]</b> Quando presenti in scena, i protagonisti non possono trasformarsi nel loro alter ego supertutinato.
 
+***
 
 ## Schifilman il Fetente
 <b>Rango</b> 5

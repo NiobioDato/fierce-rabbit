@@ -15,8 +15,7 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 ### Esempio
 
-<i>
-> Non solo la fiera è deserta, ma tutte le strade sono praticamente vuote. Il gruppo, investigando nei pressi, scopre che sono tutti incollati allo schermo delle tv, imbambolati nella visione di uno strambo show televisivo in bianco e nero. Non sembrano rispondere agli stimoli esterni, e continuano a ripetere incessantemente “Servire il potente Cavaliere Grigio è giusto. Servire il potente Cavaliere Grigio è corretto”. 
+<i>Non solo la fiera è deserta, ma tutte le strade sono praticamente vuote. Il gruppo, investigando nei pressi, scopre che sono tutti incollati allo schermo delle tv, imbambolati nella visione di uno strambo show televisivo in bianco e nero. Non sembrano rispondere agli stimoli esterni, e continuano a ripetere incessantemente “Servire il potente Cavaliere Grigio è giusto. Servire il potente Cavaliere Grigio è corretto”. 
 </i>
 
 <i>Il sogno di Teresa di uscire dalle scuole superiori con il massimo dei voti e iscriversi a una prestigiosa università è in pericolo.</i>

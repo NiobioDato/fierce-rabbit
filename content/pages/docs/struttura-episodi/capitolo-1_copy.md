@@ -1,6 +1,6 @@
 ---
-title: Capitolo 1 - Vita Vissuta
-weight: 3
+title: Capitolo 2 - Vita Vissuta
+weight: 4
 layout: docs
 ---
 

@@ -58,7 +58,7 @@ Oppure gli hobbyisti continuano a fare gli hobbyisti, e i professionisti i profe
 
 Ma non tutti i giochi devono per forza essere pubblicati a pagamento, e questo pistolino pubblicato qui che potete leggere è l'esempio che si può confezionare una cosa commestibile senza bisogno di fare il cosplay dell'autore di successo. 
 
-Copper Sentai è costato letteralmente dieci euro di dominio, e solo perché mi faceva fatica cercare un prezzo migliore di quello proposto da Netlify.
+Copper Sentai è costato letteralmente dieci euro di dominio, e solo perché mi faceva fatica cercare un prezzo migliore di quello proposto da Netlify. Per questo, posso seneramente regalarlo. E magari fare anche un PDF, sempre da solo, sempre gratis.
 
 Lo dico per voi!
 

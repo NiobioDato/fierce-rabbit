@@ -42,7 +42,6 @@ Se c'è una cosa che funziona alla grande in Italia è l'editoria indipendente. 
 
 Per questo motivo, forte della mia esperienza che vi racconterò mentre cerco di posizionarmi con papiri soporiferi nei maggiori gruppi di discussione del settore, anch'io ho deciso di lanciare il mio prodotto sul mercato. Qualcosa di fresco, reale, davvero indipendente.
 
-
 Mica come quella roba che esce su KS sfruttando la forza di altri brand e facendo soldi perché hanno individuato un target che acquista, oh!
 
 

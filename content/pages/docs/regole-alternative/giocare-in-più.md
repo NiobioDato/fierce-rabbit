@@ -14,7 +14,7 @@ Con sei giocatori può entrare in scena il Ruolo di Lupo solitario, un eroe fort
 Il Lupo Solitario ha un Pregio di Ruolo ed extra-Ruolo aggiuntivo e guida un Super Robot tutto suo, ma ha il difetto extra-Ruolo aggiuntivo “isolato” e non può essere Ultra Supportato. La sua Tappa di crescita è sempre legata alla necessità di confidarsi, capire e farsi capire dagli altri.
 
 
-Giocare con sette tutine
+## Giocare con sette tutine
 
 Si può aggiungere il Lupo Solitario più una delle varianti di Ruolo mostrate nella creazione del personaggio oppure due varianti di Ruolo.
 

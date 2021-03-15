@@ -17,7 +17,7 @@ Il capitolo Vita vissuta si chiude con l’Ostacolo superato, oppure complicato 
 
 Esempio:
 
-<i>Teresa riceve una lettera a casa: la scuola non ha visto arrivare il pagamento della retta annuale e la ragazza rischia di non potersi iscrivere al terzo anno. 
+<i>Teresa riceve una lettera a casa: la scuola non ha visto arrivare il pagamento della retta annuale e la ragazza rischia di non potersi iscrivere al terzo anno</i>
 
 <i>Il sogno di Teresa di uscire dalle scuole superiori con il massimo dei voti e iscriversi a una prestigiosa università è in pericolo.</i>
 

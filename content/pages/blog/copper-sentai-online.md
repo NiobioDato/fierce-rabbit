@@ -52,7 +52,9 @@ Al raggiungimento del primo stretch goal, che dovrebbe essere sui 2.000 euro, ag
 
 Figo, no?
 
-## Oppure
+### Oppure
+
+Oppure si lascia gli hobbyisti fare gli hobbyisti, e i professionisti i professionisti. Si possono scrivere giochi di ruolo ed esperienze fantastiche senza creare prodotti
 
 #### Crediti
 

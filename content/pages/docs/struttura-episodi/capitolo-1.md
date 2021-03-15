@@ -17,7 +17,8 @@ Il capitolo Vita vissuta si chiude con l’Ostacolo superato, oppure complicato 
 
 Esempio:
 
-> Teresa riceve una lettera a casa: la scuola non ha visto arrivare il pagamento della retta annuale e la ragazza rischia di non potersi iscrivere al terzo anno. Il sogno di Teresa di uscire dalle scuole superiori con il massimo dei voti e iscriversi a una prestigiosa università è in pericolo. 
+> Teresa riceve una lettera a casa: la scuola non ha visto arrivare il pagamento della retta annuale e la ragazza rischia di non potersi iscrivere al terzo anno. 
+Il sogno di Teresa di uscire dalle scuole superiori con il massimo dei voti e iscriversi a una prestigiosa università è in pericolo. 
 > I genitori confessano alla figlia di essere nel mezzo di una pesante crisi economica e di non aver avuto il coraggio di dirglielo; il padre la ammonisce che nessuno col suo cognome perderà mai la dignità andando a mendicare fra amici e conoscenti.
 > Teresa è orgogliosa proprio come suo padre e il suo difetto di Ruolo, come Cervellone, è quello di non sopportare le umiliazioni. Per chiedere aiuto deve superare un Conflitto oppure provare a racimolare la retta da sola. 
 > Teresa riesce fortunatamente a passare il Conflitto, e può quindi aprirsi con Cristiano, il suo migliore amico e il Bruto del gruppo. Questo le consiglia di fare una bella vendita di torte salate, bibite analcoliche e dolcetti durante la fiera cittadina di quel fine settimana. Gioacchino il Bello decide subito di aiutare mettendosi ai fornelli; il suo sogno del resto è quello di fare come Mestiere il cuoco. Lo stesso Gioacchino coinvolgerà Michela la Leader e Serena la Bassista carismatica; la prima userà il suo Pregio extra-ruolo “popolare” per fare un po’ di pubbliche relazioni, mentre Serena il suo Hobby “DJ” per pubblicizzare l’evento durante la sua ora di diretta nella radio scolastica. Serena ne approfitta per scommettere una pizza con Michela su chi porterà più persone al banchino.

@@ -1,5 +1,5 @@
 ---
-title: Come si chiama il Super Robot?
+title: Qual è l'arma suprema del Super Robot?
 weight: 13
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs

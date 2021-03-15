@@ -32,8 +32,6 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 <i>I ragazzi si guardano per un istante colmi di determinazione, prima di portare mano al dispositivo di trasformazione.</i>
 
-<i>Dopo tanti sforzi (e qualche Conflitto più o meno difficile), finalmente sono pronti per la fiera cittadina. Arrivati sul luogo con un pancale di leccornie, però, si accorgono che non c’è nessuno! Cosa sta succedendo?</i>
-
 
 ## Variante Pilota
 

@@ -35,7 +35,7 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 ## Variante Pilota
 
-I personaggi sono tutti adolescenti privi di poteri all’inizio della puntata, quindi ha senso dare loro il tempo di presentarsi e conoscersi. 
+I personaggi sono tutti  padolescentirivi di poteri all’inizio della puntata, quindi ha senso dare loro il tempo di presentarsi e conoscersi. 
 
 Dopo questa fase, il Narratore può aiutare nel creare un legame fra loro attraverso una chiamata all’avventura: potrebbero salvare inavvertitamente il SuperCoso, scoprire con orrore un infiltrazione aliena nella scuola oppure mostrarsi in un atto di generoso eroismo.
 

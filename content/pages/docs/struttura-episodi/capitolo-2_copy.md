@@ -19,8 +19,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo
 <i>Ora Ekaterina e i suoi lacché non combattono più contro cinque semplici adolescenti, bensì contro i cinque cavalieri galattici dei romanzi cavallereschi!</i>
 
 <i>
-> I Pedoni vengono eliminati con facilità, ma Ekaterina sembra avere un asso nella manica: usa i suoi poteri ipnotici per confondere il gruppo con potenti illusioni, mettendoli uno contro l’altro.
- </i>
+> I Pedoni vengono eliminati con facilità, ma Ekaterina sembra avere un asso nella manica: usa i suoi poteri ipnotici per confondere il gruppo con potenti illusioni, mettendoli uno contro l’altro.</i>
 
 <i>Lo spettacolo sembra prodotto nella sede della rete televisiva locale, dove è installata un’antenna che copre più di 60 km quadrati di territorio.</i>
 

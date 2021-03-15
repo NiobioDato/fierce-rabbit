@@ -57,6 +57,8 @@ Figo, no?
 Oppure gli hobbyisti continuano a fare gli hobbyisti, e i professionisti i professionisti. Si possono scrivere giochi di ruolo ed esperienze fantastiche senza creare prodotti. Ho visto creare fantastici prodotti senza che qualcuno scrivesse un vero gioco di ruolo, e va bene pure quello! 
 Ma non tutti i giochi devono per forza essere pubblicati a pagamento, e questo pistolino qui che potete leggere è l'esempio che si può confezionare una cosa commestibile senza bisogno di fare il cosplay dell'autore di successo.
 
+Lo dico per voi!
+
 
 #### Crediti
 

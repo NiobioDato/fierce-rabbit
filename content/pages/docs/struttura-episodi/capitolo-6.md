@@ -18,7 +18,7 @@ L’episodio si chiude quando tutte le linee narrative sono state risolte e, all
 </i>
 
 <i>Prima che Teresa si disperi, però, arriva la chiamata di Jimbo il Gorilla senziente: ha pensato lui a coprire il debito con la scuola utilizzando qualche criptotallero maturato in gioventù su Venere.</i>
-L’avrebbe fatto prima, ma aveva paura che la ragazza si sarebbe risentita, considerando l’aiuto altrui come un’ammissione di debolezza. Vedendo come era stata capace di chiedere una mano ai propri compagni, Jimbo ha ritenuto di poterlo fare senza troppe preoccupazioni.</i>
+<i>L’avrebbe fatto prima, ma aveva paura che la ragazza si sarebbe risentita, considerando l’aiuto altrui come un’ammissione di debolezza. Vedendo come era stata capace di chiedere una mano ai propri compagni, Jimbo ha ritenuto di poterlo fare senza troppe preoccupazioni.</i>
 
 <i>Con pochi fendenti della spada, Ekaterina è in ginocchio. È il momento di chiudere il combattimento con il Colpo finale, il Pendragon Special Slash. Dopo un’esplosione gigantesca, di Ekaterina non v’è più traccia. Che sia scappata o meno non importa; la città è salva!</i>
 

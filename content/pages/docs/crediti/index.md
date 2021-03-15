@@ -6,7 +6,9 @@ layout: docs
 ---
 
 I ringraziamenti sono molto brevi, perché questo prodotto è specificamente nato per essere iniziato e finito dal solo Massimiliano Palloni, che poi sarei io. 
-Niente editing esterno, niente grafici bravi, niente illustratori. 
+Niente editing esterno, niente grafici bravi, niente illustratori. Questo è un hack di CopperHead, e così vuole rimanere.
+
+
 
 <div class="note">
   <strong>Note:</strong> 

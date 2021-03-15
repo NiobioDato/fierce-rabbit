@@ -20,7 +20,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo
 
 <i>I Pedoni vengono eliminati con facilità, ma Ekaterina sembra avere un asso nella manica: usa i suoi poteri ipnotici per confondere il gruppo con potenti illusioni, mettendoli uno contro l’altro.</i>
 
-<i>Lo spettacolo sembra prodotto nella sede della rete televisiva locale, dove è installata un’antenna che copre più di 60 km quadrati di territorio.</i>
+<i>Serena capisce dopo poco che gli occhi li stanno tradendo, e chiede a tutti di chiuderli e usare soltanto l’udito: Ekaterina ha perso il suo vantaggio tattico ed è costretta ora a combattere senza trucchi.</i>
 
 <i>Il gruppo raggiunge il luogo in pochi minuti, ma viene bloccata all’entrata dai Pedoni, la fanteria tecno-organica del Cavaliere Grigio.</i>
 

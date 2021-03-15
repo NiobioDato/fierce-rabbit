@@ -10,17 +10,15 @@ Vediamo un paio di esempi.
 
 ## Droni Ninja dell’Onnicrimine
 
-I giocatori possono usare i Gettoni per:
 
-- aumentare il Rango di 1 per il calcolo della riserva dadi [1 Gettone];
-- lanciare una Mossa segreta una volta a episodio [2 Gettoni];
-- chiamare un robot personale [1 Gettone];
-- Ultra Supportare [1 Gettone];
-- evitare una Conseguenza Leggera [1 Gettone];
-- evitare una Conseguenza Grave [2 Gettoni];
-- creare una nuova arma suprema per il Super Robot [4 Gettoni].
-
-Andiamo a vedere i due metodi di spesa dei Gettoni che non sono stati già delineati nel capitolo precedente.
+> Rango 3
+> Contatore 4
+> 
+> I droni ninja sono la carne da cannone dell’associazione di stampo onnimafioso. Sufficienti per spaventare il lattaio di quartiere, disturbare i bambini nel parco giochi oppure guadagnare tempo per l’entrata in scena del Capobastone. 
+> 
+> Qualità
+> [Legge di conservazione dei Ninjutsu] Dieci o mille droni ninja, non fa alcuna differenza in combattimento: il potere a loro disposizione è sempre lo stesso, solo diluito in più persone. Attenzione a incrociarne solo uno, perché tutto il ninjutsu disponibile è concentrato in lui: in quel caso il suo Rango sale a 4.
+> [Troppo patetici per sforzarsi] Quando presenti in scena, i protagonisti non possono trasformarsi nel loro alter ego supertutinato.
 
 ### Evitare una Conseguenza Leggera o Grave
 Il giocatore può spendere uno o due gettoni per prendere il controllo della scena e raccontare come la situazione è andata meglio di quello che si poteva pensare.

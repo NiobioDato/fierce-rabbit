@@ -36,9 +36,6 @@ Durante i capitoli Vita vissuta degli episodi, il personaggio deve cercare di pe
 
 <div class="note"><strong>Nota:</strong> il Narratore può utilizzare un Obiettivo come spinta propulsiva di un intero episodio, incentrando il capitolo di Vita vissuta su un solo personaggio.</div>
 
-
-Nota: 
-
 ## Mossa segreta
 
 La mossa segreta è l’arma più potente nell’arsenale dell’eroe quando appiedato, oltre a essere un metodo efficace per chiudere un combattimento nel modo più spettacolare e tamarro possibile.

@@ -39,7 +39,8 @@ Capitano della Flotta di Violentor il Turbomeschino, Schifilman è una creatura 
 <b>Rango</b> 6
 <b>Contatore</b> 4
  
-Capitano della Flotta di Violentor il Turbomeschino, Schifilman è una creatura bipede chimerica, con le corna da bufalo, una proboscide nerastra da elefante e un ventre gonfio come lo zio che non riesce mai a smettere di mangiare ai buffet. 
+
+> Il Nemico giurato dell’umanità, è ricercato in tutta la Via Lattea per il suo traffico di forme di vita al carbonio e per la vendita di zucchero filato, estremamente tossico e dopante fuori dalla Terra. Violentor spera di soggiogare gli umani per venderli come rozzi ma divertenti animaletti da compagnia, oltre a estrarre tutto lo zucchero possibile. Qualcuno gli ha detto che potrebbe coltivarlo con la canna o le barbabietole senza bisogno della Terra; quel qualcuno è stato deriso e poi sparato con un tubo nello spazio profondo.
  
 ### Qualità
 <b>[Fetore nauseabondo]</b> Quando attaccato in corpo a corpo, Schifilman rilascia una puzza capace di impregnare vestiti e passare anche dai filtri dei caschi delle supertutine. Tutti i personaggi in scena subiscono un Effetto ambientale leggero.

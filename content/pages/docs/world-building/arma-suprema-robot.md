@@ -1,6 +1,6 @@
 ---
 title: Qual è l'arma suprema del Super Robot?
-weight: 13
+weight: 14
 excerpt: Le risorse per creare il mondo di gioco di Copper Sentai.
 layout: docs
 ---

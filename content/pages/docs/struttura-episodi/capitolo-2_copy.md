@@ -16,9 +16,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo
 
 <i>Michela dà un occhio veloce agli amici, e poi sfodera un pugnale di una strana lega metallica urlando “Cavalieri della Tavola Rotonda, in alto le spade!”.</i>
 
-<i>
-> Ora Ekaterina e i suoi lacché non combattono più contro cinque semplici adolescenti, bensì contro i cinque cavalieri galattici dei romanzi cavallereschi!
-</i>
+<i>Ora Ekaterina e i suoi lacché non combattono più contro cinque semplici adolescenti, bensì contro i cinque cavalieri galattici dei romanzi cavallereschi!</i>
 
 <i>Jimbo il Gorilla senziente, il SuperCoso del gruppo, ha analizzato la situazione e svela si tratti di una potente ipnosi via onde televisive; è una fortuna che il loro dispositivo di trasformazione li schermi dai suoi effetti nefasti! </i>
 

@@ -1,6 +1,6 @@
 ---
 title: Una storia che non va da nessuna parte
-excerpt: >
+excerpt: Come si costruisce un Episodio di Copper Sentai?
 layout: docs
 ---
 

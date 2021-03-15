@@ -14,4 +14,6 @@ Prendendo gli esempi di prima:
 | Hyper Wave Riders   | Surfiamo sulle onde della giustizia!                       |
 | Galactic Ultra Dynamic Police   | Manganello cosmico, a noi!                       |
 | Super Pirati Tech da Omega   | Per il potere del Grog!|
-| Gruppo Wow super Wow   | Wow, Super Wow!                        |
+| Gruppo Wow super Wow   | Wow, Super Wow!                        |
+
+La trasformazione non può avvenire se il personaggio che la inizia non dice a voce alta, e con estrema convinzione, il motto del supergruppo.

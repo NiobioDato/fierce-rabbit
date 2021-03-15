@@ -1,5 +1,5 @@
 ---
-title: Capitolo 2 - Vita Vissuta
+title: Capitolo 2 - Minaccia della settimana
 weight: 4
 layout: docs
 ---

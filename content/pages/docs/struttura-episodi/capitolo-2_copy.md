@@ -14,7 +14,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo
 
 ### Esempio
 
-<i>Non solo la fiera è deserta, ma tutte le strade sono praticamente vuote. Il gruppo, investigando nei pressi, scopre che sono tutti incollati allo schermo delle tv, imbambolati nella visione di uno strambo show televisivo in bianco e nero.</i>
+<i>Michela dà un occhio veloce agli amici, e poi sfodera un pugnale di una strana lega metallica urlando “Cavalieri della Tavola Rotonda, in alto le spade!” . </i>
 
 <i>Non sembrano rispondere agli stimoli esterni, e continuano a ripetere incessantemente “Servire il potente Cavaliere Grigio è giusto. Servire il potente Cavaliere Grigio è corretto”. 
 </i>

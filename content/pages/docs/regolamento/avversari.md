@@ -19,6 +19,9 @@ I droni ninja sono la carne da cannone dell’associazione di stampo onnimafioso
 
 <b>[Troppo patetici per sforzarsi]</b> Quando presenti in scena, i protagonisti non possono trasformarsi nel loro alter ego supertutinato.
 
+
+
+
 ### Evitare una Conseguenza Leggera o Grave
 Il giocatore può spendere uno o due gettoni per prendere il controllo della scena e raccontare come la situazione è andata meglio di quello che si poteva pensare.
 

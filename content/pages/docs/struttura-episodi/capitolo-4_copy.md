@@ -1,6 +1,6 @@
 ---
-title: Capitolo 4 - Attacco del titano
-weight: 6
+title: Capitolo 5 - Attacco del titano
+weight: 7
 layout: docs
 ---
 

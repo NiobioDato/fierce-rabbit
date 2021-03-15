@@ -1,5 +1,5 @@
 ---
-title: Starter Theme
+title: Le tre regole delle supertutine
 weight: 1
 layout: docs
 ---

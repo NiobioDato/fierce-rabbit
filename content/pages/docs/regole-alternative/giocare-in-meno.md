@@ -13,7 +13,7 @@ Basta ricreare le dinamiche fra i Ruoli rimasti oppure fondere più Ruoli in uno
 Con quattro giocatori cambia meccanicamente poco; decidete quali Ruoli vi piacciono di più e cassate il quinto avanzato. Successivamente ricreate legami sensati fra coppie di personaggi e trovate un collante per tutto il gruppo nel caso che il Bello sia il Ruolo eliminato.
 
 
-Giocare con tre tutine
+## Giocare con tre tutine
 
 Con un power trio, i tre Ruoli dovrebbero essere tutti legati da un rapporto e una relazione consolidata con dinamiche certe. 
 

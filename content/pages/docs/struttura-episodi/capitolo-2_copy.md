@@ -14,7 +14,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo
 
 ### Esempio
 
-<i>Michela dà un occhio veloce agli amici, e poi sfodera un pugnale di una strana lega metallica urlando “Cavalieri della Tavola Rotonda, in alto le spade!” . </i>
+<i>Michela dà un occhio veloce agli amici, e poi sfodera un pugnale di una strana lega metallica urlando “Cavalieri della Tavola Rotonda, in alto le spade!”.</i>
 
 <i>Non sembrano rispondere agli stimoli esterni, e continuano a ripetere incessantemente “Servire il potente Cavaliere Grigio è giusto. Servire il potente Cavaliere Grigio è corretto”. 
 </i>

@@ -12,8 +12,7 @@ L’episodio si chiude quando tutte le linee narrative sono state risolte e, all
 
 ### Esempio
 
-<i>
-> Sventata la minaccia di Ekaterina e il suo show ipnotico, il gruppo torna di buona lena alla fiera. Il luogo è già gremito di persone, ed è presente una bella fila di persone ad aspettare di comprare dolci e bibite dal banchino dei ragazzi!</i>
+<i>Sventata la minaccia di Ekaterina e il suo show ipnotico, il gruppo torna di buona lena alla fiera. Il luogo è già gremito di persone, ed è presente una bella fila di persone ad aspettare di comprare dolci e bibite dal banchino dei ragazzi!</i>
 
 <i>In pochi secondi questa meraviglia tecnologica prende forma e dal suolo richiama la sua gigantesca Excalibur, una spada fatta di pura luce.</i>
 

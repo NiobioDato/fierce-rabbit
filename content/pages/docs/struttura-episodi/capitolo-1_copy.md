@@ -24,7 +24,7 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 <i>Lo spettacolo sembra prodotto nella sede della rete televisiva locale, dove è installata un’antenna che copre più di 60 km quadrati di territorio.</i>
 
-<i>Teresa è orgogliosa proprio come suo padre e il suo difetto di Ruolo, come Cervellone, è quello di non sopportare le umiliazioni. Per chiedere aiuto deve superare un Conflitto oppure provare a racimolare la retta da sola.</i>
+<i>Il gruppo raggiunge il luogo in pochi minuti, ma viene bloccata all’entrata dai Pedoni, la fanteria tecno-organica del Cavaliere Grigio.</i>
 
 <i>Teresa riesce fortunatamente a passare il Conflitto, e può quindi aprirsi con Cristiano, il suo migliore amico e il Bruto del gruppo.</i>
 

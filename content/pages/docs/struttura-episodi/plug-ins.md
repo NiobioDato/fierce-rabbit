@@ -1,5 +1,5 @@
 ---
-title: Plug-ins
+title: Giocare una stagione
 weight: 2
 layout: docs
 ---

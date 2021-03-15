@@ -1,5 +1,5 @@
 ---
-title: Capitolo 4 - Forza, supertutine!
+title: Capitolo 4 - Attacco del Titano
 weight: 6
 layout: docs
 ---

@@ -4,10 +4,12 @@ weight: 4
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---
-In Copper Sentai i personaggi possono subire 4 Conseguenze: 2 Leggere e 2 Gravi.
+Copper Sentai usa la variante standard di Supportare [p. 10] quando uno o più personaggi accorrono in aiuto di un altro durante un Conflitto.
 
-Tutte le Conseguenze [pp 8-9] vengono naturalmente eliminate fra una scena e l’altra, a meno che il Narratore non spenda Gettoni per renderle permanenti: 1 Gettone per una Leggera, 2 per una Grave.
+Con una spesa di un Gettone è possibile Ultra Supportare: tutti i personaggi entrano nella scena per aiutare il personaggio, descrivendo collettivamente una mossa speciale che li tiri fuori dall’impiccio.
 
-Nel caso siano rese permanenti, una Conseguenza Grave richiede venga risolta nell’Episodio successivo con una scena ad hoc, mentre una Conseguenza Leggera permanente richiede almeno 2 scene per essere eliminata oppure, se il Narratore lo ritiene pertinente, affrontando una complicazione di Rango 4.
+Ultra Supportare non offre dadi aggiuntivi, ma migliora di una categoria il risultato del conflitto seguendo lo schema qua sotto:
 
-Con 2 Conseguenze Gravi il personaggio esce di scena e tutte le Conseguenze, tranne quelle permanenti, sono azzerate all’inizio della scena successiva.
+Fallimento > Successo, ma
+Successo, ma > Successo
+Successo > Successo, e

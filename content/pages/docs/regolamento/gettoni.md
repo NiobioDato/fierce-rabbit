@@ -24,4 +24,5 @@ Andiamo a vedere i due metodi di spesa dei Gettoni che non sono stati già delin
 ### Evitare una Conseguenza Leggera o Grave
 Il giocatore può spendere uno o due gettoni per prendere il controllo della scena e raccontare come la situazione è andata meglio di quello che si poteva pensare.
 
-Creare una nuova arma suprema per il Super Robot: il nemico aveva sottovalutato la potenza del Super Robot; spendendo 4 Gettoni, i giocatori possono descrivere una nuova arma del Super Robot capace di dimezzare il numero di sezioni del contatore richieste per utilizzare il Colpo Finale nel capitolo Scontro fra titani.  
+### Creare una nuova arma suprema per il Super Robot
+Il nemico aveva sottovalutato la potenza del Super Robot; spendendo 4 Gettoni, i giocatori possono descrivere una nuova arma del Super Robot capace di dimezzare il numero di sezioni del contatore richieste per utilizzare il Colpo Finale nel capitolo Scontro fra titani.  

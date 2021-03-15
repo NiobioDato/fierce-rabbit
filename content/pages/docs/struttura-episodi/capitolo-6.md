@@ -31,5 +31,4 @@ Sconfitta la minaccia, i personaggi vengono promossi a eroi a tempo pieno, anche
  
 ## Variante Finale
 
-Al contrario degli episodi normali, sono i giocatori a dover superare il Conflitto. Il Super Robot rimane di Rango 6 e l’arma fornisce sempre un +1 quando usata per colpire, per il resto si possono usare come bonus tutte le Parole chiave degli eroi tolte le armi e le mosse segrete.
-Allo scadere del Contatore, i giocatori possono descrivere una nuova trasformazione dell’arma capace di far scomparire per sempre il Nemico dalla Terra. 
+La minaccia globale è stata finalmente sventata e i ragazzi possono tornare alla loro vita normale, con la promessa di rispolverare i loro dispositivi di trasformazione se un nuovo Nemico si presentasse alle porte.

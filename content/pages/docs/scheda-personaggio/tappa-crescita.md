@@ -68,3 +68,6 @@ Esempio:
 Oppure:
 
 > Giampiero segue il nuovo ragazzo fino a casa per scoprire quale sia il suo sordido segreto. Come può aver conquistato Stefano così velocemente, del resto? C’è puzza di Nemico! Eppure, dopo aver perso una nottata a spiare la camera del suo avversario in amore, Giampiero non scopre niente. Per questa mancanza di giudizio, si trova a dover affrontare uno dei Generali del Nemico il giorno dopo senza aver dormito neanche un’ora. Sconfitto il patetico Lord Splendor, Giampiero si mette l’anima in pace: se vuoi bene a una persona, vuoi la sua felicità, anche se non la condivide con te.
+
+## Raggiungere la Tappa di crescita
+

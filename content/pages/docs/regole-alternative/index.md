@@ -1,6 +1,6 @@
 ---
 title: Regole alternative e variazioni
-excerpt: Come si costruisce un Episodio di Copper Sentai?
+excerpt: Come giocare a Copper Sentai con più o meno giocatori?
 layout: docs
 ---
 

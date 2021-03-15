@@ -51,3 +51,6 @@ Esempio:
 oppure:
 
 > Giampiero sta per aprirsi a Stefano quando scopre che sta già frequentando qualcun altro; un ragazzo bellissimo appena trasferitosi da un’altra scuola. C’è qualcosa di strano in lui; è solo gelosia oppure il nuovo arrivato nasconde qualcosa?
+
+<div class="note"><strong>Nota:</strong> il Narratore può utilizzare un Obiettivo come spinta propulsiva di un intero episodio, incentrando il capitolo di Vita vissuta su un solo personaggio.</div>
+

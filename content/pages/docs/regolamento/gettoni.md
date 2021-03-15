@@ -50,3 +50,5 @@ Come in CopperHead, gli Avversari [p. 14] alcune volte possiedono Qualità poten
 Le Scommesse funzionano esattamente come in CopperHead [p. 12].
 
 
+
+

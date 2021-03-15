@@ -4,18 +4,25 @@ weight: 2
 layout: docs
 ---
 
-Copper Sentai dà il meglio di sé quando giocato per un’intera stagione di un’ipotetica serie televisiva di supertutine.
+Sei persone al tavolo sono già molte, ma con un po’ di creatività e moderazione da parte del Narratore c’è spazio per un sesto o settimo giocatore. 
 
-Una stagione standard è formata da un episodio pilota, cinque episodi centrali e un episodio finale.
 
-Nell’episodio pilota si giocano le origini del gruppo, la scoperta del SuperCoso e il primo contatto con il Nemico.
+Giocare con sei tutine
 
-Ogni episodio centrale vede il gruppo alle prese con uno o più sottoposti del Nemico, mentre uno dei protagonisti tenta di superare un Ostacolo alla propria Tappa di crescita. L’idea è che ognuno degli episodi si concentri in modo particolare su uno dei protagonisti, pur mantenendo l’agenzia di tutti gli altri.
+Con sei giocatori può entrare in scena il Ruolo di Lupo solitario, un eroe forte come il Bruto, deciso come il Leader, intelligente come il Cervellone e affascinante come il Bassista carismatico. Il suo difetto è, banalmente, non conoscere nessuno e fidarsi ancor meno di quelli che sarebbero i suoi compagni.
 
-L’episodio finale vede il supergruppo resistere all’attacco finale del Nemico, superare la crisi e avviarsi verso il prologo felice della stagione. Per un minimo di pepe in più, l’episodio può essere diviso in due parti e fornire così l’unico colpo di scena dell’intera esperienza di gioco.
+Il Lupo Solitario ha un Pregio di Ruolo ed extra-Ruolo aggiuntivo e guida un Super Robot tutto suo, ma ha il difetto extra-Ruolo aggiuntivo “isolato” e non può essere Ultra Supportato. La sua Tappa di crescita è sempre legata alla necessità di confidarsi, capire e farsi capire dagli altri.
 
-La struttura che vedremo in seguito è pensata per gli episodi centrali, ma ogni capitolo offre eventuali variazioni per il pilota e il finale di stagione quando necessarie.
 
-<div class="note">
-  <strong>Nota:</strong> la stagione può essere anche più lunga, nel caso si attivino più Tappe di crescita, o più corta, nel caso si riesca a raccontare la crescita di più di un protagonista per puntata.
-</div>
+Giocare con sette tutine
+
+Si può aggiungere il Lupo Solitario più una delle varianti di Ruolo mostrate nella creazione del personaggio oppure due varianti di Ruolo.
+
+Le Tappe di crescita devono essere condivise da coppie di personaggi, in modo che lo stesso Ostacolo venga superato da più giocatori contemporaneamente.
+
+Per equilibrare la sfida, gregari e Nemico vedono il proprio Rango aumentare di +1, e il Narratore parte con 6 gettoni mentre i giocatori con 4.
+
+
+Giocare con otto tutine
+
+Non… non credo sia davvero una buona idea. Fare un multitavolo, magari?

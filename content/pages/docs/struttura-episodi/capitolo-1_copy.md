@@ -28,7 +28,9 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 <i>Utilizzando le proprie abilità marziali e un po’ di ingegno, il supergruppo sconfigge le truppe del Nemico e può finalmente entrare nell’edificio.</i>
 
-<i>Questo le consiglia di fare una bella vendita di torte salate, bibite analcoliche e dolcetti durante la fiera cittadina di quel fine settimana. Gioacchino il Bello decide subito di aiutare mettendosi ai fornelli; il suo sogno del resto è quello di fare come Mestiere il cuoco.</i>
+<i>
+> Dalle scale si sente un applauso e una risata sguaiata: è Ekaterina l’Alfiere, una dei generali del Cavaliere Grigio.  Si complimenta con loro per aver sconfitto la Torre la settimana prima, ma lei è di tutt’altra pasta. Dai lucernai si calano con le corde altri Pedoni, pronti a dare man forte alla propria generalessa.
+</i>
 
 <i>Lo stesso Gioacchino coinvolgerà Michela la Leader e Serena la Bassista carismatica; la prima userà il suo Pregio extra-ruolo “popolare” per fare un po’ di pubbliche relazioni, mentre Serena il suo Hobby “DJ” per pubblicizzare l’evento durante la sua ora di diretta nella radio scolastica. Serena ne approfitta per scommettere una pizza con Michela su chi porterà più persone al banchino.</i>
 

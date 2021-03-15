@@ -52,7 +52,7 @@ Figo, no?
 
 ### Oppure torniamo alle basi, eh?
 
-Tipo che un gioco non necessariamente si vende, perché non necessariamente è un prodotto.
+Tipo che un gioco non necessariamente si vende, perché non necessariamente è un prodotto. Esiste merito e 
 
 #### Crediti
 

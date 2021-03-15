@@ -34,7 +34,7 @@ oppure:
 
 Durante i capitoli Vita vissuta degli episodi, il personaggio deve cercare di perseguire l’Obiettivo che si è prefissato, bilanciandolo con la sua identità segreta e le sue responsabilità verso i propri compagni.
 
-<div class="note"><strong>Nota:</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle 3 regole delle supertutine.</div>
+<div class="note"><strong>Nota:</strong> iil Narratore può utilizzare un Obiettivo come spinta propulsiva di un intero episodio, incentrando il capitolo di Vita vissuta su un solo personaggio.</div>
 
 
 Nota: 

@@ -4,13 +4,14 @@ weight: 7
 layout: docs
 ---
 
-L’avversario della settimana è stanco di giocare; il mostro si trasforma in un gigante alto come un grattacielo e pronto a devastare la città e i suoi difensori.
+Con un urlo all’unisono degli eroi, i cinque robot si trasformano e si cin un unico Super Robot dalle dimensioni gargantuesche. 
 
-In questo capitolo l’obiettivo è principalmente quello di neutralizzare la minaccia della settimana ed evitare al contempo che l’avversario titanico semini distruzione per le strade della città.
+Il Super Robot è così superiore rispetto a un semplice luogotenente del Nemico che la situazione si ribalta: è il Narratore a dover superare i Conflitti, mentre sono i giocatori a descrivere i risultati delle sue azioni. 
+Il Super Robot è un’entità di Rango 6, con la Qualità Arma suprema che aggiunge un +1 al Rango quando usata per colpire. L’avversario può aumentare il proprio rango utilizzando le sue qualità, e saranno i giocatori a decidere se sono narrativamente accettabili come bonus.
 
-In questo capitolo, i protagonisti possono richiamare i Robot personali senza il bisogno di spendere Gettoni.
+L’unico aspetto su cui mantiene autorità il Narratore è il Contatore da quattro Colpo finale; quando raggiunge lo zero, i giocatori possono descrivere e recitare la mossa più potente nell’arsenale del Super Robot, portata generalmente con la propria arma principale.
 
-Il capitolo si conclude quando il supergruppo raggiunge un obiettivo specifico, come per esempio disinnescare una bomba o portare in salvo degli innocenti. Nel caso l’obiettivo non esista, il capitolo si conclude quando il gruppo resiste alla controffensiva dell’Avversario per la durata di un Contatore da quattro.
+Il capitolo si chiude quando l’avversario è stato sconfitto, possibilmente senza descrivere la sua morte.
 
 ### Esempio
 

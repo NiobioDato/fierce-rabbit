@@ -14,7 +14,9 @@ Il capitolo si conclude quando il supergruppo raggiunge un obiettivo specifico, 
 
 ### Esempio
 
-<i>I protagonisti salgono le scale per disattivare la torre radio e liberare i cittadini dall’ipnosi, ma sul tetto della sede televisiva il sole è coperto dalla figura torreggiante di Ekaterina, ora una titana di 120 metri che li osserva dall’alto in basso, la risata fragorosa che rimbomba come tuoni. Non è possibile disattivare la torre radio con il mostro che la difende; è necessario un diversivo. </i>
+<i>I protagonisti salgono le scale per disattivare la torre radio e liberare i cittadini dall’ipnosi, ma sul tetto della sede televisiva il sole è coperto dalla figura torreggiante di Ekaterina, ora una titana di 120 metri che li osserva dall’alto in basso, la risata fragorosa che rimbomba come tuoni.</i>
+
+<i>Non è possibile disattivare la torre radio con il mostro che la difende; è necessario un diversivo.</i>
 
 <i>Ora Ekaterina e i suoi lacché non combattono più contro cinque semplici adolescenti, bensì contro i cinque cavalieri galattici dei romanzi cavallereschi!</i>
 

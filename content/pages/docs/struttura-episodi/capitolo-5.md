@@ -16,7 +16,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto, possibilmente se
 
 ### Esempio
 
-<i>I protagonisti salgono le scale per disattivare la torre radio e liberare i cittadini dall’ipnosi, ma sul tetto della sede televisiva il sole è coperto dalla figura torreggiante di Ekaterina, ora una titana di 120 metri che li osserva dall’alto in basso, la risata fragorosa che rimbomba come tuoni.</i>
+<i>Cristiano torna con il suo Robot di fianco ai suoi compagni e insieme, all’unisono, richiamano il potere di Ultra Arthurdroid, il loro Super Robot.</i>
 
 <i>Non è possibile disattivare la torre radio con il mostro che la difende; è necessario un diversivo.</i>
 

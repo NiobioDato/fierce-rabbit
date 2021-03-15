@@ -7,7 +7,7 @@ layout: docs
 Sei persone al tavolo sono già molte, ma con un po’ di creatività e moderazione da parte del Narratore c’è spazio per un sesto o settimo giocatore. 
 
 
-Giocare con sei tutine
+## Giocare con sei tutine
 
 Con sei giocatori può entrare in scena il Ruolo di Lupo solitario, un eroe forte come il Bruto, deciso come il Leader, intelligente come il Cervellone e affascinante come il Bassista carismatico. Il suo difetto è, banalmente, non conoscere nessuno e fidarsi ancor meno di quelli che sarebbero i suoi compagni.
 

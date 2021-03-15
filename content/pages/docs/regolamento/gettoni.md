@@ -10,3 +10,19 @@ I giocatori partono nel primo episodio con 6 Gettoni, mentre il Narratore con 4.
 
 ## Uso dei Gettoni per i giocatori
 
+I giocatori possono usare i Gettoni per:
+
+
+- aumentare il Rango di 1 per il calcolo della riserva dadi [1 Gettone];
+- lanciare una Mossa segreta una volta a episodio [2 Gettoni];
+- chiamare un robot personale [1 Gettone];
+- Ultra Supportare [1 Gettone];
+- evitare una Conseguenza Leggera [1 Gettone];
+- evitare una Conseguenza Grave [2 Gettoni];
+- creare una nuova arma suprema per il Super Robot [4 Gettoni].
+
+Andiamo a vedere i due metodi di spesa dei Gettoni che non sono stati già delineati nel capitolo precedente.
+
+Evitare una Conseguenza Leggera o Grave: il giocatore può spendere uno o due gettoni per prendere il controllo della scena e raccontare come la situazione è andata meglio di quello che si poteva pensare.
+
+Creare una nuova arma suprema per il Super Robot: il nemico aveva sottovalutato la potenza del Super Robot; spendendo 4 Gettoni, i giocatori possono descrivere una nuova arma del Super Robot capace di dimezzare il numero di sezioni del contatore richieste per utilizzare il Colpo Finale nel capitolo Scontro fra titani.  

@@ -29,14 +29,16 @@ Il nemico aveva sottovalutato la potenza del Super Robot; spendendo 4 Gettoni, i
 
 ## Uso dei Gettoni per il Narratore
 
-I giocatori possono usare i Gettoni per:
-- aumentare il Rango di 1 per il calcolo della riserva dadi [1 Gettone];
-- lanciare una Mossa segreta una volta a episodio [2 Gettoni];
-- chiamare un robot personale [1 Gettone];
-- Ultra Supportare [1 Gettone];
-- evitare una Conseguenza Leggera [1 Gettone];
-- evitare una Conseguenza Grave [2 Gettoni];
-- creare una nuova arma suprema per il Super Robot [4 Gettoni].
+Il Narratore può usare i Gettoni per:
+
+- rendere permanente una Conseguenza Leggera [1 Gettone];
+- rendere permanente una Conseguenza Grave [2 Gettoni];
+- utilizzare la Qualità di un nemico [1 Gettone];
+- utilizzare la Qualità Superiore di un nemico [2 Gettoni];
+- lanciare una Scommessa [2 Gettoni];
+- riportare in Scena [2 Gettoni].
+
+Andiamo a vedere i metodi di spesa dei Gettoni non spiegati in precedenza.
 
 Andiamo a vedere i due metodi di spesa dei Gettoni che non sono stati già delineati nel capitolo precedente.
 

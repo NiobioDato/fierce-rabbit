@@ -1,5 +1,5 @@
 ---
-title: Capitolo 1 - Vita Vissuta
+title: Giocare un episodio autoconclusivo
 weight: 3
 layout: docs
 ---

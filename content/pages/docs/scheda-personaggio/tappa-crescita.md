@@ -73,7 +73,6 @@ Oppure:
 
 Il SuperCoso supporta attivamente la crescita dei suoi ragazzi, donando uno dei seguenti oggetti al personaggio che supera una Tappa:
 
-
 - un nuovo casco della tutina che nega un malus ambientale leggero una volta per episodio;
 - un fischietto sonico che richiama il robot personale gratuitamente una volta per episodio;
 - un mediplasma che trasforma una Conseguenza Grave in Leggera una volta per episodio;

@@ -49,7 +49,7 @@ Come in CopperHead, gli Avversari [p. 14] alcune volte possiedono Qualità poten
 ### Lanciare una Scommessa
 Le Scommesse funzionano esattamente come in CopperHead [p. 12].
 
-### Utilizzare la Qualità o la Qualità Superiore di un nemico
+### Riportare in Scena
 Come in CopperHead, gli Avversari [p. 14] alcune volte possiedono Qualità potenti che possono essere attivate spendendo un Gettone. In Copper Sentai, alcune di queste Qualità sono così poderose da 
 
 

@@ -1,6 +1,6 @@
 ---
-title: Contatore
-weight: 5
+title: I Gettoni
+weight: 6
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---

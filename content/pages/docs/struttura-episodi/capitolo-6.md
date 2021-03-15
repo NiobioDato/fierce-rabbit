@@ -14,8 +14,7 @@ L’episodio si chiude quando tutte le linee narrative sono state risolte e, all
 
 <i>Sventata la minaccia di Ekaterina e il suo show ipnotico, il gruppo torna di buona lena alla fiera. Il luogo è già gremito di persone, ed è presente una bella fila di persone ad aspettare di comprare dolci e bibite dal banchino dei ragazzi!</i>
 
-<i>
-> In poche ore riescono a vendere tutto quello che avevano preparato, con grande gioia da parte di tutti. Facendo due calcoli, però, i soldi non sono per niente sufficienti a coprire le tasse scolastiche al netto dei costi.
+<i>In poche ore riescono a vendere tutto quello che avevano preparato, con grande gioia da parte di tutti. Facendo due calcoli, però, i soldi non sono per niente sufficienti a coprire le tasse scolastiche al netto dei costi.
 </i>
 
 <i>Ekaterina prova a rispondere con i suoi poteri ipnotici, ma i piloti, ora che sono insieme nella stessa cabina, sembrano immuni a qualsiasi cosa li possa dividere.</i>

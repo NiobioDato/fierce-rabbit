@@ -48,7 +48,7 @@ Copper Sentai sarà un volume in brossura tutto a colori, con 48 illustrazioni d
 
 Al raggiungimento del primo stretch goal, che dovrebbe essere sui 2.000 euro, aggiungeremo un secondo volume di 180 pagine di... boh, probabilmente ci metteremo alcuni mostri e un centinaio di nuove illustrazioni. Le illustrazioni sono importanti; come i LED nel PC, le illustrazioni in un gioco di ruolo aumentano le performance del 92%.
 
-
+Oppure torniamo alle basi, eh?
 
 
 #### Crediti

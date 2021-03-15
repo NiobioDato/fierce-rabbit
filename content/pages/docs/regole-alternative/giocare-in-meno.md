@@ -1,5 +1,5 @@
 ---
-title: Le tre regole delle supertutine
+title: Giocare in meno persone
 weight: 1
 layout: docs
 ---

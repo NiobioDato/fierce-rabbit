@@ -4,8 +4,8 @@ weight: 6
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---
-Come nel toolbox di Copperhead [p. 11], in Copper Sentai si usa il Contatore per calcolare i successi necessari per risolvere un Conflitto.
+Per quanto il concept sia molto simile a quello di CopperHead, i Gettoni [pp 11-13] in Copper Sentai sono una risorsa che i giocatori possono spendere in maniera più aggressiva rispetto alle varianti presentate nel toolbox.
 
-Il Contatore può avere quattro, sei od otto spicchi in base alla complessità del Conflitto e può rappresentare le difese e le resistenze di un avversario, oppure la soglia di pericolosità di una situazione.
+I giocatori partono nel primo episodio con 6 Gettoni, mentre il Narratore con 4. I Gettoni quando spesi dai giocatori vengono ceduti al Narratore e viceversa. Il numero di Gettoni in possesso delle due parti non viene ripristinato fra un episodio e l’altro.
 
-I Contatori possono essere usati singolarmente, in successione o inversi (un Contatore sale e un altro scende).
+##

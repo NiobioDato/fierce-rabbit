@@ -29,7 +29,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo
 
 ## Variante Pilota
 
-Questo capitolo rimane nella sostanza invariato nel pilota, ma il SuperCoso sarà sempre in collegamento per ricordare loro le tre regole delle supertutine e spronarli a dare del loro meglio.
+Questo capitolo rimane nella sostanza invariato, ma sarà il SuperCoso a chiamare la trasformazione per la prima volta e ha spiegare brevemente il funzionamento del loro equipaggiamento a livello narrativo.
 
  
 ## Variante Finale

@@ -36,7 +36,7 @@ E quindi? Be', si passa alla cassa!
 
 ### Introducing Copper Sentai - The Real Experience
 
-#### ****![](https://raw.githubusercontent.com/NiobioDato/fierce-rabbit/master/public/images/copper-sentai-book.jpg)
+![](https://raw.githubusercontent.com/NiobioDato/fierce-rabbit/master/public/images/copper-sentai-book.jpg)
 
 Se c'è una cosa che funziona alla grande in Italia è l'editoria indipendente. Persone indigenti hanno investito qualche migliaio di euro in progetti a prima vista spinti da sola vanità e BAM!, ora sono più ricchi di un sultano e più spietati dei suoi torturatori di corte!
 

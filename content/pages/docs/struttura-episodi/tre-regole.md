@@ -6,7 +6,6 @@ layout: docs
 
 Per mantenere quel minimo di coerenza narrativa ed evitare l’effetto festa dei clown, i protagonisti di Copper Sentai devono aderire sempre a tre regole:
 
-
 1. una supertutina non usa i suoi poteri per vantaggi personali;
 2. una supertutina difende e non attacca, perché il suo scopo è di smorzare i conflitti e non aumentarne l’intensità; 
 3. una supertutina deve mantenere segreta la sua vera identità.

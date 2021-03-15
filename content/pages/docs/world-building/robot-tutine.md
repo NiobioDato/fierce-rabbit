@@ -23,5 +23,6 @@ I Tech Pirati dell’esempio sopra avranno robot con le fattezze degli animali c
 
 Non entrate nel particolare delle caratteristiche di ogni robot; quello avverrà in fase di creazione del personaggio. 
 
-<div class="note"><strong>Nota:</strong> I robot, a prescindere dalla tipologia, sono enormi. Parliamo di colossi meccanici di 20-30 metri di lunghezza e/o altezza. Tenetene di conto quando create un concept per il gruppo.</div>
+<div class="note"><strong>Nota:</strong> I robot, a prescindere dalla tipologia, sono enormi. Parliamo di colossi meccanici di 20-30 metri di lunghezza e/o altezza. 
+Tenetene di conto quando create un concept per il gruppo.</div>
 

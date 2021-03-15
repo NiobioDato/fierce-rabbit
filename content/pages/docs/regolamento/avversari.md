@@ -48,7 +48,8 @@ Il Nemico giurato dell’umanità, è ricercato in tutta la Via Lattea per il su
 
 <b>[Forma perfetta]</b> Violentor è se stesso solo in forma Titanica: quando ingigantito, il suo Rango sale di +2.
 
-<b>[Frusta laser | 1 Gettone]</b> Violentor è se stesso solo in forma Titanica: quando ingigantito, il suo Rango sale di +2.
+<b>[Frusta laser | 1 Gettone]</b> Niente è fuori dalla portata della frusta più veloce della Galassia. Il personaggio colpito dalla frusta durante una prova di un Conflitto deve ritirare il dado più alto e utilizzare quel risultato.
+
 
 
 

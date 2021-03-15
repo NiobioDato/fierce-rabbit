@@ -11,8 +11,6 @@ I giocatori partono nel primo episodio con 6 Gettoni, mentre il Narratore con 4.
 ## Uso dei Gettoni per i giocatori
 
 I giocatori possono usare i Gettoni per:
-
-
 - aumentare il Rango di 1 per il calcolo della riserva dadi [1 Gettone];
 - lanciare una Mossa segreta una volta a episodio [2 Gettoni];
 - chiamare un robot personale [1 Gettone];

@@ -44,7 +44,6 @@ Per questo motivo, forte della mia esperienza che vi racconterò mentre cerco di
 
 Mica come quella roba che esce su KS sfruttando la forza di altri brand e facendo soldi perché hanno individuato un target che acquista, oh!
 
-
 Copper Sentai sarà un volume in brossura tutto a colori, con 48 illustrazioni dei migliori artisti internazionali, in stampa offset e rilegatura a filo refe in lino purissimo.
 
 

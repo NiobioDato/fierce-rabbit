@@ -24,12 +24,6 @@ Il capitolo si chiude quando l’avversario è stato sconfitto –⁠ con il suo
 
 <i>Teresa è stanca e preoccupata per le ferite dei propri compagni, perciò non perde ulteriore tempo e usa la sua Mossa Segreta, Magnum cum Laude: impugna il suo cannone portatile e prende la mira, mentre gli altri quattro cavalieri le donano la loro energia con la punta della loro spada. La Magnum esplode un proiettile di luce che taglia l’aria come un rasoio e colpisce Ekaterina che capitombola dalla finestra per l’impatto.</i>
 
-<i>Utilizzando le proprie abilità marziali e un po’ di ingegno, il supergruppo sconfigge le truppe del Nemico e può finalmente entrare nell’edificio.</i>
-
-<i>Dalle scale si sente un applauso e una risata sguaiata: è Ekaterina l’Alfiere, una dei generali del Cavaliere Grigio.  Si complimenta con loro per aver sconfitto la Torre la settimana prima, ma lei è di tutt’altra pasta. Dai lucernai si calano con le corde altri Pedoni, pronti a dare man forte alla propria generalessa.</i>
-
-<i>I ragazzi si guardano per un istante colmi di determinazione, prima di portare mano al dispositivo di trasformazione.</i>
-
 
 ## Variante Pilota
 

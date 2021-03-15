@@ -52,7 +52,7 @@ Figo, no?
 
 ### Oppure torniamo alle basi, eh?
 
-Tipo di scrivere giochi per far giocare la gente
+Tipo di scrivere giochi per far giocare la gente e, magari, pubblicare PRODOTTI
 
 #### Crediti
 

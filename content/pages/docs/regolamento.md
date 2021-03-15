@@ -8,7 +8,5 @@ Copper Sentai vi fa vestire le tutine sgargianti di un gruppo di cinque giovani 
 
 Copper Sentai utilizza il [toolbox CopperHead](https://www.facebook.com/groups/EpigoniGDR/permalink/2318526081604479) per gestire i conflitti e le sfide del Narratore, tranne in alcuni casi specifici che verranno descritti più avanti. Per giocare vi serviranno solo una manciata di d8 e qualche foglio bianco per le schede, oppure solo un tiradadi online se giocate in remoto.
 
-Qua le sezioni del Regolamento:
-
 ***
 

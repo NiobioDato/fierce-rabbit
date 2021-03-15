@@ -18,7 +18,7 @@ Il capitolo si chiude quando l’avversario è stato sconfitto, possibilmente se
 
 <i>Cristiano torna con il suo Robot di fianco ai suoi compagni e insieme, all’unisono, richiamano il potere di Ultra Arthurdroid, il loro Super Robot.</i>
 
-<i>Non è possibile disattivare la torre radio con il mostro che la difende; è necessario un diversivo.</i>
+<i>In pochi secondi questa meraviglia tecnologica prende forma e dal suolo richiama la sua gigantesca Excalibur, una spada fatta di pura luce.</i>
 
 <i>I Cavalieri della Tavola Rotonda richiamano i propri Robot e con un balzo entrano nella cabina di pilotaggio. </i>
 

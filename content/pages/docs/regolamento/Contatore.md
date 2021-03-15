@@ -4,12 +4,8 @@ weight: 5
 excerpt: Cos'è Copper Sentai e come funziona.
 layout: docs
 ---
-Copper Sentai usa la variante standard di Supportare [p. 10] quando uno o più personaggi accorrono in aiuto di un altro durante un Conflitto.
+Come nel toolbox di Copperhead [p. 11], in Copper Sentai si usa il Contatore per calcolare i successi necessari per risolvere un Conflitto.
 
-Con una spesa di un Gettone è possibile Ultra Supportare: tutti i personaggi entrano nella scena per aiutare il personaggio, descrivendo collettivamente una mossa speciale che li tiri fuori dall’impiccio.
+Il Contatore può avere quattro, sei od otto spicchi in base alla complessità del Conflitto e può rappresentare le difese e le resistenze di un avversario, oppure la soglia di pericolosità di una situazione.
 
-Ultra Supportare non offre dadi aggiuntivi, ma migliora di una categoria il risultato del conflitto seguendo lo schema qua sotto:
-
-Fallimento > Successo, ma
-Successo, ma > Successo
-Successo > Successo, e
+I Contatori possono essere usati singolarmente, in successione o inversi (un Contatore sale e un altro scende).

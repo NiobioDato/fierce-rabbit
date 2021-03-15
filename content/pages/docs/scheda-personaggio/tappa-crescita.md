@@ -52,5 +52,5 @@ oppure:
 
 > Giampiero sta per aprirsi a Stefano quando scopre che sta già frequentando qualcun altro; un ragazzo bellissimo appena trasferitosi da un’altra scuola. C’è qualcosa di strano in lui; è solo gelosia oppure il nuovo arrivato nasconde qualcosa?
 
-<div class="note"><strong>Nota:</strong> L’Ostacolo può anche essere parte del capitolo Minaccia della Settimana, ma deve essere comunque vinto dal ragazzo e non dal suo alter ego combattente.</div>
+<div class="note"><strong>Nota:</strong> l’Ostacolo può anche essere parte del capitolo Minaccia della Settimana, ma deve essere comunque vinto dal ragazzo e non dal suo alter ego combattente.</div>
 

@@ -35,15 +35,7 @@ Tutto il capitolo, anche se pieno d’azione, non vede ancora i protagonisti tra
 
 ## Variante Pilota
 
-I personaggi sono tutti  padolescentirivi di poteri all’inizio della puntata, quindi ha senso dare loro il tempo di presentarsi e conoscersi. 
-
-Dopo questa fase, il Narratore può aiutare nel creare un legame fra loro attraverso una chiamata all’avventura: potrebbero salvare inavvertitamente il SuperCoso, scoprire con orrore un infiltrazione aliena nella scuola oppure mostrarsi in un atto di generoso eroismo.
-
-Quale sia il caso, il SuperCoso darà loro il dispositivo di trasformazione, assicurandoli che sarà al loro fianco durante la loro prima missione perché, a conti fatti, sono eroi in prova.
-
-Si tratta di un episodio corale, il capitolo Vita vissuta del pilota non presenta Ostacoli né predilige il punto di vista di un personaggio rispetto a un altro.
-
-Il capitolo si chiude quando si palesa il pericolo della settimana.
+Questo capitolo rimane nella sostanza invariato nel pilota, ma il SuperCoso sarà sempre in collegamento per ricordare loro le tre regole delle supertutine e spronarli a dare del loro meglio.
 
  
 ## Variante Finale

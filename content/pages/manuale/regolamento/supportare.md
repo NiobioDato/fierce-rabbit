@@ -10,6 +10,6 @@ Con una spesa di un Gettone è possibile Ultra Supportare: tutti i personaggi en
 
 Ultra Supportare non offre dadi aggiuntivi, ma migliora di una categoria il risultato del conflitto seguendo lo schema qua sotto:
 
-Fallimento > Successo, ma
-Successo, ma > Successo
-Successo > Successo, e
+* Fallimento > Successo, ma
+* Successo, ma > Successo
+* Successo > Successo, e

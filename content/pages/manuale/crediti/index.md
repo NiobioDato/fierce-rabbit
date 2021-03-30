@@ -11,6 +11,6 @@ Niente editing esterno, niente grafici bravi, niente illustratori. Questo è un 
 
 Ringrazio <b>Nicola Santagostino</b> per il fantastico toolbox che ha scritto in coppia con <b>Antonio Rossetti</b>.
 
-Ovviamente ringrazio i creatori di Super Sentai e Power Rangers, due programmi televisivi che sono un po' il reggae degli show supereroistici, perché offrono piacere e consolazione nella ripetizione.
+Ovviamente ringrazio i creatori di Super Sentai e Power Rangers, due programmi televisivi che sono un po' il reggae degli show supereroistici; decidete voi se sia una cosa positiva o meno.
 
 Ah, questo manuale che vedete è montato su un sito statico gentilmente offerto da <a href="https://www.stackbit.com">Stackbit</a>, che è un servizio un po' hipster ma molto efficace per creare siti veloci come il fulmine.

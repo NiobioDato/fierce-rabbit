@@ -34,4 +34,4 @@ oppure:
 
 Gli eroi possono chiamare gratuitamente il proprio robot dall’inizio del capitolo [Attacco del titano](manuale/struttura-episodi/capitolo-4/) in poi, oppure spendendo un Gettone in qualsiasi momento.
 
-<div class="note"><strong>Nota:</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle <a href3 regole delle supertutine.</div>
+<div class="note"><strong>Nota:</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle <a href="3 regole delle supertutine.</div>

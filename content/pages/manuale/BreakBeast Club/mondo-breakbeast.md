@@ -1,5 +1,5 @@
 ---
-title: Il mondo Copper Sentai di BreakBeast Club
+title: Il mondo di BreakBeast Club
 weight: 1
 layout: docs
 ---

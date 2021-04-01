@@ -50,6 +50,8 @@ Con un “successo, ma”, Niko copre con la mano la tasca e lancia un’occhiat
 
 > A pochi passi dalla porta della sala sentite la voce del vicepreside Humbert Lexington Jr. tuonare un perentorio “Muovetevi, su!”.
 
+***
+
 ### Nella sala ricevimenti
 
 Una volta all’interno della sala ricevimento:

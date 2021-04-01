@@ -28,7 +28,8 @@ BreakBeast, chiamato anche “Maestro occulto dell’imbosco”, “Campione del
 ### Come si mostra il SuperCoso? 
 Un umano di mezza età, spesso alle prese con lavori considerati umili.
 
-### Qual è il nome del supergruppo: Brat Pack
+### Qual è il nome del supergruppo? 
+Brat Pack.
 
 Qual è il dispositivo di trasformazione: guanti senza dita con uno schermo led sul dorso destro
 

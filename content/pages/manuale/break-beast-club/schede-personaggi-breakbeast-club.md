@@ -52,7 +52,7 @@ Mi piace <span style="color:green">**Fare gossip**</span> e da grande voglio far
 
 Al di là del mio Ruolo, sono una persona <span style="color:blue">**Resiliente**</span> ma che soffre di <span style="color:violet">**Pressioni sociali**</span>.
 
-Con la supertutina, posso usare il <span style="color:orange">**FaBrutto**</span>.
+Con la supertutina, posso usare l'<span style="color:orange">**Obiettore**</span>.
 
 
 

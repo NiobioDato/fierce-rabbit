@@ -74,6 +74,8 @@ Clara Standoff impugna l’**Obiettore**, uno **Stocco** capace di **Parare anch
 **Michael JackTron** è un robot Umanoide che somiglia a Michael Jackson e la sua Qualità è **Campo gravitazionale**.
 
 
+***
+
 
 Emile Cliff
 

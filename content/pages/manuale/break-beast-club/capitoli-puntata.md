@@ -101,6 +101,7 @@ Quando tutti i personaggi hanno presentato il motivo per cui sono lì:
 
 Lasciate i giocatori conoscersi e, nel caso, esplorare la stanza. Se interagiscono fra di loro ma rimangono al loro posto, aspettate che abbiano finito gli argomenti per far tornare il vicepreside.
 
+###
 ----------
 
 Aprire l’armadio è un Conflitto di Rango 4 con Contatore 2 legato inversamente a un contatore da 4; ogni “fallimento” fa calare il contatore da 4 di 2 e ogni “successo, ma” di 1. Se il contatore da 4 viene esaurito, il gruppo viene colto in flagrante dal vicepreside.

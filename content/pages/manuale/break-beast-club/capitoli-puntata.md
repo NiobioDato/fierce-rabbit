@@ -32,7 +32,6 @@ I giocatori ora possono segnarsi tre accessori nella loro scheda a loro totale d
 
 Se i giocatori non si avviano da soli in pochi minuti verso la sala ricevimento:
 
-
 > Il vicepreside fa capolino da fondo del corridoio, la mano ancora sulla porta della sala ricevimento. Vi fa un cenno perentorio con la mano, chiedendovi di avvicinarvi. Lo fa in silenzio, e non schioda gli occhi da voi, con un’intensità dello sguardo meno da corpo docente e più da cane pastore.
 
 Appena i giocatori si avvicinano, il vicepreside stizzito rientra nella sala per attenderli. 

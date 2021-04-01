@@ -1,5 +1,5 @@
 ---
-title: Giocare in più persone
+title: I protagonisti
 weight: 2
 layout: docs
 ---

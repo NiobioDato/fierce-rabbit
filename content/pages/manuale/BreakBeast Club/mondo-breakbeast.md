@@ -7,7 +7,7 @@ layout: docs
 ### Tema 
 I film di John Hughes
 
-Chi è il Nemico: Un Inquisitore Galattico
+### Chi è il Nemico: Un Inquisitore Galattico
 
 Come si chiama il Nemico: Lord Adderall
 

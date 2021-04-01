@@ -70,7 +70,7 @@ Clara Standoff impugna l’**Obiettore**, uno **Stocco** capace di **Parare anch
 
 ### Il Robot Personale
 
-**Cindy LauTech** è un robot Umanoide che somiglia a Cindy Lauper e la sua Qualità è **Assorbimento energetico**.
+Michael JackTron è un robot Umanoide che somiglia a Michael Jackson e la sua Qualità è Campo gravitazionale.
 
 
 

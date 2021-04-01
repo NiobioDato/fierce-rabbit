@@ -18,7 +18,7 @@ Mi piace <span style="color:green">**Provocare**</span> e da grande voglio fare 
 
 Al di là del mio Ruolo, sono una persona <span style="color:blue">**Implacabile**</span> ma che soffre di <span style="color:pink">**Complessi di inferiorità**</span>.
 
-Con la supertutina, posso usare il <span style="color:yellow">**FaBrutto**</span>.
+Con la supertutina, posso usare il <span style="color:orange">**FaBrutto**</span>.
 
 
 

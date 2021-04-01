@@ -91,7 +91,7 @@ Mi piace <span style="color:green">**Prendermi cura del mio look**</span> e da g
 
 Al di là del mio Ruolo, sono una persona <span style="color:blue">**Ordinata**</span> ma che soffre di <span style="color:violet">**Ansie da prestazione**</span>.
 
-Con la supertutina, posso usare il <span style="color:orange">**FaBrutto**</span>.
+Con la supertutina, posso usare il <span style="color:orange">**Touchdown**</span>.
 
 Io sono Emile Cliff e sono il Leader del gruppo.
 Mi piace Prendermi cura del mio look e da grande voglio fare l’Atleta professionista.

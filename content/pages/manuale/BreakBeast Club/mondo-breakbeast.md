@@ -23,7 +23,7 @@ Pacificare, tranquillizzare e irreggimentare la popolazione della Terra.
 Un alieno in incognito sulla Terra da mille anni.
 
 ### Come si chiama il SuperCoso? 
-BreakBeast, chiamato anche “Maestro occulto dell’imbosco”, “Campione della pennichella”, oppure “l’Anarcolettico”
+BreakBeast, chiamato anche “Maestro occulto dell’imbosco”, “Campione della pennichella”, oppure “l’Anarcolettico”.
 
 ### Come si mostra il SuperCoso? 
 Un umano di mezza età, spesso alle prese con lavori considerati umili.

@@ -10,7 +10,7 @@ I film di John Hughes
 ### Chi è il Nemico? 
 Un Inquisitore Galattico
 
-Come si chiama il Nemico: Lord Adderall
+### Come si chiama il Nemico: Lord Adderall
 
 Come si chiama l’organizzazione del Nemico: Ordine Supremo dei Bei Tempi Andati
 

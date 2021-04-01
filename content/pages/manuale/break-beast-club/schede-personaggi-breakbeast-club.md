@@ -151,7 +151,7 @@ Con la supertutina, posso usare il <span style="color:orange">**Bohémien**</spa
 
 ### Parole chiave di Ruolo
 
-Per Allie Burt, essere la Bruta significa avere Sguardo da killer, Indipendenza e Stretta d’acciaio. Purtroppo vuol dire anche essere Emotivamente instabile.
+Per Allie Burt, essere la Bruta significa avere **Sguardo da killer**, **Indipendenza** e **Stretta d’acciaio**. Purtroppo vuol dire anche essere Emotivamente instabile.
 
 L’Arma
 

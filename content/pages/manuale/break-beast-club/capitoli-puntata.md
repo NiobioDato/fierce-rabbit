@@ -80,16 +80,13 @@ Per Clara:
 
 Per Emile:
 
-
 > Signor Cliff, sta di nuovo male? Non tiene in mano la penna? Sta avendo un “malanno” come quelli con cui ha saltato gli allenamenti della squadra?
 
 Per Brody:
 
-
 > Signor Jefferson, coi compiti non ha mai avuto problemi; cosa sta aspettando a compilare il foglio? Non pensi di fare con me una sceneggiata come quella con la professoressa Longton, perché io ho una soglia della sopportazione molto più bassa!
 
 Per Allie
-
 
 > Signorina Burt, ce la fa a scrivere due righe? Io non so ancora perché lei non sia in una di quelle classi speciali, pensate per chi ha, come dire, bisogno di sostegno. I suoi voti sono terribili, semplicemente terribili.
 

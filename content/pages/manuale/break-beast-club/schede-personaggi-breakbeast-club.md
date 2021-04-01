@@ -129,7 +129,7 @@ Per Brody Jefferson, essere il Cervellone significa avere **Spirito Analitico**,
 
 Emile Cliff imbraccia **Teoremington**, una **Carabina a proiettili quantici** capace di **Cambiare lo stato della materia inerte**.
 
-Il Robot Personale
+### Il Robot Personale
 
 Whitney HusTron è un robot Umanoide che somiglia a Whitney Huston e la sua Qualità è Attutatore elettromagnetico.
 

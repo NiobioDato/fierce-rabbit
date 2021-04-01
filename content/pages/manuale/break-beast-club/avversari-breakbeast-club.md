@@ -20,7 +20,8 @@ I crumiroidi sono la fanteria per niente scelta di Lord Adderall e i suoi genera
 
 ## Gronk il Rigido
 
-Rango 4 Contatore 6
+**Rango** 4 **Contatore** 6
+
 -inserire qui descrizione- 
 
 Qualità

@@ -157,6 +157,6 @@ Per Allie Burt, essere la Bruta significa avere **Sguardo da killer**, **Indipen
 
 Allie Burt impugna **Bohémien**, un **Megafono multifrequenza** capace di **Stordire**.
 
-Il Robot Personale
+### Il Robot Personale
 
 Simon Le Tron è un robot Umanoide che somiglia a Simon Le Bon e la sua Qualità è Teletrasporto a corto raggio.

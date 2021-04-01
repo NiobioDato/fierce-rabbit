@@ -89,7 +89,7 @@ Io sono Emile Cliff e sono il <span style="color:red">**Leader**</span> del grup
 
 Mi piace <span style="color:green">**Prendermi cura del mio look**</span> e da grande voglio fare l'<span style="color:green">**Atleta professionista**</span>.
 
-Al di là del mio Ruolo, sono una persona <span style="color:blue">**Implacabile**</span> ma che soffre di <span style="color:violet">**Complessi di inferiorità**</span>.
+Al di là del mio Ruolo, sono una persona <span style="color:blue">**Ordinata**</span> ma che soffre di <span style="color:violet">**Complessi di inferiorità**</span>.
 
 Con la supertutina, posso usare il <span style="color:orange">**FaBrutto**</span>.
 

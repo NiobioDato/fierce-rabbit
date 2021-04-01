@@ -14,5 +14,5 @@ La lista specialissima di mostri.
 I crumiroidi sono umani a cui è stato fatto il lavaggio del cervello.
 
 ### Qualità
-**[Sono umani come noi!] Provare a Colpire un Crumiroide dà un malus ambientale leggero.
+**[Sono umani come noi!]** Provare a Colpire un Crumiroide dà un malus ambientale leggero.
 [Vassalli della mediocrità - 1 Gettone] Il Narratore può chiamare questa Qualità prima di un tiro che diventa un “Successo, ma” automatico.

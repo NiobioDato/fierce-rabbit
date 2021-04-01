@@ -101,7 +101,7 @@ Per Emile Cliff, essere il Leader significa avere **Coraggio**, **Integrità** e
 
 Emile Cliff impugna **Touchdown**, una **Palla ovale chiodata** capace di essere **Richiamata indietro da ovunque sia**.
 
-Il Robot Personale
+### Il Robot Personale
 
 Mechdonna è un robot Umanoide che somiglia a Madonna e la sua Qualità è Corazza mimetica.
 

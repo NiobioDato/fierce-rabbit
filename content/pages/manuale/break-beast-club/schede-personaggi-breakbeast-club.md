@@ -73,10 +73,6 @@ Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimid
 **Cindy LauTech** è un robot Umanoide che somiglia a Cindy Lauper e la sua Qualità è **Assorbimento energetico**.
 
 
-
-
-Clara Standoff è figlia di un noto industriale del luogo e fin da piccola è stata la ragazza popolare che tutti vogliono frequentare. Con il successo arriva anche l’invidia, e le voci messe in giro da Mazzie, una sua “amica-nemica”, su infondati rapporti intimi con alcuni ragazzi diventano la miccia che fa esplodere la sua rabbia. Vista lanciare epiteti irripetibili a Mazzie in mezzo al corridoio, è stata formalmente richiamata e costretta a partecipare alla sessione di riallineamento educativo del sabato.
-
 Scheda base
 
 Io sono Clara Standoff e sono la Bella del gruppo.

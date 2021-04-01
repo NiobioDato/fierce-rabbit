@@ -93,11 +93,6 @@ Al di là del mio Ruolo, sono una persona <span style="color:blue">**Ordinata**<
 
 Con la supertutina, posso usare il <span style="color:orange">**Touchdown**</span>.
 
-Io sono Emile Cliff e sono il Leader del gruppo.
-Mi piace Prendermi cura del mio look e da grande voglio fare l’Atleta professionista.
-Al di là del mio Ruolo, sono una persona Ordinata ma che soffre di Ansie da prestazione.
-Con la supertutina, posso usare Touchdown.
-
 Parole chiave di Ruolo
 
 Per Emile Cliff, essere il Leader significa avere Coraggio, Integrità ed essere Collaborativi. Purtroppo vuol dire anche avere Paura del fallimento.

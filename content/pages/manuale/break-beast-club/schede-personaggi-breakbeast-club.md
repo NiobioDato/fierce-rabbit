@@ -74,15 +74,6 @@ Clara Standoff impugna l’**Obiettore**, uno **Stocco** capace di **Parare anch
 
 
 
-
-Per Clara Standoff, essere la Bella significa avere Pazienza infinita, Fascino ed Empatia. Purtroppo vuol dire anche essere Egocentrici.
-
-L’Arma
-
-
-Il Robot Personale
-
-
 Emile Cliff
 
 Emile Cliff è l’atleta della scuola, il predestinato al professionismo fin dalla tenera età. Spinto dai genitori a dare il meglio in tutti i campi, Emile prova a renderli fieri anche quando vorrebbe solo fare l’adolescente.  Per la pressione di dover fare per forza una buona performance nella partita che consegnerebbe in anticipo il titolo regionale alla sua squadra, Emile scappa dagli allenamenti fingendo un malore. Il coach lo trova per caso qualche ora dopo in sala giochi, facendolo andare su tutte le furie. Per questo motivo, Emile è costretto a partecipare alla sessione di riallineamento educativo del sabato, in modo da “recuperare” prima della partita del giorno dopo.

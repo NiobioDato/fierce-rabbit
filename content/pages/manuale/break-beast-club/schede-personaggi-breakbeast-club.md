@@ -121,12 +121,6 @@ Al di là del mio Ruolo, sono una persona <span style="color:blue">**Concentrata
 
 Con la supertutina, posso usare il <span style="color:orange">**Teoremington**</span>.
 
-
-Io sono Brody Jefferson e sono il Cervellone del gruppo.
-Mi piace Risolvere le parole crociate e da grande voglio fare il Fisico.
-Al di là del mio Ruolo, sono una persona Concentrata ma che soffre di Scarsa autostima.
-Con la supertutina, posso usare Teoremington.
-
 Parole chiave di Ruolo
 
 Per Brody Jefferson, essere il Cervellone significa avere Spirito Analitico, Curiosità e Memoria fotografica. Purtroppo vuol dire anche avere Paura dello scontro fisico.

@@ -143,7 +143,7 @@ Allie Burt è una ragazza eccentrica che ama la poesia, il buon cibo e la libert
 
 Io sono Allie Burt e sono la <span style="color:red">**Bruta**</span> del gruppo.
 
-Mi piace <span style="color:green">**Risolvere le parole crociate**</span> e da grande voglio fare il<span style="color:green">**Fisico**</span>.
+Mi piace <span style="color:green">**Mangiare qualsiasi cosa**</span> e da grande voglio fare il<span style="color:green">**Fisico**</span>.
 
 Al di là del mio Ruolo, sono una persona <span style="color:blue">**Concentrata**</span> ma che soffre di <span style="color:violet">**Scarsa autostima**</span>.
 

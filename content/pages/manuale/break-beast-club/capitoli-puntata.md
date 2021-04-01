@@ -72,7 +72,6 @@ Permettete ai giocatori di spiegare in poche parole il motivo per cui sono stati
 
 Per Jude:
 
-
 > “Che c’è, signor Bender? Blocco dello scrittore? Eppure quei, uhm, particolari anatomici che ha disegnato con lo spray nel refettorio mi sembravano frutto di una mente fin troppo creativa.”
 
 Per Clara:

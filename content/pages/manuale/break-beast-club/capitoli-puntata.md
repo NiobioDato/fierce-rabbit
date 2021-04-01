@@ -1,6 +1,6 @@
 ---
 title: Gli avversari di BreakBeast Club
-weight: 3
+weight: 4
 layout: docs
 ---
 ## Crumiroidi

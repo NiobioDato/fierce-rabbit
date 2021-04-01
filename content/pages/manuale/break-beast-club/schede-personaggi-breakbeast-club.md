@@ -123,7 +123,7 @@ Con la supertutina, posso usare il <span style="color:orange">**Teoremington**</
 
 ### Parole chiave di Ruolo
 
-Per Brody Jefferson, essere il Cervellone significa avere **Spirito Analitico, Curiosità e Memoria fotografica. Purtroppo vuol dire anche avere Paura dello scontro fisico.
+Per Brody Jefferson, essere il Cervellone significa avere **Spirito Analitico**, **Curiosità** e **Memoria fotografica**. Purtroppo vuol dire anche avere Paura dello scontro fisico.
 
 L’Arma
 

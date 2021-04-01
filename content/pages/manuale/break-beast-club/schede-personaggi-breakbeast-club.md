@@ -48,7 +48,7 @@ Clara Standoff è figlia di un noto industriale del luogo e fin da piccola è st
 
 Io sono Clara Standoff e sono la <span style="color:red">**Bella**</span> del gruppo.
 
-Mi piace <span style="color:green">**Provocare**</span> e da grande voglio fare il <span style="color:green">**Pilota di moto**</span>.
+Mi piace <span style="color:green">**Fare gossip**</span> e da grande voglio fare il <span style="color:green">**Pilota di moto**</span>.
 
 Al di là del mio Ruolo, sono una persona <span style="color:blue">**Implacabile**</span> ma che soffre di <span style="color:violet">**Complessi di inferiorità**</span>.
 

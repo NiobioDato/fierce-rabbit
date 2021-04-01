@@ -12,7 +12,7 @@ In una delle sue ultime visite alla scuola, aveva scommesso con degli amici che 
 
 ### Scheda base
 
-Io sono Jude Bender e sono il <span style="color:red">**Bassista carismatico** del gruppo.
+Io sono Jude Bender e sono il <span style="color:red">**Bassista carismatico**</span> del gruppo.
 
 Mi piace **Provocare **e da grande voglio fare il **Pilota di moto**.
 

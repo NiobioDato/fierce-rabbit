@@ -79,7 +79,6 @@ Per Clara Standoff, essere la Bella significa avere Pazienza infinita, Fascino e
 
 L’Arma
 
-Clara Standoff impugna l’Obiettore, uno Stocco capace di Parare anche i colpi più duri.
 
 Il Robot Personale
 

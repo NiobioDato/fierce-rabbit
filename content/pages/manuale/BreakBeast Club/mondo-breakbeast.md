@@ -59,13 +59,13 @@ Come popstar famose in versione robotica.
 ### Com’è fatto il Super Robot?
 La sua armatura è di un metallo simile al platino, in testa ha una corona e i piedi sono Doc Martens robotiche.
 
+Le parti sono:
 
-
-Busto:  Mechdonna
-Braccio destro: Whitney HusTron
-Braccio sinistro: Simon Le Tron
-Gamba destra: Michael JackTron
-Gamba sinistra: Cindy LauTech
+- <b>Busto</b>:  Mechdonna
+- Braccio destro: Whitney HusTron
+- Braccio sinistro: Simon Le Tron
+- Gamba destra: Michael JackTron
+- Gamba sinistra: Cindy LauTech
 
 
 Come si chiama il Super Robot: Top of the Pops

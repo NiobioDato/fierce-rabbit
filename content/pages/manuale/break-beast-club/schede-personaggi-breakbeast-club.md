@@ -113,7 +113,7 @@ Brody è lo studente modello, con i migliori voti possibili e un futuro radioso 
 
 ### Scheda base
 
-Io sono Emile Cliff e sono il <span style="color:red">**Leader**</span> del gruppo.
+Io sono Brody Jefferson e sono il <span style="color:red">**Leader**</span> del gruppo.
 
 Mi piace <span style="color:green">**Prendermi cura del mio look**</span> e da grande voglio fare l'<span style="color:green">**Atleta professionista**</span>.
 

@@ -24,7 +24,7 @@ Dopo l’intervento del narratore, la puntata si apre con i cinque ragazzi che r
 >  All’entrata trovate un cartello, scritto con caratteri che farebbero sembrare quelli di Gutenberg sbarazzini e moderni: «Per gli studenti del riallineamento educativo: ore 8:05, sala ricevimento piano terra».
 
 I giocatori arrivano nel corridoio della scuola intorno alle 8:00 e si dovrebbero incrociare all’incirca all’altezza degli armadietti degli studenti, dove possono recuperare i loro effetti personali. 
-I giocatori ora possono scegliere la possibilità di segnare tre accessori nella loro scheda. 
+I giocatori ora possono segnarsi tre accessori nella loro scheda a loro totale discrzione. 
 
 [Nota: gli accessori non offrono bonus al Rango, ma sbloccano l’uso di Qualità che richiedono oggetti per funzionare; banalmente, si pensi all’uso di “Prendersi cura del look” di Emile per sistemarsi i capelli senza un pettine.]
 

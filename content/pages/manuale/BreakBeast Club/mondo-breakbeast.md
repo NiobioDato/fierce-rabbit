@@ -71,7 +71,8 @@ Le parti sono:
 ### Come si chiama il Super Robot? 
 Top of the Pops
 
-#Qual è l’arma suprema del robot: Una lancia con la punta da giradischi, la Long Piercer (LP)
+#Qual è l’arma suprema del robot? 
+Una lancia con la punta da giradischi, la Long Piercer (LP)
 
 Qual è il Colpo finale: Hot 100: cento affondi di lancia capaci di fondere la roccia più dura
 

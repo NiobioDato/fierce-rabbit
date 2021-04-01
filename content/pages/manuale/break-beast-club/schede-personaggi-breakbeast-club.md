@@ -127,7 +127,7 @@ Per Brody Jefferson, essere il Cervellone significa avere **Spirito Analitico**,
 
 ### L’Arma
 
-Emile Cliff imbraccia **Teoremington**, una Carabina a proiettili quantici capace di Cambiare lo stato della materia inerte che colpisce.
+Emile Cliff imbraccia **Teoremington**, una **Carabina a proiettili quantici capace di Cambiare lo stato della materia inerte che colpisce.
 
 Il Robot Personale
 

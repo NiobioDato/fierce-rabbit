@@ -133,6 +133,8 @@ Emile Cliff imbraccia **Teoremington**, una **Carabina a proiettili quantici** c
 
 **Whitney HusTron** è un robot Umanoide che somiglia a Whitney Huston e la sua Qualità è **Attutatore elettromagnetico**.
 
+***
+
 Allie Burt
 
 Allie Burt è una ragazza eccentrica che ama la poesia, il buon cibo e la libertà. Nonostante un carattere un po’ mercuriale, è una ragazza acuta e intelligente. Purtroppo deve prendersi cura della mamma sola e malata, perciò non riesce a studiare a casa e in classe spesso dorme. Visti i risultati sconfortanti degli ultimi compiti in classe, Allie è stata chiamata a partecipare alla sessione di riallineamento educativo di sabato.

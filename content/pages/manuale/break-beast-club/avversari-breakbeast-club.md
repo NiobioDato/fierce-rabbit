@@ -22,7 +22,7 @@ I crumiroidi sono la fanteria per niente scelta di Lord Adderall e i suoi genera
 **Rango** 4 **Contatore** 6
 
 
-> Gronk Il Rigido è una sorta di mostro chimerico con le ali da pipistrello, il volto da Foca, il corpo da leone ritto su due zampe e il bastone da, uhm, pastore? Sai, quei bastoni da pastorello della Bibbia col ricciolino di legno in alto? Ecco, quello. 
+Gronk Il Rigido è una sorta di mostro chimerico con le ali da pipistrello, il volto da Foca, il corpo da leone ritto su due zampe e il bastone da, uhm, pastore? Sai, quei bastoni da pastorello della Bibbia col ricciolino di legno in alto? Ecco, quello. 
 
 ### Qualità
 

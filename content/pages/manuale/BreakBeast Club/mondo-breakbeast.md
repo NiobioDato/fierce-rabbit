@@ -45,7 +45,8 @@ Guanti senza dita con uno schermo led sul dorso destro.
 - Brat Yellow
 - Brat Pink
 
-### Come sono fatti i robot delle tutine: Popstar
+### Come sono fatti i robot delle tutine? 
+Popstar
 
 Come si chiamano i robot delle tutine:
 

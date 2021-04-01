@@ -137,7 +137,7 @@ Emile Cliff imbraccia **Teoremington**, una **Carabina a proiettili quantici** c
 
 ## Allie Burt
 
-Allie Burt è una ragazza eccentrica che ama la poesia, il buon cibo e la libertà. Nonostante un carattere un po’ mercuriale, Alli è una ragazza acuta e intelligente. Purtroppo a casa deve prendersi cura della mamma sola e malata, perciò non sempre riesce a studiare a casa e in classe spesso dorme. Visti i risultati sconfortanti degli ultimi compiti in classe, Allie è stata chiamata a partecipare alla sessione di riallineamento educativo di sabato.
+Allie Burt è una ragazza eccentrica che ama la poesia, il buon cibo e la libertà. Nonostante un carattere un po’ mercuriale, Alli è una ragazza acuta e intelligente. Purtroppo a casa deve prendersi cura della mamma sola e malata, perciò non sempre riesce a studiare e in classe spesso dorme. Visti i risultati sconfortanti degli ultimi compiti in classe, Allie è stata chiamata a partecipare alla sessione di riallineamento educativo di sabato.
 
 ### Scheda base
 

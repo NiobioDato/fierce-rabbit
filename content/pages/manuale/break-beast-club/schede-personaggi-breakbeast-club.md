@@ -141,7 +141,7 @@ Allie Burt è una ragazza eccentrica che ama la poesia, il buon cibo e la libert
 
 ### Scheda base
 
-Io sono Allie Burt e sono la <span style="color:red">**Cervellone**</span> del gruppo.
+Io sono Allie Burt e sono la <span style="color:red">**Bruta**</span> del gruppo.
 
 Mi piace <span style="color:green">**Risolvere le parole crociate**</span> e da grande voglio fare il<span style="color:green">**Fisico**</span>.
 

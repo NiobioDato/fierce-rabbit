@@ -37,7 +37,7 @@ Guanti senza dita con uno schermo led sul dorso destro.
 ### Qual è il motto del supergruppo? 
 “Brat Pack, si rulla cartoni!”
 
-Quali sono i nomi delle tutine?
+### Quali sono i nomi delle tutine?
 
 - Brat Red
 - Brat Black

@@ -21,7 +21,7 @@ I crumiroidi sono la fanteria per niente scelta di Lord Adderall e i suoi genera
 
 **Rango** 4 **Contatore** 6
 
-Gronk, il 
+Gronk, il personaggio preferito da grandi e piccini.
 
 ### Qualità
 

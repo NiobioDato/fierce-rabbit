@@ -68,7 +68,7 @@ Le parti sono:
 - <b>Gamba sinistra</b>: Cindy LauTech
 
 
-Come si chiama il Super Robot? 
+### Come si chiama il Super Robot? 
 Top of the Pops
 
 Qual è l’arma suprema del robot: Una lancia con la punta da giradischi, la Long Piercer (LP)

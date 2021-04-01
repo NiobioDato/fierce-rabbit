@@ -113,6 +113,15 @@ Brody è lo studente modello, con i migliori voti possibili e un futuro radioso 
 
 ### Scheda base
 
+Io sono Emile Cliff e sono il <span style="color:red">**Leader**</span> del gruppo.
+
+Mi piace <span style="color:green">**Prendermi cura del mio look**</span> e da grande voglio fare l'<span style="color:green">**Atleta professionista**</span>.
+
+Al di là del mio Ruolo, sono una persona <span style="color:blue">**Ordinata**</span> ma che soffre di <span style="color:violet">**Ansie da prestazione**</span>.
+
+Con la supertutina, posso usare il <span style="color:orange">**Touchdown**</span>.
+
+
 Io sono Brody Jefferson e sono il Cervellone del gruppo.
 Mi piace Risolvere le parole crociate e da grande voglio fare il Fisico.
 Al di là del mio Ruolo, sono una persona Concentrata ma che soffre di Scarsa autostima.

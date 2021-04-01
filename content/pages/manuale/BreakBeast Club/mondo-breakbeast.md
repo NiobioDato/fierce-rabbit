@@ -16,7 +16,8 @@ Lord Adderall
 ### Come si chiama l’organizzazione del Nemico? 
 Ordine Supremo dei Bei Tempi Andati
 
-Cosa vuole il nemico: Pacificare, tranquillizzare e irreggimentare la popolazione della Terra
+### Cosa vuole il nemico? 
+Pacificare, tranquillizzare e irreggimentare la popolazione della Terra.
 
 Chi è il SuperCoso: un alieno in incognito sulla Terra da mille anni
 

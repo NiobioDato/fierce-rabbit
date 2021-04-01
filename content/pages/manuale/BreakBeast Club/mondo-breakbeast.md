@@ -61,7 +61,7 @@ La sua armatura è di un metallo simile al platino, in testa ha una corona e i p
 
 Le parti sono:
 
-- <b>Busto</b>:  Mechdonna
+- <b>Busto</b>: Mechdonna
 - <b>Braccio destro</b>: Whitney HusTron
 - <b>Braccio sinistro</b>: Simon Le Tron
 - <b>Gamba destra</b>: Michael JackTron

@@ -105,7 +105,7 @@ Lasciate i giocatori conoscersi e, nel caso, esplorare la stanza. Se interagisco
 
 Aprire l’armadio è un **Conflitto di Rango 4** con **Contatore 2** legato inversamente a un **Contatore da 4**; ogni “fallimento” fa calare il Contatore da 4 di 2 e ogni “successo, ma” di 1. Se il Contatore da 4 viene esaurito, il gruppo viene colto in flagrante dal vicepreside.
 
-Dentro l’armadio si trova una mezza dozzina di cerchietti di metallo con due gemme verdastre ai lati. Fra le due gemme c’è una sorta di ghirigoro intagliato, completamente illeggibile. Si tratta di un macchinario per la riprogrammazione neurale, utilizzato per rendere mansueti e docili studenti e professori e il modo in cui vengono creati i <a href="/manuale/crumiroidi.
+Dentro l’armadio si trova una mezza dozzina di cerchietti di metallo con due gemme verdastre ai lati. Fra le due gemme c’è una sorta di ghirigoro intagliato, completamente illeggibile. Si tratta di un macchinario per la riprogrammazione neurale, utilizzato per rendere mansueti e docili studenti e professori e il modo in cui vengono creati i <a href="/manuale/break-beast-club/crumiroidi.
 
 
 ----------

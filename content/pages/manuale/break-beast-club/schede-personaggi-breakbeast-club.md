@@ -83,7 +83,7 @@ Emile Cliff è l’atleta della scuola, il predestinato al professionismo fin da
 Per la pressione di dover fare per forza una buona performance nella partita che consegnerebbe in anticipo il titolo regionale alla sua squadra, Emile scappa dagli allenamenti fingendo un malore. Il coach lo trova per caso qualche ora dopo in sala giochi, facendolo andare su tutte le furie. 
 Per questo motivo, Emile è costretto a partecipare alla sessione di riallineamento educativo del sabato, in modo da “recuperare” prima della partita del giorno dopo.
 
-Scheda base
+### Scheda base
 
 Io sono Emile Cliff e sono il Leader del gruppo.
 Mi piace Prendermi cura del mio look e da grande voglio fare l’Atleta professionista.

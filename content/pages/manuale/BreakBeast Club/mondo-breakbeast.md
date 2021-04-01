@@ -14,7 +14,7 @@ Un Inquisitore Galattico
 Lord Adderall
 
 ### Come si chiama l’organizzazione del Nemico? 
-Ordine Supremo dei Bei Tempi Andati
+Ordine Supremo dei Bei Tempi Andati-
 
 ### Cosa vuole il nemico? 
 Pacificare, tranquillizzare e irreggimentare la popolazione della Terra.

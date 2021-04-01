@@ -5,7 +5,8 @@ layout: docs
 ---
 ## Jude Bender
 
-Jude Bender è l’anima ribelle della scuola, un ragazzo considerato “perso” per tutto il corpo docente che colleziona più assenze che presenze. In una delle sue ultime visite alla scuola, però, aveva scommesso con due suoi amici che avrebbe avuto il coraggio di disegnare alcuni peni stilizzati con lo spray in pieno giorno, durante la pausa pranzo. Beccato chiaramente in flagrante, deve scontare la sua punizione il sabato mattina.
+Jude Bender è l’anima ribelle della scuola, un ragazzo considerato “perso” per tutto il corpo docente che colleziona più assenze che presenze. 
+In una delle sue ultime visite alla scuola, però, aveva scommesso con due suoi amici che avrebbe avuto il coraggio di disegnare alcuni peni stilizzati con lo spray in pieno giorno, durante la pausa pranzo. Beccato chiaramente in flagrante, deve scontare la sua punizione il sabato mattina.
 
 Scheda base
 

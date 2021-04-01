@@ -1,6 +1,6 @@
 ---
 title: BreakBeast Club
-excerpt: Come giocare a Copper Sentai con più o meno giocatori?
+excerpt: Tutto quello che serve per giocare alla puntata autoconclusiva di Copper Sentai chiamata BreakBeast Club.
 layout: docs
 ---
 

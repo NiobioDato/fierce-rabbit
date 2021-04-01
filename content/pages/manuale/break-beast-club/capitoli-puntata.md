@@ -117,7 +117,7 @@ Non è possibile uscire dalla finestra, ma aprendone una è possibile sentire un
 
 Uscire dalla sala è un successo automatico, ma i ragazzi scopriranno presto la presenza di figuri incappucciati che si trascinano per la scuola, con passo incerto, simile a quello degli zombie. 
 
-Per non incrociarli ed esplorare la scuola (oppure abbandonarla!) indisturbati si apre un *Conflitto di Rango 4 con Contatore 4*.
+Per non incrociarli ed esplorare la scuola (oppure abbandonarla!) indisturbati si apre un *Conflitto di Rango 4 con **Contatore 4**.
 
 Ogni “Successo, ma” aggiunge un possibile malus al tiro successivo (il Vicepreside sente un suono e si avvicina verso la loro posizione, uno degli incappucciati sbuca dalla classe vicina, uno dei ragazzi inciampa ecc.), mentre basta un fallimento per essere individuati dagli incappucciati e dal vicepreside.
 

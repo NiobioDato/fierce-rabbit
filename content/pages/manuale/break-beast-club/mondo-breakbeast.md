@@ -3,7 +3,7 @@ title: Il mondo di BreakBeast Club
 weight: 1
 layout: docs
 ---
-Utilizzando lo schema che potete trovare nella sezione "<a href="/manuale/world-building">Il mondo Copper Sentai" del manuale, è stato creato il contesto in cui si muovono gli eroi di BreakBeast Club.
+Utilizzando lo schema che potete trovare nella sezione "<a href="/manuale/world-building">Il mondo Copper Sentai</a>" del manuale, è stato creato il contesto in cui si muovono gli eroi di BreakBeast Club.
 
 ### Tema
 

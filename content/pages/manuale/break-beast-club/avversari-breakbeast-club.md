@@ -9,7 +9,7 @@ La lista specialissima di mostri.
 
 **Rango** 2 **Contatore** 4
 
-I crumiroidi sono la fanteria per niente scelta di Lord Adderall e a cui è stato fatto il lavaggio del cervello.
+I crumiroidi sono la fanteria per niente scelta di Lord Adderall e i suoi generali.  a cui è stato fatto il lavaggio del cervello.
 
 ### Qualità
 

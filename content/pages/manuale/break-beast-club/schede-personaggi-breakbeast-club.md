@@ -74,12 +74,6 @@ Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimid
 
 
 
-Io sono Clara Standoff e sono la Bella del gruppo.
-Mi piace Fare gossip e da grande voglio fare l’Avvocatessa.
-Al di là del mio Ruolo, sono una persona Resiliente ma che soffre di Pressioni sociali.
-Con la supertutina, posso usare l’Obiettore.
-
-Parole chiave di Ruolo
 
 Per Clara Standoff, essere la Bella significa avere Pazienza infinita, Fascino ed Empatia. Purtroppo vuol dire anche essere Egocentrici.
 

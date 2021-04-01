@@ -46,7 +46,7 @@ Guanti senza dita con uno schermo led sul dorso destro.
 - Brat Pink
 
 ### Come sono fatti i robot delle tutine? 
-Popstar
+Come popstar famose in 
 
 Come si chiamano i robot delle tutine:
 

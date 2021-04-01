@@ -109,7 +109,7 @@ Emile Cliff impugna **Touchdown**, una **Palla ovale chiodata** capace di essere
 
 ## Brody Jefferson
 
-Brody è lo studente modello, con i migliori voti possibili e un futuro radioso nelle materie scientifiche per cui è naturalmente portato. L'insegnante di lettere moderne hPurtroppo un brutto voto in lettere moderne appena preso gli sta rovinando la media e Brody sente di non meritarselo, tanto da portarlo ad aggredire verbalmente l’insegnante che gliel’ha dato. Per il suo comportamento, Brody è costretto a partecipare al riallineamento educativo.
+Brody è lo studente modello, con i migliori voti possibili e un futuro radioso nelle materie scientifiche per cui è naturalmente portato. L'insegnante di lettere moderne ha considerato il suo ultimo saggio breve "interessante, ma Purtroppo un brutto voto in lettere moderne appena preso gli sta rovinando la media e Brody sente di non meritarselo, tanto da portarlo ad aggredire verbalmente l’insegnante che gliel’ha dato. Per il suo comportamento, Brody è costretto a partecipare al riallineamento educativo.
 
 Scheda base
 

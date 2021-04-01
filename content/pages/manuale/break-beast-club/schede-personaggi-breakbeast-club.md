@@ -117,7 +117,7 @@ Io sono Brody Jefferson e sono il <span style="color:red">**Cervellone**</span> 
 
 Mi piace <span style="color:green">**Risolvere le parole crociate**</span> e da grande voglio fare il<span style="color:green">**Fisico**</span>.
 
-Al di là del mio Ruolo, sono una persona <span style="color:blue">**Ordinata**</span> ma che soffre di <span style="color:violet">**Ansie da prestazione**</span>.
+Al di là del mio Ruolo, sono una persona <span style="color:blue">**Concentrata**</span> ma che soffre di <span style="color:violet">**Ansie da prestazione**</span>.
 
 Con la supertutina, posso usare il <span style="color:orange">**Touchdown**</span>.
 

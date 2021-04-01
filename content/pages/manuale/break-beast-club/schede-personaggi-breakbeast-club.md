@@ -58,7 +58,7 @@ Con la supertutina, posso usare l'<span style="color:orange">**Obiettore**</span
 
 ### Parole chiave di Ruolo
 
-Per Clara Standoff, essere la Bella significa avere Pazienza infinita, Fascino ed Empatia. Purtroppo vuol dire anche essere Egocentrici.
+Per Clara Standoff, essere la Bella significa avere **Pazienza infinita**, Fascino ed Empatia. Purtroppo vuol dire anche essere Egocentrici.
 
 
 

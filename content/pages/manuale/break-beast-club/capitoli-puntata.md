@@ -109,7 +109,6 @@ Dentro l’armadio si trova una mezza dozzina di cerchietti di metallo con due g
 
 Si tratta di un macchinario per la riprogrammazione neurale, utilizzato per rendere mansueti e docili studenti e professori e il modo in cui vengono creati i <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">crumiroidi</a>.
 
-
 ----------
 
 Non è possibile uscire dalla finestra, ma aprendone una è possibile sentire una sorta di ronzio di macchinari accesi, oltre al rumore di passi strascicati all’esterno proprio fuori dalla stanza.

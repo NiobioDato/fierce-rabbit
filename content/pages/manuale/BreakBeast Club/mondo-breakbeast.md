@@ -67,7 +67,6 @@ Le parti sono:
 - <b>Gamba destra</b>: Michael JackTron
 - <b>Gamba sinistra</b>: Cindy LauTech
 
-
 ### Come si chiama il Super Robot? 
 Top of the Pops.
 

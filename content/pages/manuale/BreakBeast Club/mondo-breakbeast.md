@@ -62,10 +62,10 @@ La sua armatura è di un metallo simile al platino, in testa ha una corona e i p
 Le parti sono:
 
 - <b>Busto</b>:  Mechdonna
-- <b>Braccio destro: Whitney HusTron
-- <b>Braccio sinistro: Simon Le Tron
-- <b>Gamba destra: Michael JackTron
-- <b>Gamba sinistra: Cindy LauTech
+- <b>Braccio destro</b>: Whitney HusTron
+- <b>Braccio sinistro</b>: Simon Le Tron
+- <b>Gamba destra</b>: Michael JackTron
+- <b>Gamba sinistra</b>: Cindy LauTech
 
 
 Come si chiama il Super Robot: Top of the Pops

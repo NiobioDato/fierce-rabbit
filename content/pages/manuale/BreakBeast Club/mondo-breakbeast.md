@@ -20,7 +20,7 @@ Ordine Supremo dei Bei Tempi Andati.
 Pacificare, tranquillizzare e irreggimentare la popolazione della Terra.
 
 ### Chi è il SuperCoso? 
-Un alieno in incognito sulla Terra da mille anni
+Un alieno in incognito sulla Terra da mille anni.
 
 Come si chiama il SuperCoso: Break Beast, chiamato anche “Maestro occulto dell’imbosco”, “Campione della pennichella”, oppure “l’Anarcolettico”
 

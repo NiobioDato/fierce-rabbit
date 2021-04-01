@@ -141,6 +141,14 @@ Allie Burt è una ragazza eccentrica che ama la poesia, il buon cibo e la libert
 
 ### Scheda base
 
+Io sono Brody Jefferson e sono il <span style="color:red">**Cervellone**</span> del gruppo.
+
+Mi piace <span style="color:green">**Risolvere le parole crociate**</span> e da grande voglio fare il<span style="color:green">**Fisico**</span>.
+
+Al di là del mio Ruolo, sono una persona <span style="color:blue">**Concentrata**</span> ma che soffre di <span style="color:violet">**Scarsa autostima**</span>.
+
+Con la supertutina, posso usare il <span style="color:orange">**Teoremington**</span>.
+
 Io sono Allie Burt e sono la Bruta del gruppo.
 Mi piace Mangiare qualsiasi cosa e da grande voglio fare la Poetessa.
 Al di là del mio Ruolo, sono una persona Sicura di sé ma che soffre di Sbadataggine.

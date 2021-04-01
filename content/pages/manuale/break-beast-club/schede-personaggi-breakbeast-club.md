@@ -50,7 +50,7 @@ Io sono Clara Standoff e sono la <span style="color:red">**Bella**</span> del gr
 
 Mi piace <span style="color:green">**Fare gossip**</span> e da grande voglio fare l'<span style="color:green">**Avvocatessa**</span>.
 
-Al di là del mio Ruolo, sono una persona <span style="color:blue">**Resiliente**</span> ma che soffre di <span style="color:violet">**Complessi di inferiorità**</span>.
+Al di là del mio Ruolo, sono una persona <span style="color:blue">**Resiliente**</span> ma che soffre di <span style="color:violet">**Pressioni sociali**</span>.
 
 Con la supertutina, posso usare il <span style="color:orange">**FaBrutto**</span>.
 

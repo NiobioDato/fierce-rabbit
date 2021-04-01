@@ -16,6 +16,8 @@ layout: docs
 
 > Rimane lì per un minuto buono, prima di sbuffare dalle ampie narici, sistemare la cravatta dal nodo stretto, girare i tacchi e tornare dentro.
 
+<div class="note"><strong>Nota:</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle <a href="/manuale/struttura-episodi/tre-regole/">3 regole delle supertutine.</a></div>
+
 [Nota: i ragazzi nel primo capitolo sono di Rango 0]
 
 Dopo l’intervento del narratore, la puntata si apre con i cinque ragazzi che raggiungono la scuola con i loro mezzi, accompagnati o meno da familiari o amici; lasciate ai giocatori la possibilità di descrivere il loro personaggio, eventuali accompagnatori e la scena in cui entrano nell’istituto.

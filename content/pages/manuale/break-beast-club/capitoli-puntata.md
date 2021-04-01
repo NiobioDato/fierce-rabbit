@@ -50,6 +50,7 @@ Una volta all’interno della sala ricevimento:
 
 
 > La stanza è spoglia, se non per cinque banchi con sedie corredate trascinate da chissà quale classe, una cattedra e un pesante  armadio in metallo chiuso con un lucchetto. Nonostante il sole fuori, per rendere la visibilità decente la stanza è illuminata con luce artificiale. Le due finestre nella sala ricevimento sono quasi a filo col soffitto e strettissime.
+
 > Il vicepreside è in piedi, a fianco della cattedra, le braccia incrociate. Segue con la testa i ragazzi, aspettando si siedano.
 
 Il vicepreside non risponde a nessun saluto né commento fintanto che i ragazzi non sono seduti. 

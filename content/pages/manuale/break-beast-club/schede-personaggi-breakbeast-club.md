@@ -14,7 +14,7 @@ In una delle sue ultime visite alla scuola, aveva scommesso con degli amici che 
 
 Io sono Jude Bender e sono il <span style="color:red">**Bassista carismatico**</span> del gruppo.
 
-Mi piace <span style="color:green">**Provocare** e da grande voglio fare il **Pilota di moto**.
+Mi piace <span style="color:green">**Provocare**</span> e da grande voglio fare il **Pilota di moto**</span>.
 
 Al di là del mio Ruolo, sono una persona **Implacabile **ma che soffre di **Complessi di inferiorità**.
 

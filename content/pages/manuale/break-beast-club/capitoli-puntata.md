@@ -63,7 +63,9 @@ Una volta all’interno della sala ricevimento:
 Il vicepreside non risponde a nessun saluto né commento fintanto che i ragazzi non sono seduti. 
 
 > Appena siete seduti, il vicepreside fa lo stesso, sempre senza levarvi gli occhi di dosso. Sposta la sedia leggermente a sinistra, probabilmente per cercare la perfetta simmetria, e poggia entrambe le mani sulla cattedra.
+
 > “Aprite il vostro banco e tirate fuori penna e foglio, per favore.” vi intima, senza spostare un solo muscolo del volto. 
+
 > “Scrivete il vostro nome e segnate il motivo per cui siete qui oggi.”
 
 Permettete ai giocatori di spiegare in poche parole il motivo per cui sono stati puniti. Le motivazioni sono segnate nelle schede individuali. Se qualcuno indugia, lasciate che sia il vicepreside a spiegarlo:

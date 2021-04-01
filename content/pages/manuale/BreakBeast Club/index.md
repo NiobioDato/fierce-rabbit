@@ -1,5 +1,5 @@
 ---
-title: Regole alternative e variazioni
+title: BreakBeast Club
 excerpt: Come giocare a Copper Sentai con più o meno giocatori?
 layout: docs
 ---

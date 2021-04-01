@@ -147,7 +147,7 @@ Mi piace <span style="color:green">**Mangiare qualsiasi cosa**</span> e da grand
 
 Al di là del mio Ruolo, sono una persona <span style="color:blue">**Sicura di sé**</span> ma che soffre di <span style="color:violet">**Sbadataggine**</span>.
 
-Con la supertutina, posso usare il <span style="color:orange">**Teoremington**</span>.
+Con la supertutina, posso usare il <span style="color:orange">**Bohémien**</span>.
 
 Io sono Allie Burt e sono la Bruta del gruppo.
 Mi piace Mangiare qualsiasi cosa e da grande voglio fare la Poetessa.

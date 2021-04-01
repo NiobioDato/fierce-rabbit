@@ -31,7 +31,7 @@ Un umano di mezza età, spesso alle prese con lavori considerati umili.
 ### Qual è il nome del supergruppo? 
 Brat Pack.
 
-Qual è il dispositivo di trasformazione? 
+### Qual è il dispositivo di trasformazione? 
 Guanti senza dita con uno schermo led sul dorso destro.
 
 Qual è il motto del supergruppo? 

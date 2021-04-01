@@ -70,7 +70,7 @@ Clara Standoff impugna l’**Obiettore**, uno **Stocco** capace di **Parare anch
 
 ### Il Robot Personale
 
-Michael JackTron è un robot Umanoide che somiglia a Michael Jackson e la sua Qualità è Campo gravitazionale.
+**Michael JackTron** è un robot Umanoide che somiglia a Michael Jackson e la sua Qualità è Campo gravitazionale.
 
 
 

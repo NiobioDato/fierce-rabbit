@@ -85,6 +85,14 @@ Per questo motivo, Emile è costretto a partecipare alla sessione di riallineame
 
 ### Scheda base
 
+Io sono Jude Bender e sono il <span style="color:red">**Bassista carismatico**</span> del gruppo.
+
+Mi piace <span style="color:green">**Provocare**</span> e da grande voglio fare il <span style="color:green">**Pilota di moto**</span>.
+
+Al di là del mio Ruolo, sono una persona <span style="color:blue">**Implacabile**</span> ma che soffre di <span style="color:violet">**Complessi di inferiorità**</span>.
+
+Con la supertutina, posso usare il <span style="color:orange">**FaBrutto**</span>.
+
 Io sono Emile Cliff e sono il Leader del gruppo.
 Mi piace Prendermi cura del mio look e da grande voglio fare l’Atleta professionista.
 Al di là del mio Ruolo, sono una persona Ordinata ma che soffre di Ansie da prestazione.

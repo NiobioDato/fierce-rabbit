@@ -9,8 +9,8 @@ layout: docs
 > 28 Marzo 1987.  Prima mattina in una cittadina di provincia, abbastanza grande da non conoscersi tutti, abbastanza piccola da venire a noia con sorprendente velocità. 
 > Il sole splende come non faceva da mesi, libero dai nuvoloni che hanno punteggiato il cielo tutto l’inverno. Le ampie strade che circondano la piazza centrale sono ancora deserte, come spesso accade il sabato mattina quando non c’è il mercato.
 > Proprio in piazza, il grande doppio portone d’entrata della scuola superiore “Rigore, Serietà e Disciplina”, ex Istituto Giovannino Ronconi, è illuminato come un’apparizione, i vetri così lucidati da riflettere come specchi gli scalini di granito che lo precedono. 
-> Proprio le porte si aprono di scatto e appare un uomo alto, vestito in giacca e cravatta, il capello brizzolato e le sopracciglia folte come la Foresta Nera. Si tratta dell’ingegnere Humbert Lexington Jr., il vicepreside della scuola. Il volto è una maschera che non farebbe trasparire emozioni se non fosse per gli occhi, vivaci e feroci, che continuano a rimbalzare fra la strada e il suo orologio da polso, con il suo cinturino di ecopelle e un quadrante di dimensioni comicamente generose.
-> Rimane lì per un minuto buono, prima di sbuffare dalle ampie narici, sistemare la cravatta dal nodo stretto, girare i tacchi e tornare dentro.
+Proprio le porte si aprono di scatto e appare un uomo alto, vestito in giacca e cravatta, il capello brizzolato e le sopracciglia folte come la Foresta Nera. Si tratta dell’ingegnere Humbert Lexington Jr., il vicepreside della scuola. Il volto è una maschera che non farebbe trasparire emozioni se non fosse per gli occhi, vivaci e feroci, che continuano a rimbalzare fra la strada e il suo orologio da polso, con il suo cinturino di ecopelle e un quadrante di dimensioni comicamente generose.
+Rimane lì per un minuto buono, prima di sbuffare dalle ampie narici, sistemare la cravatta dal nodo stretto, girare i tacchi e tornare dentro.
 
 [Nota: i ragazzi nel primo capitolo sono di Rango 0]
 

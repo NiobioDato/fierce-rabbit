@@ -4,6 +4,13 @@ excerpt: Come giocare a Copper Sentai con più o meno giocatori?
 layout: docs
 ---
 
+La scuola della Cittadina Senza Nome ha visto la sua direzione cambiare sensibilmente sei mesi fa, con il ritiro per malattia del suo preside storico. Il nuovo vicepreside Humbert Lexington Jr. usa il pugno di ferro sia con i professori sia con gli studenti, esigendo con tutti i mezzi rigore e serietà nelle sue aule.
+
+Dopo pochi mesi sono già diventate leggendarie le sessioni di “riallineamento educativo” a cui vengono sottoposti i ragazzi più turbolenti; chiunque venga chiamato torna a casa silenzioso, mansueto e docile come un agnello, praticamente irriconoscibili.
+
+Questa settimana è il turno dei cinque protagonisti, chiamati per rispondere di alcuni incidenti successi nella scuola i giorni precedenti. Cosa succede davvero il sabato nella scuola superiore “Rigore, Serietà e Disciplina”?
+
+
 Breakbeast Club vostro diritto fare ciò che volete di quello che avete letto fino ad adesso. Chiunque vi dica il contrario dovrebbe prendersi qualche ora per dare almeno un’occhiata distratta a La morte dell’autore di Barthes. 
 
 Non dico per cambiare idea, ché il vecchio Rolando è stato giustamente contestato da accademici ben più preparati dell’autore di giochini medio, ma perlomeno per regalarsi la possibilità di vedere le proprie idee migliorate dalle sensibilità altrui.

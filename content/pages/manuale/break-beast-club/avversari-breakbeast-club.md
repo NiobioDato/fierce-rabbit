@@ -7,7 +7,7 @@ layout: docs
 La lista specialissima di mostri.
 
 
-Crumiroidi
+## Crumiroidi
 
 Rango 2 Contatore 4
 I crumiroidi sono umani a cui è stato fatto il lavaggio del cervello.

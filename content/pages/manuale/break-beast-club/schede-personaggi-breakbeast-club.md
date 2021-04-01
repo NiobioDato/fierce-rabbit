@@ -38,7 +38,7 @@ Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimid
 
 **Cindy LauTech** è un robot Umanoide che somiglia a Cindy Lauper e la sua Qualità è **Assorbimento energetico**.
 
-<span>
+
 
 ## Clara Standoff
 

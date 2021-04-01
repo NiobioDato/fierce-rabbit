@@ -76,7 +76,6 @@ Per Jude:
 
 Per Clara:
 
-
 > “Signorina Standoff, capisco se ne vergogni, una ragazzina di buona famiglia come lei non dovrebbe stare qui in mezzo a questi… soggetti. Quello che ha detto alla sua compagna Mazzie rimane però inqualificabile.
 
 Per Emile:

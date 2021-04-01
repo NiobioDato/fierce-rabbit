@@ -21,7 +21,7 @@ I crumiroidi sono la fanteria per niente scelta di Lord Adderall e i suoi genera
 
 **Rango** 4 **Contatore** 6
 
-\-inserire qui descrizione-
+Gronk, il 
 
 ### Qualità
 

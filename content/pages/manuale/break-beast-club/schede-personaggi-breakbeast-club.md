@@ -64,7 +64,7 @@ Per Clara Standoff, essere la Bella significa avere **Pazienza infinita**, **Fas
 
 ### L’Arma
 
-Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimidisce** quando sventolato.
+Clara Standoff impugna l’Obiettore, uno Stocco capace di Parare anche i colpi più duri.
 
 
 

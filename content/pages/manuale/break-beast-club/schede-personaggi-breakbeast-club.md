@@ -5,27 +5,40 @@ layout: docs
 ---
 ## Jude Bender
 
-Jude Bender è l’anima ribelle della scuola, un ragazzo considerato “perso” per tutto il corpo docente che colleziona più assenze che presenze. 
+Jude Bender è l’anima ribelle della scuola, un ragazzo considerato “perso” per tutto il corpo docente che colleziona più assenze che presenze.
 In una delle sue ultime visite alla scuola, aveva scommesso con degli amici che avrebbe disegnato alcuni peni stilizzati con lo spray in pieno giorno, durante la pausa pranzo. Ha vinto la scommessa ma è stato chiaramente pizzicato durante la sua performance e ora deve scontare la sua punizione il sabato mattina.
+
+
 
 ### Scheda base
 
-Io sono Jude Bender e sono il Bassista carismatico del gruppo.
-Mi piace Provocare e da grande voglio fare il Pilota di moto.
-Al di là del mio Ruolo, sono una persona Implacabile ma che soffre di Complessi di inferiorità.
-Con la supertutina, posso usare il FaBrutto.
+Io sono Jude Bender e sono il **Bassista carismatico** del gruppo.
 
-Parole chiave di Ruolo
+Mi piace **Provocare **e da grande voglio fare il **Pilota di moto**.
+
+Al di là del mio Ruolo, sono una persona **Implacabile **ma che soffre di **Complessi di inferiorità**.
+
+Con la supertutina, posso usare il **FaBrutto**.
+
+
+
+### Parole chiave di Ruolo
 
 Per Jude Bender, essere il Bassista carismatico significa avere Sangue Freddo, le One-liner al fulmicotone e lo Sguardo vigile. Purtroppo vuol dire anche non Conoscere i propri limiti.
 
-L’Arma
 
-Jude Bender impugna il FaBrutto, un Coltello a serramanico che Intimidisce quando sventolato.
 
-Il Robot Personale
+### L’Arma
 
-Cindy LauTech è un robot Umanoide che somiglia a Cindy Lauper e la sua Qualità è Assorbimento energetico.
+Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimidisce **quando sventolato.
+
+
+
+### Il Robot Personale
+
+**Cindy LauTech** è un robot Umanoide che somiglia a Cindy Lauper e la sua Qualità è **Assorbimento energetico**.
+
+
 
 Clara Standoff
 

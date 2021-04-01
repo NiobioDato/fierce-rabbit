@@ -115,7 +115,7 @@ Brody è lo studente modello, con i migliori voti possibili e un futuro radioso 
 
 Io sono Brody Jefferson e sono il <span style="color:red">**Cervellone**</span> del gruppo.
 
-Mi piace <span style="color:green">**Prendermi cura del mio look**</span> e da grande voglio fare l'<span style="color:green">**Atleta professionista**</span>.
+Mi piace <span style="color:green">**Risolvere le parole crociate**</span> e da grande voglio fare l'<span style="color:green">**Atleta professionista**</span>.
 
 Al di là del mio Ruolo, sono una persona <span style="color:blue">**Ordinata**</span> ma che soffre di <span style="color:violet">**Ansie da prestazione**</span>.
 

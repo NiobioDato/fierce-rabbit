@@ -155,7 +155,7 @@ Per Allie Burt, essere la Bruta significa avere **Sguardo da killer**, **Indipen
 
 ### L’Arma
 
-Allie Burt impugna **Bohémien**, un **Megafono multifrequenza capace di Stordire.
+Allie Burt impugna **Bohémien**, un **Megafono multifrequenza** capace di **Stordire**.
 
 Il Robot Personale
 

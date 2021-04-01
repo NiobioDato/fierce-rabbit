@@ -64,7 +64,6 @@ Braccio sinistro: Simon Le Tron
 Gamba destra: Michael JackTron
 Gamba sinistra: Cindy LauTech
 
-La sua armatura è di un metallo simile al platino, in testa ha una corona e i piedi sono Doc Martens robotiche.
 
 Come si chiama il Super Robot: Top of the Pops
 

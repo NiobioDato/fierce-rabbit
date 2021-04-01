@@ -75,7 +75,7 @@ Top of the Pops.
 Una lancia con la punta da giradischi, la Long Piercer (LP).
 
 ### Qual è il Colpo finale del Super Robot? 
-Hot 100: cento affondi di lancia capaci di fondere la roccia più dura
+Hot 100: cento affondi di lancia capaci di fondere la roccia più dura.
 
 
 Per evitare l’effetto “Narratore che gioca da solo”, un classico dell’intrattenimento ruolistico su Twitch, è sconsigliato lasciare che i Ruoli scoperti siano trattati alla stregua di personaggi non giocanti.

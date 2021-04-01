@@ -113,7 +113,7 @@ Si tratta di un macchinario per la riprogrammazione neurale, utilizzato per rend
 
 Non è possibile uscire dalla finestra, ma aprendone una è possibile sentire una sorta di ronzio di macchinari accesi, oltre al rumore di passi strascicati all’esterno proprio fuori dalla stanza.
 
-----------
+***
 
 Uscire dalla stanza è un successo automatico, ma i ragazzi scopriranno presto la presenza di figuri incappucciati che si trascinano per la scuola, con passo incerto, simile a quello degli zombie. Per non incrociarli ed esplorare la scuola (oppure abbandonarla!) indisturbati si apre un Conflitto di Rango 4 con Contatore 4.
 

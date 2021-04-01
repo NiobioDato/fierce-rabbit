@@ -149,11 +149,6 @@ Al di là del mio Ruolo, sono una persona <span style="color:blue">**Sicura di s
 
 Con la supertutina, posso usare il <span style="color:orange">**Bohémien**</span>.
 
-Io sono Allie Burt e sono la Bruta del gruppo.
-Mi piace Mangiare qualsiasi cosa e da grande voglio fare la Poetessa.
-Al di là del mio Ruolo, sono una persona Sicura di sé ma che soffre di Sbadataggine.
-Con la supertutina, posso usare Bohémien.
-
 Parole chiave di Ruolo
 
 Per Allie Burt, essere la Bruta significa avere Sguardo da killer, Indipendenza e Stretta d’acciaio. Purtroppo vuol dire anche essere Emotivamente instabile.

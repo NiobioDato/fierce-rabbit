@@ -56,7 +56,7 @@ Come popstar famose in versione robotica.
 - Cindy Lautech
 - Michael JackTron
 
-Com’è fatto il Super Robot:
+### Com’è fatto il Super Robot?
 
 Busto:  Mechdonna
 Braccio destro: Whitney HusTron

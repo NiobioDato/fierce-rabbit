@@ -95,7 +95,7 @@ Con la supertutina, posso usare il <span style="color:orange">**Touchdown**</spa
 
 ### Parole chiave di Ruolo
 
-Per Emile Cliff, essere il Leader significa avere **Coraggio**, **Integrità** ed essere **Collaborativi. Purtroppo vuol dire anche avere Paura del fallimento.
+Per Emile Cliff, essere il Leader significa avere **Coraggio**, **Integrità** ed essere **Collaborativi**. Purtroppo vuol dire anche avere **Paura del fallimento**.
 
 L’Arma
 

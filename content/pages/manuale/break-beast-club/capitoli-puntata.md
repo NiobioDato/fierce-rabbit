@@ -26,6 +26,8 @@ Dopo l’intervento del narratore, la puntata si apre con i cinque ragazzi che r
 I giocatori arrivano nel corridoio della scuola intorno alle 8:00 e si dovrebbero incrociare all’incirca all’altezza degli armadietti degli studenti, dove possono recuperare i loro effetti personali. 
 I giocatori ora possono segnarsi tre accessori nella loro scheda a loro totale discrzione. 
 
+<div class="note"><strong>Nota:</strong> i protagonisti nel primo capitolo sono di Rango 0.</a></div>
+
 [Nota: gli accessori non offrono bonus al Rango, ma sbloccano l’uso di Qualità che richiedono oggetti per funzionare; banalmente, si pensi all’uso di “Prendersi cura del look” di Emile per sistemarsi i capelli senza un pettine.]
 
 Se i giocatori non si avviano da soli in pochi minuti verso la sala ricevimento:

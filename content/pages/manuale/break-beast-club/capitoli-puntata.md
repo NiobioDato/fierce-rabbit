@@ -44,7 +44,6 @@ Non costringete i ragazzi a interagire con Niko. Nel caso qualcuno si avvicini a
 
 Con un “successo, ma”, Niko copre con la mano la tasca e lancia un’occhiataccia minacciosa al curioso, seguita da un grugnito infastidito.
 
-
 > A pochi passi dalla porta della sala sentite la voce del vicepreside Humbert Lexington Jr. tuonare un perentorio “Muovetevi, su!”.
 
 Una volta all’interno della sala ricevimento:

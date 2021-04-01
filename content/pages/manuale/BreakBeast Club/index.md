@@ -8,8 +8,7 @@ La scuola della Cittadina Senza Nome ha visto la sua direzione cambiare sensibil
 
 Dopo pochi mesi sono già diventate leggendarie le sessioni di “riallineamento educativo” a cui vengono sottoposti i ragazzi più turbolenti; chiunque venga chiamato torna a casa silenzioso, mansueto e docile come un agnello, praticamente irriconoscibile.
 
-Questa settimana è il turno dei cinque protagonisti, chiamati per rispondere di alcuni incidenti successi nella scuola i giorni precedenti. Cosa succede davvero il sabato nella scuola superiore “Rigore, Serietà e Disciplina”?
-
+Questa settimana è il turno dei cinque protagonisti, chiamati per rispondere di alcuni incidenti successi nella scuola i giorni precedenti. Cosa troveranno ad aspettarli? E perché negli anni Ottanta si poteva girare con quelle spalline nella giacca?
 
 Breakbeast Club vostro diritto fare ciò che volete di quello che avete letto fino ad adesso. Chiunque vi dica il contrario dovrebbe prendersi qualche ora per dare almeno un’occhiata distratta a La morte dell’autore di Barthes. 
 

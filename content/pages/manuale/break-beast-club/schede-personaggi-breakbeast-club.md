@@ -41,8 +41,7 @@ Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimid
 
 ## Clara Standoff
 
-Jude Bender è l’anima ribelle della scuola, un ragazzo considerato “perso” per tutto il corpo docente che colleziona più assenze che presenze.
-In una delle sue ultime visite alla scuola, aveva scommesso con degli amici che avrebbe disegnato alcuni peni stilizzati con lo spray in pieno giorno, durante la pausa pranzo. Ha vinto la scommessa ma è stato chiaramente pizzicato durante la sua performance e ora deve scontare la sua punizione il sabato mattina.
+Clara Standoff è figlia di un noto industriale del luogo e fin da piccola è stata la ragazza popolare che tutti vogliono frequentare. Con il successo arriva anche l’invidia, e le voci messe in giro da Mazzie, una sua “amica-nemica”, su infondati rapporti intimi con alcuni ragazzi diventano la miccia che fa esplodere la sua rabbia. Vista lanciare epiteti irripetibili a Mazzie in mezzo al corridoio, è stata formalmente richiamata e costretta a partecipare alla sessione di riallineamento educativo del sabato.
 
 
 

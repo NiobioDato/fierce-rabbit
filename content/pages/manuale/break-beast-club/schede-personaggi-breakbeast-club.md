@@ -131,7 +131,7 @@ Emile Cliff imbraccia **Teoremington**, una **Carabina a proiettili quantici** c
 
 ### Il Robot Personale
 
-**Whitney HusTron** è un robot Umanoide che somiglia a Whitney Huston e la sua Qualità è Attutatore elettromagnetico.
+**Whitney HusTron** è un robot Umanoide che somiglia a Whitney Huston e la sua Qualità è **Attutatore elettromagnetico**.
 
 Allie Burt
 

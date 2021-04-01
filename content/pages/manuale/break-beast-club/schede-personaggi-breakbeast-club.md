@@ -99,7 +99,7 @@ Per Emile Cliff, essere il Leader significa avere **Coraggio**, **Integrità** e
 
 ### L’Arma
 
-Emile Cliff impugna Touchdown, una palla ovale chiodata capace di essere richiamata indietro da ovunque sia.
+Emile Cliff impugna **Touchdown**, una **Palla ovale chiodata** capace di essere richiamata indietro da ovunque sia.
 
 Il Robot Personale
 

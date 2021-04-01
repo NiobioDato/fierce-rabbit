@@ -1,5 +1,5 @@
 ---
-title: Gli avversari di BreakBeast Club
+title: I capitoli della puntata
 weight: 4
 layout: docs
 ---

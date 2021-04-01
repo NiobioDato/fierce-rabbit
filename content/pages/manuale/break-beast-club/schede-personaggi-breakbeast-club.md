@@ -24,7 +24,7 @@ Con la supertutina, posso usare il <span style="color:orange">**FaBrutto**</span
 
 ### Parole chiave di Ruolo
 
-Per Jude Bender, essere il Bassista carismatico significa avere **Sangue Freddo**, le **One-liner al fulmicotone** e lo **Sguardo vigile**. Purtroppo vuol dire anche **Non conoscere i propri limiti.
+Per Jude Bender, essere il Bassista carismatico significa avere **Sangue Freddo**, le **One-liner al fulmicotone** e lo **Sguardo vigile**. Purtroppo vuol dire anche **Non conoscere i propri limiti**.
 
 
 

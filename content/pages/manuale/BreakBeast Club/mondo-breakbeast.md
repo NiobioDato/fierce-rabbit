@@ -19,7 +19,8 @@ Ordine Supremo dei Bei Tempi Andati.
 ### Cosa vuole il nemico? 
 Pacificare, tranquillizzare e irreggimentare la popolazione della Terra.
 
-Chi è il SuperCoso: un alieno in incognito sulla Terra da mille anni
+### Chi è il SuperCoso? 
+Un alieno in incognito sulla Terra da mille anni
 
 Come si chiama il SuperCoso: Break Beast, chiamato anche “Maestro occulto dell’imbosco”, “Campione della pennichella”, oppure “l’Anarcolettico”
 

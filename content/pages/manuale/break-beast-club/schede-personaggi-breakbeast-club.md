@@ -159,4 +159,4 @@ Allie Burt impugna **Bohémien**, un **Megafono multifrequenza** capace di **Sto
 
 ### Il Robot Personale
 
-**Simon Le Tron è un robot Umanoide che somiglia a Simon Le Bon e la sua Qualità è Teletrasporto a corto raggio.
+**Simon Le Tron** è un robot Umanoide che somiglia a Simon Le Bon e la sua Qualità è Teletrasporto a corto raggio.

@@ -46,6 +46,8 @@ Con un “successo, ma”, Niko copre con la mano la tasca e lancia un’occhiat
 
 > A pochi passi dalla porta della sala sentite la voce del vicepreside Humbert Lexington Jr. tuonare un perentorio “Muovetevi, su!”.
 
+### 
+
 Una volta all’interno della sala ricevimento:
 
 > La stanza è spoglia, se non per cinque banchi con sedie corredate trascinate da chissà quale classe, una cattedra e un pesante  armadio in metallo chiuso con un lucchetto. Nonostante il sole fuori, per rendere la visibilità decente la stanza è illuminata con luce artificiale. Le due finestre nella sala ricevimento sono quasi a filo col soffitto e strettissime.

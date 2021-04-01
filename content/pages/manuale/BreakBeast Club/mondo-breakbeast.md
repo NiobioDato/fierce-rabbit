@@ -57,6 +57,9 @@ Come popstar famose in versione robotica.
 - Michael JackTron
 
 ### Com’è fatto il Super Robot?
+La sua armatura è di un metallo simile al platino, in testa ha una corona e i piedi sono Doc Martens robotiche.
+
+
 
 Busto:  Mechdonna
 Braccio destro: Whitney HusTron

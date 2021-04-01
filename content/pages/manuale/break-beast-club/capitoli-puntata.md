@@ -21,7 +21,7 @@ layout: docs
 Dopo l’intervento del narratore, la puntata si apre con i cinque ragazzi che raggiungono la scuola con i loro mezzi, accompagnati o meno da familiari o amici; lasciate ai giocatori la possibilità di descrivere il loro personaggio, eventuali accompagnatori e la scena in cui entrano nell’istituto.
 
 
->  All’entrata trovate un cartello, scritto con caratteri che farebbero sembrare quelli di Gutenberg sbarazzini e moderni: «Per gli studenti del riallineamento educativo: ore 8:05, sala ricevimento piano terra.”
+>  All’entrata trovate un cartello, scritto con caratteri che farebbero sembrare quelli di Gutenberg sbarazzini e moderni: «Per gli studenti del riallineamento educativo: ore 8:05, sala ricevimento piano terra.
 
 I giocatori arrivano nel corridoio della scuola intorno alle 8:00 e si dovrebbero incrociare all’incirca all’altezza degli armadietti degli studenti, dove possono recuperare i loro effetti personali. 
 Lasciate ai giocatori la possibilità di segnare tre accessori nella loro scheda. 

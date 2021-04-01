@@ -4,7 +4,8 @@ weight: 1
 layout: docs
 ---
 
-Tema: film di John Hughes
+Tema 
+I film di John Hughes
 
 Chi è il Nemico: Un Inquisitore Galattico
 

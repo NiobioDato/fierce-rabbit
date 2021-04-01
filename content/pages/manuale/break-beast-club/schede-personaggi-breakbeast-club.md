@@ -125,7 +125,7 @@ Con la supertutina, posso usare il <span style="color:orange">**Teoremington**</
 
 Per Brody Jefferson, essere il Cervellone significa avere **Spirito Analitico**, **Curiosità** e **Memoria fotografica**. Purtroppo vuol dire anche avere **Paura dello scontro fisico**.
 
-L’Arma
+### L’Arma
 
 Emile Cliff imbraccia Teoremington, una Carabina a proiettili quantici capace di Cambiare lo stato della materia inerte che colpisce.
 

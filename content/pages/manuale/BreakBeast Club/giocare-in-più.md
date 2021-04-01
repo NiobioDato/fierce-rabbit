@@ -1,5 +1,5 @@
 ---
-title: I protagonisti
+title: Le schede di BreakBeast Club
 weight: 2
 layout: docs
 ---

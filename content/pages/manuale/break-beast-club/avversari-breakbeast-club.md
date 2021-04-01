@@ -11,9 +11,9 @@ I crumiroidi sono la fanteria per niente scelta di Lord Adderall e i suoi genera
 
 ### Qualità
 
-**\[Sono umani come noi!]** Provare a Colpire un Crumiroide dà un malus ambientale leggero.
+**[Sono umani come noi!]** Provare a Colpire un Crumiroide dà un malus ambientale leggero.
 
-**\[Vassalli della mediocrità - 1 Gettone]** Il Narratore può chiamare questa Qualità prima di un tiro e questo diventa un “Successo, ma” automatico.
+**[Vassalli della mediocrità - 1 Gettone]** Il Narratore può chiamare questa Qualità prima di un tiro e questo diventa un “Successo, ma” automatico.
 
 ***
 

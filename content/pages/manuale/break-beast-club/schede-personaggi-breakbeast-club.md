@@ -58,7 +58,7 @@ Con la supertutina, posso usare l'<span style="color:orange">**Obiettore**</span
 
 ### Parole chiave di Ruolo
 
-Per Jude Bender, essere il Bassista carismatico significa avere **Sangue Freddo**, le **One-liner al fulmicotone** e lo **Sguardo vigile**. Purtroppo vuol dire anche **Non conoscere i propri limiti**.
+Per Clara Standoff, essere la Bella significa avere Pazienza infinita, Fascino ed Empatia. Purtroppo vuol dire anche essere Egocentrici.
 
 
 

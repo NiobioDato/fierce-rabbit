@@ -46,7 +46,7 @@ Clara Standoff è figlia di un noto industriale del luogo e fin da piccola è st
 
 ### Scheda base
 
-Io sono Clara Standoff e sono il <span style="color:red">**Bassista carismatico**</span> del gruppo.
+Io sono Clara Standoff e sono la <span style="color:red">**Bassista carismatico**</span> del gruppo.
 
 Mi piace <span style="color:green">**Provocare**</span> e da grande voglio fare il <span style="color:green">**Pilota di moto**</span>.
 

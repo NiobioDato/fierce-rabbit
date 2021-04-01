@@ -5,16 +5,16 @@ layout: docs
 ---
 
 ### Tema 
-I film di John Hughes
+I film di John Hughes.
 
 ### Chi è il Nemico? 
-Un Inquisitore Galattico
+Un Inquisitore Galattico.
 
 ### Come si chiama il Nemico?
-Lord Adderall
+Lord Adderall.
 
 ### Come si chiama l’organizzazione del Nemico? 
-Ordine Supremo dei Bei Tempi Andati-
+Ordine Supremo dei Bei Tempi Andati.
 
 ### Cosa vuole il nemico? 
 Pacificare, tranquillizzare e irreggimentare la popolazione della Terra.

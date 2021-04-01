@@ -85,7 +85,7 @@ Per questo motivo, Emile è costretto a partecipare alla sessione di riallineame
 
 ### Scheda base
 
-Io sono Emile Cliff e sono il <span style="color:red">**Bassista carismatico**</span> del gruppo.
+Io sono Emile Cliff e sono il <span style="color:red">**Leader**</span> del gruppo.
 
 Mi piace <span style="color:green">**Provocare**</span> e da grande voglio fare il <span style="color:green">**Pilota di moto**</span>.
 

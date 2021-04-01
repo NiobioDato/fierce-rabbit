@@ -39,6 +39,42 @@ Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimid
 **Cindy LauTech** è un robot Umanoide che somiglia a Cindy Lauper e la sua Qualità è **Assorbimento energetico**.
 
 
+## Jude Bender
+
+Jude Bender è l’anima ribelle della scuola, un ragazzo considerato “perso” per tutto il corpo docente che colleziona più assenze che presenze.
+In una delle sue ultime visite alla scuola, aveva scommesso con degli amici che avrebbe disegnato alcuni peni stilizzati con lo spray in pieno giorno, durante la pausa pranzo. Ha vinto la scommessa ma è stato chiaramente pizzicato durante la sua performance e ora deve scontare la sua punizione il sabato mattina.
+
+
+
+### Scheda base
+
+Io sono Jude Bender e sono il <span style="color:red">**Bassista carismatico**</span> del gruppo.
+
+Mi piace <span style="color:green">**Provocare**</span> e da grande voglio fare il <span style="color:green">**Pilota di moto**</span>.
+
+Al di là del mio Ruolo, sono una persona <span style="color:blue">**Implacabile**</span> ma che soffre di <span style="color:violet">**Complessi di inferiorità**</span>.
+
+Con la supertutina, posso usare il <span style="color:orange">**FaBrutto**</span>.
+
+
+
+### Parole chiave di Ruolo
+
+Per Jude Bender, essere il Bassista carismatico significa avere **Sangue Freddo**, le **One-liner al fulmicotone** e lo **Sguardo vigile**. Purtroppo vuol dire anche **Non conoscere i propri limiti**.
+
+
+
+### L’Arma
+
+Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimidisce** quando sventolato.
+
+
+
+### Il Robot Personale
+
+**Cindy LauTech** è un robot Umanoide che somiglia a Cindy Lauper e la sua Qualità è **Assorbimento energetico**.
+
+
 
 Clara Standoff
 

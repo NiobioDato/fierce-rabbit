@@ -3,7 +3,7 @@ title: Il mondo di BreakBeast Club
 weight: 1
 layout: docs
 ---
-Utilizzando lo schema che potete trovare nella sezione <a href="/manuale/world-building/">Il mondo Copper Sentai</a> del manuale, è stato creato il mondo specifico di BreakBeast Club che mischia 
+Utilizzando lo schema che potete trovare nella sezione <a href="/manuale/world-building/">Il mondo Copper Sentai</a> del manuale, è stato creato il mondo specifico di BreakBeast Club che mischia alcuni riferimenti alle pellicole di John Hughes con un po' di follia
 
 ### Tema 
 I film di John Hughes.

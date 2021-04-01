@@ -16,7 +16,7 @@ layout: docs
 
 > Rimane lì per un minuto buono, prima di sbuffare dalle ampie narici, sistemare la cravatta dal nodo stretto, girare i tacchi e tornare dentro.
 
-<div class="note"><strong>Nota:</strong> il robot non può essere usato per combattere fino al capitolo Attacco del titano, per attenersi alle <a href="/manuale/struttura-episodi/tre-regole/">3 regole delle supertutine.</a></div>
+<div class="note"><strong>Nota:</strong> i ragazzi nel primo capitolo sono di Rango 0.</a></div>
 
 [Nota: ]
 

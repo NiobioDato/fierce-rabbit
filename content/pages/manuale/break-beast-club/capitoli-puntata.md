@@ -125,7 +125,6 @@ Nel caso in cui i ragazzi riescano miracolosamente a fuggire, incontreranno Niko
 
 Nel caso in cui i ragazzi vengano beccati dal vicepreside e dagli incappucciati:
 
-
 > Il vicepreside scuote il capo, sconfortato. “Vi avevo chiesto una sola cosa. Una. Ma va bene, non importa” sfodera dalla tasca una VHS senza etichetta “ci penserà questa a voi”.
 
 I ragazzi, con le buone o le cattive (Conflitto di Rango 5 Contatore 4), vengono riportati nella classe e costretti a stare seduti. Il vicepreside potrebbe usare, spendendo un Gettone narratore, la sua Qualità “Campo di ubbidienza” [si veda la sua scheda].

@@ -4,6 +4,63 @@ weight: 1
 layout: docs
 ---
 
+Tema: film di John Hughes
+
+Chi è il Nemico: Un Inquisitore Galattico
+
+Come si chiama il Nemico: Lord Adderall
+
+Come si chiama l’organizzazione del Nemico: Ordine Supremo dei Bei Tempi Andati
+
+Cosa vuole il nemico: Pacificare, tranquillizzare e irreggimentare la popolazione della Terra
+
+Chi è il SuperCoso: un alieno in incognito sulla Terra da mille anni
+
+Come si chiama il SuperCoso: Break Beast, chiamato anche “Maestro occulto dell’imbosco”, “Campione della pennichella”, oppure “l’Anarcolettico”
+
+Come si mostra il SuperCoso: un umano di mezza età, spesso alle prese con lavori considerati umili
+
+Qual è il nome del supergruppo: Brat Pack
+
+Qual è il dispositivo di trasformazione: guanti senza dita con uno schermo led sul dorso destro
+
+Qual è il motto del supergruppo: “Brat Pack, si rulla cartoni!”
+
+Quali sono i nomi delle tutine: 
+
+- Brat Red
+- Brat Black
+- Brat Blue
+- Brat Yellow
+- Brat Pink
+
+Come sono fatti i robot delle tutine: Popstar
+
+Come si chiamano i robot delle tutine:
+
+- Whitney HusTron
+- Mechdonna
+- Simon LeTron
+- Cindy Lautech
+- Michael JackTron
+
+Com’è fatto il Super Robot:
+
+Busto:  Mechdonna
+Braccio destro: Whitney HusTron
+Braccio sinistro: Simon Le Tron
+Gamba destra: Michael JackTron
+Gamba sinistra: Cindy LauTech
+
+La sua armatura è di un metallo simile al platino, in testa ha una corona e i piedi sono Doc Martens robotiche.
+
+Come si chiama il Super Robot: Top of the Pops
+
+Qual è l’arma suprema del robot: Una lancia con la punta da giradischi, la Long Piercer (LP)
+
+Qual è il Colpo finale: Hot 100: cento affondi di lancia capaci di fondere la roccia più dura
+
+
 Per evitare l’effetto “Narratore che gioca da solo”, un classico dell’intrattenimento ruolistico su Twitch, è sconsigliato lasciare che i Ruoli scoperti siano trattati alla stregua di personaggi non giocanti.
 Basta ricreare le dinamiche fra i Ruoli rimasti oppure fondere più Ruoli in uno.
 

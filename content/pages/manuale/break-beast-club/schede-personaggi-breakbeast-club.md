@@ -97,7 +97,7 @@ Con la supertutina, posso usare il <span style="color:orange">**Touchdown**</spa
 
 Per Emile Cliff, essere il Leader significa avere **Coraggio**, **Integrità** ed essere **Collaborativi**. Purtroppo vuol dire anche avere **Paura del fallimento**.
 
-L’Arma
+### L’Arma
 
 Emile Cliff impugna Touchdown, una palla ovale chiodata capace di essere richiamata indietro da ovunque sia.
 

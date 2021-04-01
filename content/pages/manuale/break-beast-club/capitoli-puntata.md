@@ -40,7 +40,9 @@ Sia che abbiano bisogno di una spintarella sia che vadano da soli verso la sala,
 
 > Di fronte all’entrata dei bagni, vicini alla sala ricevimenti, notate per terra il familiare cartello “pavimento bagnato, pericolo di caduta”. Sulla soglia della toilette degli uomini intravedete la silhouette di Niko, il pingue collaboratore scolastico che lavora nella scuola da un paio di anni, alle prese con lo straccio. È la prima volta che lo vedete in piedi, fra l’altro impegnato in qualcosa che non sia dormire o mangiare focacce ripiene.
 
-Non costringete i ragazzi a interagire con Niko. Nel caso qualcuno si avvicini al bidello, fategli provare un Conflitto di Rango 3 per notare qualcosa di luminoso nella tasca della tuta di lavoro. Con un “successo, ma”, Niko copre con la mano la tasca e lancia un’occhiataccia minacciosa al curioso, seguita da un grugnito infastidito.
+Non costringete i ragazzi a interagire con Niko. Nel caso qualcuno si avvicini al bidello, fategli provare un Conflitto di Rango 3 per notare qualcosa di luminoso nella tasca della tuta di lavoro. 
+
+Con un “successo, ma”, Niko copre con la mano la tasca e lancia un’occhiataccia minacciosa al curioso, seguita da un grugnito infastidito.
 
 
 > A pochi passi dalla porta della sala sentite la voce del vicepreside Humbert Lexington Jr. tuonare un perentorio “Muovetevi, su!”.

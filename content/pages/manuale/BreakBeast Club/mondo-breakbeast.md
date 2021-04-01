@@ -48,7 +48,7 @@ Guanti senza dita con uno schermo led sul dorso destro.
 ### Come sono fatti i robot delle tutine? 
 Come popstar famose in versione robotica.
 
-Come si chiamano i robot delle tutine?
+### Come si chiamano i robot delle tutine?
 
 - Whitney HusTron
 - Mechdonna

@@ -10,7 +10,7 @@ Dopo pochi mesi sono già diventate leggendarie le sessioni di “riallineamento
 
 Questa settimana è il turno dei cinque protagonisti, chiamati per rispondere di alcuni incidenti successi nella scuola i giorni precedenti. Cosa troveranno ad aspettarli? E perché negli anni Ottanta si poteva girare con quelle spalline nella giacca?
 
-BreakBeast Club è un episodio autoconclusivo di Copper Sentai per cinque giocatori ambientato nei ruggenti anni Ottanta che fa il verso ai film  vostro diritto fare ciò che volete di quello che avete letto fino ad adesso. Chiunque vi dica il contrario dovrebbe prendersi qualche ora per dare almeno un’occhiata distratta a La morte dell’autore di Barthes. 
+BreakBeast Club è un episodio autoconclusivo di Copper Sentai per cinque giocatori ambientato nei ruggenti anni Ottanta che fa il verso al film culto di John Hughes "Breakfast Club".
 
 Non dico per cambiare idea, ché il vecchio Rolando è stato giustamente contestato da accademici ben più preparati dell’autore di giochini medio, ma perlomeno per regalarsi la possibilità di vedere le proprie idee migliorate dalle sensibilità altrui.
 

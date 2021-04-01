@@ -18,6 +18,8 @@ layout: docs
 
 <div class="note"><strong>Nota:</strong> i protagonisti nel primo capitolo sono di Rango 0.</a></div>
 
+***
+
 ### L'inizio dell'avventura
 
 Dopo l’intervento del narratore, la puntata si apre con i cinque ragazzi che raggiungono la scuola con i loro mezzi, accompagnati o meno da familiari o amici; lasciate ai giocatori la possibilità di descrivere il loro personaggio, eventuali accompagnatori e la scena in cui entrano nell’istituto.

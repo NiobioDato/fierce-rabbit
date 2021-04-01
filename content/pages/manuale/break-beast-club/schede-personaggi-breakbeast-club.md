@@ -153,7 +153,7 @@ Con la supertutina, posso usare il <span style="color:orange">**Bohémien**</spa
 
 Per Allie Burt, essere la Bruta significa avere **Sguardo da killer**, **Indipendenza** e **Stretta d’acciaio**. Purtroppo vuol dire anche essere **Emotivamente instabile**.
 
-L’Arma
+### L’Arma
 
 Allie Burt impugna Bohémien, un Megafono multifrequenza capace di Stordire.
 

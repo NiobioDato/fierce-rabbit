@@ -39,7 +39,7 @@ Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimid
 **Cindy LauTech** è un robot Umanoide che somiglia a Cindy Lauper e la sua Qualità è **Assorbimento energetico**.
 
 
-## Jude Bender
+## Clara Standoff
 
 Jude Bender è l’anima ribelle della scuola, un ragazzo considerato “perso” per tutto il corpo docente che colleziona più assenze che presenze.
 In una delle sue ultime visite alla scuola, aveva scommesso con degli amici che avrebbe disegnato alcuni peni stilizzati con lo spray in pieno giorno, durante la pausa pranzo. Ha vinto la scommessa ma è stato chiaramente pizzicato durante la sua performance e ora deve scontare la sua punizione il sabato mattina.

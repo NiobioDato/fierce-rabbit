@@ -1,5 +1,5 @@
 ---
-title: Giocare in meno persone
+title: Il mondo Copper Sentai di BreakBeast Club
 weight: 1
 layout: docs
 ---

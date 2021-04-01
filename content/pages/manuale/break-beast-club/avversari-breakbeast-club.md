@@ -32,4 +32,5 @@ I crumiroidi sono la fanteria per niente scelta di Lord Adderall e i suoi genera
 **\[La mia forma finale]** In forma titanica, il Rango di Gronk è 5.
 
 ### Qualità Superiore
-\[A letto senza cena! | 2 Gettoni] In forma titanica, Gronk emette un suono stridulo, forte a sufficienza da assordare chiunque nel raggio di 500 metri per dieci minuti e manomettere gran parte dei macchinari. La Qualità aggiunge un Effetto ambientale Leggero alle tutine appiedate e Leggero e Pesante quando sui Robot personali.
+
+*[A letto senza cena! | 2 Gettoni] In forma titanica, Gronk emette un suono stridulo, forte a sufficienza da assordare chiunque nel raggio di 500 metri per dieci minuti e manomettere gran parte dei macchinari. La Qualità aggiunge un Effetto ambientale Leggero alle tutine appiedate e Leggero e Pesante quando sui Robot personali.

@@ -12,7 +12,7 @@ Questa settimana è il turno dei cinque protagonisti, chiamati per rispondere di
 
 BreakBeast Club è un episodio autoconclusivo di Copper Sentai per cinque giocatori ambientato nei ruggenti anni Ottanta che fa il verso al film culto di John Hughes "Breakfast Club".
 
-In questa sezione trovate tutto quello che serve per giocare
+In questa sezione trovate tutto quello che serve per giocare, comprese le schede e i mostri presenti
 
 ***
 

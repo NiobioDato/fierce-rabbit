@@ -129,6 +129,7 @@ Nel caso in cui i ragazzi vengano beccati dal vicepreside e dagli incappucciati:
 
 I ragazzi, con le buone o le cattive (**Conflitto di Rango 5 Contatore 4**), vengono riportati nella classe e costretti a stare seduti. Il vicepreside potrebbe usare, spendendo un Gettone narratore, la sua Qualità "<a href="/manuale/break-beast-club/avversari-breakbeast-club/#qualità-1">Campo di ubbidienza”</a>".
 
+### Marachelle
 
 >  Il vicepreside inserisce la cassetta VHS nel registratore e la fa partire con un meccanico *click*.  Lo schermo si riempie di righe statiche e un suono penetrante, simile a un guaito, penetra nelle loro orecchie.
 

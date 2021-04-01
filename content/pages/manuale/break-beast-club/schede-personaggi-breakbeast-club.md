@@ -121,7 +121,7 @@ Al di là del mio Ruolo, sono una persona <span style="color:blue">**Concentrata
 
 Con la supertutina, posso usare il <span style="color:orange">**Teoremington**</span>.
 
-Parole chiave di Ruolo
+### Parole chiave di Ruolo
 
 Per Brody Jefferson, essere il Cervellone significa avere Spirito Analitico, Curiosità e Memoria fotografica. Purtroppo vuol dire anche avere Paura dello scontro fisico.
 

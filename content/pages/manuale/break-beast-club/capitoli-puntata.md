@@ -96,6 +96,7 @@ Quando tutti i personaggi hanno presentato il motivo per cui sono lì:
 > Il vicepreside vi squadra con severità.
 
 > “Bene, rileggete quello che avete scritto. Vi volete in futuro riconoscere in quelle parole? La società premia solo le persone produttive, ordinate ed educate, mentre le altre le rigetta. Volete essere uno scarto della società? Non importa, io non vi permetterò di diventarlo. Sono qui per raddrizzare prima voi, poi tutti quelli che pensano di poter vivere senza ordine, disciplina e rispetto dei propri superiori. Voi giovani dovete saper stare al vostro posto e fidarvi di chi ha vissuto più di voi.”
+
 > Il vicepreside poi si alza con uno sbuffo. “Ora vado a recuperare il materiale educativo e la televisione nella sala professori. Non. Vi. Muovete. Non voglio sentire un solo rumore mentre sono fuori.” 
 
 Lasciate i giocatori conoscersi e, nel caso, esplorare la stanza. Se interagiscono fra di loro ma rimangono al loro posto, aspettate che abbiano finito gli argomenti per far tornare il vicepreside.

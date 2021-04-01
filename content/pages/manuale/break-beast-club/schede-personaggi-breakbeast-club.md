@@ -30,7 +30,7 @@ Per Jude Bender, essere il Bassista carismatico significa avere Sangue Freddo, l
 
 ### L’Arma
 
-Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimidisce **quando sventolato.
+Jude Bender impugna il **FaBrutto**, un **Coltello a serramanico** che **Intimidisce** quando sventolato.
 
 
 

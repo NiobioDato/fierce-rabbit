@@ -225,7 +225,7 @@ Gronk il Rigido rimane sorpreso dalla presenza delle tutine ed esclama:
 
 > “Siate dannati! Non so chi vi manda, ma se credete di rovinare sei mesi di lavoro vi sbagliate di grosso! Crumiroidi, fermateli coi vostri cadaveri!
 
-Gronk prova ad allontanarsi verso la parte opposta del tetto, dove appare una navicella spaziale monoposto, probabilmente nascosta fino a quel momento da un campo d'invisibilità. I Crumiroidi provano a bloccare il gruppo a intercettare il gruppo (Conflitto grado 3 Contatore 4 per l’alto numero).
+Gronk prova ad allontanarsi verso la parte opposta del tetto, dove appare una navicella spaziale monoposto, probabilmente nascosta fino a quel momento da un campo d'invisibilità. I Crumiroidi provano a bloccare il gruppo  (Conflitto grado 3 Contatore 4 per l’alto numero).
 
 Break Beast:
 

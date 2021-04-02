@@ -237,4 +237,6 @@ Prima del combattimento con i Crumiroidi Break Beast interviene di nuovo:
 
 Le armi sono presenti nelle <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">schede dei personaggi, ma lasciate che siano loro a descrivere come appaiono e come funziona nello specifico il loro potere.
 
+
+
 Liberati dalla presenza fastidiosa di gran parte dei Crumiroidi, non resta che combattere contro Gronk.

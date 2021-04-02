@@ -253,4 +253,4 @@ Lasciate ai giocatori l'invenzione della loro super mossa che unisce le armi a l
 
 > Spinto via dalla forza dei vostri colpi, Gronk casca dal tetto lanciando un grido pieno di rabbia: “Non è finita qui, siete tutti in punizioneeeee”.
 
-## Capitolo 4 - 
+## Capitolo 4 - Grossi vicepr

@@ -141,7 +141,7 @@ I giocatori possono provare a liberarsi da questa trance, ma consideratelo un **
 
 Poi però le luci si spengono, così come il televisore. La stanza entra in un silenzio rotto solo dal disappunto del vicepreside.
 
-> 
+> La stanza si fa buia e sentite finalmente di tornare in voi.  
 
 Break Beast li libera spegnendo la tv
 

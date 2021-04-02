@@ -215,7 +215,7 @@ In entrambi casi, il vicepreside Humbert Lexington Jr. cala la maschera e si mos
 
 ## Capitolo 3 - L'albero azzurro, sì, ma di pestoni
 
-Il terzo Capitolo si apre con una nuova comunicazione di Break Beast, che:
+Il terzo Capitolo si apre con una nuova comunicazione di Break Beast:
 
 > Ok, questo è bello grosso. Tu, coso colla giacca convenientemente rossa: porta il tuo guanto di fronte a te è di’ qualcosa tipo, non so, “Brat Pack, si rulla cartoni!”. Voi dietro fate lo stesso. Ho detto quello rosso, ma fate un po’ come vi pare. L’importante è che vi trasformate!
 

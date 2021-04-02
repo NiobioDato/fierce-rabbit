@@ -135,7 +135,7 @@ I ragazzi, con le buone o le cattive (**Conflitto di Rango 5 Contatore 4**), ven
 
 I giocatori sono bloccati ora nei loro banchi, mentre una voce nella loro testa, profonda e graffiante allo stesso tempo ripete:
 
-> La calma è una virtù. L'obbedienza è un pregio. Rispettate chi è più vecchio di voi. 
+> La calma è una virtù. L'obbedienza è un pregio. Rispettate chi è più vecchio di voi. Rispettate Lord Adderall. Lord Adderall vuole il vostro bene.  
 
 Break Beast li libera spegnendo la tv
 

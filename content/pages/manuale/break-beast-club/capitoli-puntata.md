@@ -219,6 +219,8 @@ Il terzo Capitolo si apre con una nuova comunicazione di Break Beast:
 
 > Ok, questo è bello grosso. Tu, coso colla giacca convenientemente rossa: porta il tuo guanto di fronte a te è di’ qualcosa tipo, non so, “Brat Pack, si rulla cartoni!”. Voi dietro fate lo stesso. Ok, ho detto quello rosso, ma fate un po’ come vi pare. L’importante è che vi trasformate!
 
+Lasciate i giocatori descrivere come ognuno di loro si trasforma 
+
 Gronk il Rigido:
 
 > “Siate dannati! Non so chi vi manda, ma se credete di rovinare sei mesi di lavoro vi sbagliate di grosso! Crumiroidi, fermateli coi vostri cadaveri!

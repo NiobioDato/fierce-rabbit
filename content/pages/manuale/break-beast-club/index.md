@@ -17,7 +17,7 @@ BreakBeast Club è un episodio autoconclusivo di Copper Sentai per cinque giocat
 
 In questa sezione trovate tutto quello che serve per giocare, compreso un Capitolo 1 approfondito, le schede dei protagonisti e degli antagonisti della storia.
 
-Potete guardare BreakBeast Club giocato per la prima volta qui:
+Potete guardare BreakBeast Club giocato con per la prima volta qui:
 
 <iframe src="https://player.twitch.tv/?video=969152254&parent=www.coppersentai.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 

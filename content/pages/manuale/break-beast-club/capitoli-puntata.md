@@ -243,4 +243,4 @@ Liberati dalla presenza fastidiosa di gran parte dei Crumiroidi, non resta che c
 
 ### Gronk il Rigido
 
-Il combattimento contro Gronk 
+Il combattimento contro Gronk è un momento in cui lo scontro fisico diventa anche un momento di crescita per i ragazzi; utilizzate 

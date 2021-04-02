@@ -170,3 +170,41 @@ Break Beast indica fuori dalla stanza, poggiato col braccio sul suo mocio ancora
 
 > “Il vicepreside si accorgerà presto che qualcosa non va e che il cortocircuito era voluto. Dovete salire fino al tetto evitando i Crumiroidi, umani schiavizzati dai poteri di Lord Adderall, e distruggere l’antenna di comunicazione con l'astronave madre dell'Inquisitore. Avete davvero non più di venti minuti; sfruttateli bene. Io mi terrò in contatto con voi grazie al guanto.”
 
+## Capitolo 2 - Come quella scena famosa di Daredevil (non il film, la serie TV)
+
+Da qui iniziano capitoli di sostanziale azione, in cui il narratore deve essere capace di mantenere un ritmo forsennato adattando i conflitti alle scelte dei giocatori.
+Lo scopo del Capitolo è quello di disattivare l'antenna prima che Gronk il Rigido li intercetti, salendo quindi tre piani di scale e battaglianodo i <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">Crumiroidi</a>.
+
+Appena i protagonisti escono dalla sala ricevimenti, il narratore deve far partire due Contatori contrapposti:
+un **Contatore da 6** per raggiungere l’antenna contro un **Contatore da 8** che rappresenta l'ira di Gronk il Rigido.
+
+I risultati dei conflitti manipolano i Contatori in questo modo:
+
+- i “Successo” fanno scendere il Contatore da 6 di uno;
+- i “Successo, ma” fanno scendere di uno sia il Contatore da 6 sia il Contatore da 8;
+- i “Fallimento” fanno scendere il Contatore da 8 di due;
+- i “Successo, e” fanno scendere il Contatore da 6 di due.
+
+Alcuni esempi dei Conflitti che potete presentare ai giocatori:
+
+1. Una serie di Crumiroidi bloccano le scale con una sorta di muraglia vivente (**Conflitto Rango 4**).
+2. Un Crumiroide nel corridoio tiene in mano qualcosa che sembra un detonatore (**Conflitto Rango 5**, oppure **Rango 4** se osservano il corridoio per notare che c'è solo una carica a cui pensare).
+3. Crumiroidi che lanciano olio appiccicoso giù per le scale (**Conflitto Rango 4**).
+4. Due Crumiroidi spostano un televisore simile a quello nella sala ricevimenti cercando di ipnotizzarli (**Conflitto Rango 4**)
+5. Crumiroidi su pattini a rotelle cercano di bloccarli con dei lazo da cowboy (**Conflitto Rango 4**, Contatore da 2). 
+6. La porta verso il tetto è chiusa, si sentono suoni esterni, come qualcuno che sta maneggiando qualcosa dall’altro lato (**Conflitto Rango 5** Contatore 2, **Rango 4** se capiscono che stanno piantando dell’esplosivo).
+
+### Scontro all'antenna
+
+Raggiunta l'antenna, si trovano di fronte un bel numero di Crumiroidi pronti a combattere. Trovate la scheda fra gli <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">avversari della puntata</a>.
+
+A questo punto esistono due possibilità:
+
+- il Contatore da 6 è esaurito ma non quello da 8;
+- entrambi i Contatori sono esauriti.
+
+Nel primo caso l'antenna viene distrutta senza grandi problemi; nel secondo caso i personaggi soffrono di un malus per un **Effetto ambientale estremo**: Gronk sta inviando un segnale ipnotico che rende difficile concentrarsi!
+
+In entrambi casi, il vicepreside Humbert Lexington Jr. cala la maschera e si mostra come Gronk il Rigido:
+
+> Del vicepreside sono rimasti solo la cravatta dal nodo troppo stretto, l’orologio pacchiano e lo sguardo feroce; per il resto, la creatura davanti ha poco di umano, anche per i suoi standard precedenti. Gronk Il Rigido è una sorta di mostro chimerico con le ali da pipistrello, il volto da Foca, il corpo da leone ritto su due zampe e il bastone da, uhm, pastore? Insomma, quei bastoni da pastorello della Bibbia col ricciolino di legno in alto, presente? Ecco, quello.

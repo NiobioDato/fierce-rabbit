@@ -5,7 +5,7 @@ excerpt: >-
 layout: docs
 ---
 
-Una collezione di materiale per Copper Sentai pensato per rendere più graziose ed efficaci le vostre partite online su Virtual Tabletop come Roll20.
+Qui trovate una collezione di materiale per Copper Sentai pensato per rendere più graziose ed efficaci le vostre partite online su Virtual Tabletop come Roll20.
 
 Potete trovare:
 Contatori da 2 a 8

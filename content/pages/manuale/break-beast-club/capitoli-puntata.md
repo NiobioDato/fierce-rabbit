@@ -247,4 +247,4 @@ Il combattimento contro Gronk è un momento in cui lo scontro fisico diventa anc
 
 Il Contatore di Gronk sarebbe da 6, ma arrivati ai quattro successi, Gronk il Rigido tornerà a parlare ai ragazzi:
 
-> “Se siete in difficoltà, richiamate la vostra arma. Basta dire «Brat Arma, vieni a me!» o qualcosa del genere. Non posso assicurarvi che vi sia utile, la forma e il potere dipendono dalle vostre inclinazioni e personalità.”
+> “Lo state mettendo alle corde, ma perché non darsi una mossa? A proposito di mossa, richiamate la vostra arma. Basta dire «Brat Arma, vieni a me!» o qualcosa del genere. Non posso assicurarvi che vi sia utile, la forma e il potere dipendono dalle vostre inclinazioni e personalità.”

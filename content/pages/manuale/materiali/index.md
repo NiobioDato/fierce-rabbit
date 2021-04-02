@@ -9,7 +9,7 @@ Qui trovate una collezione di materiale per Copper Sentai pensato per rendere pi
 
 Potete trovare:
 - Contatori da 2 a 8
-- Layer da usare come game mat per gettoni, clock e per segnare il capitolo corrente.
+- Un Layer da usare come game mat per gettoni, clock e per segnare il capitolo corrente.
 - Gettoni per narratore e giocatori da scambiarsi in-game. 
 
 Potete usare questo materiale gratuitamente per i vostri progetti personali (o anche commerciali!) purché citiate la fonte con un semplice link al sito di Copper Sentai.

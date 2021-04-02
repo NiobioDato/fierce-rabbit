@@ -245,7 +245,7 @@ Liberati dalla presenza fastidiosa di gran parte dei Crumiroidi, non resta che c
 
 Il combattimento contro Gronk è un momento in cui lo scontro fisico diventa anche un momento di crescita per i ragazzi; utilizzate le <a href="/manuale/break-beast-club/avversari-breakbeast-club/#qualità-1">Qualità della sua scheda</a> come **Boom Boomer** per costringere i ragazzi a venire a patti con i propri difetti sia di Ruolo sia extra.
 
-Il Contatore di Gronk sarebbe da 6, ma arrivati ai quattro successi, Gronk il Rigido tornerà a parlare ai ragazzi:
+Il **Contatore di Gronk sarebbe da 6, ma arrivati ai quattro successi, Gronk il Rigido tornerà a parlare ai ragazzi:
 
 > “Lo state mettendo alle corde, certo, ma perché non vi date una mossa? Qui c'è gente che deve tornare alle focacce! Ah, a proposito di mossa, perché non utilizzate la vostra? Quella super collettiva in cui unite le forze e mettete di sicuro KO Gronk? Ah, perché non vi avevo detto come funzionava? Pardon! Dai, tanto avete capito il principio: una bella mossetta, due urla e inventatevi qualcosa di spumeggiante!”
 

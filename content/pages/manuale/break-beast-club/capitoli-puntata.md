@@ -239,4 +239,5 @@ Le armi sono presenti nelle <a href="/manuale/break-beast-club/avversari-breakbe
 
 Liberati dalla presenza fastidiosa di gran parte dei Crumiroidi, non resta che combattere contro Gronk.
 
-### Gronk il Rigido e 
+### Gronk il Rigido
+

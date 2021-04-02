@@ -139,6 +139,8 @@ I giocatori sono bloccati ora nei loro banchi, non più padroni dei propri movim
 
 I giocatori possono provare a liberarsi da questa trance, ma consideratelo un **Conflitto di Rango 6** con Malus ambientale estremo e, se ha senso, un difetto di ruolo o extra-Ruolo. Descrivete in maniera chiara come i loro difetti li tengano lì, bloccati, perché sono *sbagliati* e meritano di essere puniti per ciò che hanno fatto.
 
+Poi però 
+
 Break Beast li libera spegnendo la tv
 
 Il vicepreside esce dalla stanza per capire cosa succede

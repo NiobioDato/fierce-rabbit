@@ -221,7 +221,7 @@ Il terzo Capitolo si apre con una nuova comunicazione di Break Beast:
 
 Lasciate i giocatori descrivere come ognuno di loro si trasforma nell'alter ego supertutinato e, possibilmente, convinceteli a usare il loro urlo di battaglia tutti insieme. È molto liberatorio!
 
-Gronk il Rigido rimane sorpreso dalla presenza delle tutine:
+Gronk il Rigido rimane sorpreso dalla presenza delle tutine ed esclama:
 
 > “Siate dannati! Non so chi vi manda, ma se credete di rovinare sei mesi di lavoro vi sbagliate di grosso! Crumiroidi, fermateli coi vostri cadaveri!
 

@@ -1,8 +1,7 @@
 ---
 title: BreakBeast Club
 excerpt: >-
-  Tutto quello che serve per giocare alla puntata autoconclusiva di Copper
-  Sentai chiamata BreakBeast Club.
+  Tutto quello che serve per giocare alla puntata autoconclusiva di Copper Sentai chiamata BreakBeast Club.
 layout: docs
 ---
 ![](/images/the-breakbeast-club-cover.jpg)

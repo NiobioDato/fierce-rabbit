@@ -169,3 +169,4 @@ I ragazzi dopo ora conoscono le arti marziali, la loro forza è raddoppiata e il
 Break Beast indica fuori dalla stanza, poggiato col braccio sul suo mocio ancora bagnato:
 
 > “Il vicepreside si accorgerà presto che qualcosa non va e che il cortocircuito era voluto. Dovete salire fino al tetto evitando i Crumiroidi, umani schiavizzati dai poteri di Lord Adderall, e distruggere l’antenna di comunicazione con l'astronave madre dell'Inquisitore. Avete davvero non più di venti minuti; sfruttateli bene. Io mi terrò in contatto con voi grazie al guanto.”
+

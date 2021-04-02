@@ -1,7 +1,7 @@
 ---
 title: Materiali di gioco
 excerpt: >-
-  I materiali di gioco per Copper Sentai come Contatori e Gettoni per potenziare le vostre partite online su Roll20 o Foundry.
+  I materiali di gioco per Copper Sentai come Contatori e Gettoni per potenziare le vostre partite online su Roll20 o Foundry Virtual Tabletop.
 layout: docs
 ---
 

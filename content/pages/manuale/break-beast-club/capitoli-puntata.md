@@ -245,4 +245,4 @@ Liberati dalla presenza fastidiosa di gran parte dei Crumiroidi, non resta che c
 
 Il combattimento contro Gronk è un momento in cui lo scontro fisico diventa anche un momento di crescita per i ragazzi; utilizzate le <a href="/manuale/break-beast-club/avversari-breakbeast-club/#qualità-1">Qualità della sua scheda</a> come **Boom Boomer** per costringere i ragazzi a venire a patti con i propri difetti sia di Ruolo sia extra.
 
-Se vedete che il combattimento non 
+Il Contatore 

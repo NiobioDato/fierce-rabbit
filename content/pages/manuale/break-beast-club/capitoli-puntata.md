@@ -128,11 +128,7 @@ I ragazzi, con le buone o le cattive (**Conflitto di Rango 5 Contatore 4**), ven
 
 ### Il VHS maledetto
 
-> Il vicepreside inserisce la cassetta VHS nel registratore e la fa partire con un meccanico 
->
-> **click**
->
-> .  Lo schermo si riempie di righe statiche e un suono penetrante, simile a un guaito, penetra nelle vostre orecchie.
+> Il vicepreside inserisce la cassetta VHS nel registratore e la fa partire con un meccanico *click*.  Lo schermo si riempie di righe statiche e un suono penetrante, simile a un guaito, penetra nelle vostre orecchie.
 
 I giocatori sono bloccati ora nei loro banchi, non più padroni dei propri movimenti, mentre una voce nella loro testa, profonda e graffiante allo stesso tempo ripete come una cantilena:
 
@@ -147,5 +143,3 @@ A un tratto però le luci si spengono, così come il televisore. La st
 > La stanza si fa buia e sentite finalmente di tornare in voi. Nel silenzio, in penombra, vedete il vicepreside alzare le braccia al cielo. Sarà perché non vedete bene, ma vi sembra leggermente più robusto di prima.
 
 > “Ora che succede?! Ma è mai possibile concludere un lavoro in questa fogna di scuola senza ci sia qualche problema?" sbotta il vicepreside, che apre la porta intimando ai ragazzi "Vi consiglio di farvi ritrovare dove vi ho lasciati, perché la mia pazienza è davvero finita.”
->
->

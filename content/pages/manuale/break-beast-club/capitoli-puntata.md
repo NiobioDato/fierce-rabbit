@@ -249,5 +249,5 @@ Il Contatore di Gronk sarebbe da 6, ma arrivati ai quattro successi, Gronk il Ri
 
 > “Lo state mettendo alle corde, certo, ma perché non vi date una mossa? Qui c'è gente che deve tornare alle focacce! Ah, a proposito di mossa, perché non utilizzate la vostra? Quella super collettiva in cui unite le forze e mettete di sicuro KO Gronk? Ah, perché non vi avevo detto come funzionava? Pardon! Dai, tanto avete capito il principio: una bella mossetta, due urla e inventatevi qualcosa di spumeggiante!”
 
-Lasciate ai giocatori 
+Lasciate ai giocatori l'invenzione della loro super mossa che unisce le armi a loro disposizione in un colpo che abbatte
 

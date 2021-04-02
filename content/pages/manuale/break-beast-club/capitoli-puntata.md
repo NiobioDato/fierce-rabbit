@@ -142,3 +142,30 @@ Poi però le luci si spengono, così come il televisore. La stanza entra in un s
 
 > “Ora che succede?! Ma è mai possibile concludere un lavoro in questa fogna di scuola senza ci sia qualche problema?" sbotta il vicepreside, che apre la porta intimando ai ragazzi "Vi consiglio di farvi ritrovare dove vi ho lasciati, perché la mia pazienza è davvero finita.”
 
+### L'arrivo del SuperCoso
+
+Dalla porta lasciata aperta dal vicepreside sbuca dopo un minuto Niko, che controlla ogni angolo della stanza con lo sguardo prima di entrarvi prudentemente. Porta il dito al labbro, intimando il silenzio.
+
+> “Fate piano, siamo tutti in pericolo. Sono riuscito a staccare la luce e liberarvi dalla cassetta di riprogrammazione neurale, ma è l'ultima occasione che abbiamo per rovinare i piani di quello che voi chiamate vicepreside.”
+
+Niko prova a spiegare la situazione a parole sue, ogni tanto confondendosi o perdendo il filo del discorso. Ciò che i giocatori devono sapere è che il vicepreside Humbert Lexington Jr. in realtà si chiama Gronk il Rigido, ed è uno dei generali di Lord Adderall, Inquisitore dell’Ordine Supremo dei Bei Tempi Andati. 
+
+Lord Adderall ha inviato Gronk il Rigido sulla Terra con lo scopo di sperimentare e migliorare le tecnologie di pacificazione, adattandole anche agli esseri umani. Per iniziare sono partiti dalla scuola superiore, dove le menti dei giovani sono più malleabili e facili da influenzare, ma l'idea è quella di estendere il piano prima alla città e poi a tutto il mondo. Purtroppo, il tempo sta finendo: la fase di sperimentazione sugli studenti finirà proprio oggi e tutti i dati stanno per essere inviati all'astronave madre di Lord Adderall per essere analizzati e iniziare la fase due del piano.
+
+Se qualcuno chiede a Niko chi sia: 
+
+> “Il mio vero nome non importa, ma sappiate che sono chiamato Break Beast, la Belva delle pause. Negli ultimi duemila anni che cammino fra voi umani mi hanno chiamato “Maestro occulto dell’imbosco”, “Campione della pennichella”, oppure “l’Anarcolettico”, ma la sostanza non cambia: nessuno è mai riuscito a costringermi a essere produttivo. 
+
+> Un pensatore della Terra parlava dell’importanza dell’ozio, mi pare. Non mi ricordo cosa diceva di preciso, ma di sicuro aveva ragione. Non c’è niente di più ribelle di non diventare lo strumento produttivo del potere, qualsiasi esso sia. Hasta la siesta siempre!”
+
+Nel caso i personaggi siano giustamente dubbiosi, Break Beast aggiunge:
+
+> “Ho bisogno di campioni che possano aiutarmi a cacciare Lord Adderal dalla Terra prima che sia troppo tardi. Voi siete cinque, che è proprio il numero perfetto. E non ho poi molta altra scelta;  oggi partirà il piano su scala cittadina e se aspettassi qualcuno di più degno sarebbe troppo tardi. Infilatevi il guanto senza dita che vi passo e guardate questa luce blu”.
+
+Break Beast attende che i ragazzi abbiano indossato il loro guanto e punta poi uno strumento che emana una luce blu pulsante. I guanti risplendono per un paio di secondi della stessa luce blu, prima che i ragazzi siano investiti da un vigore e una consapevolezza dei propri mezzi mai avuta prima. 
+
+I ragazzi dopo ora conoscono le arti marziali, la loro forza è raddoppiata e il loro **Rango base è 1**.
+
+Break Beast indica fuori dalla stanza, poggiato col braccio sul suo mocio ancora bagnato:
+
+> “Il vicepreside si accorgerà presto che qualcosa non va e che il cortocircuito era voluto. Dovete salire fino al tetto evitando i Crumiroidi, umani schiavizzati dai poteri di Lord Adderall, e distruggere l’antenna di comunicazione con l'astronave madre dell'Inquisitore. Avete davvero non più di venti minuti; sfruttateli bene. Io mi terrò in contatto con voi grazie al guanto.”

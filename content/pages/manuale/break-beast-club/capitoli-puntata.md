@@ -128,18 +128,3 @@ I ragazzi, con le buone o le cattive (**Conflitto di Rango 5 Contatore 4**), ven
 
 ### Il VHS maledetto
 
-> Il vicepreside inserisce la cassetta VHS nel registratore e la fa partire con un meccanico *click*.  Lo schermo si riempie di righe statiche e un suono penetrante, simile a un guaito, penetra nelle vostre orecchie.
-
-I giocatori sono bloccati ora nei loro banchi, non più padroni dei propri movimenti, mentre una voce nella loro testa, profonda e graffiante allo stesso tempo ripete come una cantilena:
-
-> “La calma è una virtù. L'obbedienza è un pregio. Rispetta chi è più vecchio di te. Rispetta Lord Adderall. Lord Adderall vuole il tuo bene. Il tuo bene è il bene di tutti.” 
-
-I giocatori possono provare a liberarsi da questa trance, ma consideratelo un **\*\*Conflitto di Rango 6\*\*** con Malus ambientale estremo e, se ha senso, un difetto di ruolo o extra Ruolo.
-
-Descrivete in maniera chiara come i loro difetti li tengano lì, bloccati, perché sono *\*sbagliati\** e meritano di essere puniti per ciò che hanno fatto.
-
-A un tratto però le luci si spengono, così come il televisore. La stanza entra in un silenzio rotto solo dal disappunto del vicepreside.
-
-> La stanza si fa buia e sentite finalmente di tornare in voi. Nel silenzio, in penombra, vedete il vicepreside alzare le braccia al cielo. Sarà perché non vedete bene, ma vi sembra leggermente più robusto di prima.
-
-“Ora che succedeMa è mai possibile concludere un lavoro in questa fogna di scuola senza ci sia qualche problema?" sbotta il vicepresideche apre la porta intimando ai ragazzi "Vi consiglio di farvi ritrovare dove vi ho lasciati, perché la mia pazienza è davvero finita.”

@@ -251,4 +251,4 @@ Il Contatore di Gronk sarebbe da 6, ma arrivati ai quattro successi, Gronk il Ri
 
 Lasciate ai giocatori l'invenzione della loro super mossa che unisce le armi a loro disposizione in una Super Mossa che abbatte Gronk. 
 
-> Colpito da
+> Colpito con forza dai vostri colpi, Gronk casca dal tetto 

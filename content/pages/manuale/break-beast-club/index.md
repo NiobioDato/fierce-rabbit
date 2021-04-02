@@ -19,7 +19,7 @@ In questa sezione trovate tutto quello che serve per giocare, compreso un Capito
 
 Potete guardare l'episodio giocato per la prima volta qui:
 
-<iframe src="https://player.twitch.tv/?video=969152254&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?video=969152254&parent=www.coppersentai.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 
 

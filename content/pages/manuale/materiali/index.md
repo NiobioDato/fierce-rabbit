@@ -8,6 +8,7 @@ layout: docs
 Qui trovate una collezione di materiale per Copper Sentai pensato per rendere più graziose ed efficaci le vostre partite online su VTT (Virtual Tabletop) come **Roll20**.
 
 Potete trovare:
+
 - contatori da 2 a 8;
 - un Layer da usare come game mat per gettoni, clock e per segnare il capitolo corrente;
 - gettoni per narratore e giocatori da scambiarsi in-game.

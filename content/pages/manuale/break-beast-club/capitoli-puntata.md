@@ -137,7 +137,7 @@ I giocatori sono bloccati ora nei loro banchi, non più padroni dei propri movim
 
 > "La calma è una virtù. L'obbedienza è un pregio. Rispetta chi è più vecchio di te. Rispetta Lord Adderall. Lord Adderall vuole il tuo bene. Il tuo bene è il bene di tutti."  
 
-I giocatori possono provare a liberarsi da questa trance, ma consideratelo un **Conflitto di Rango 6** con Malus ambientale estremo e, se ha senso, un difetto di ruolo o extra-Ruolo. Descrivete, con un fallimento, in maniera chiara come i loro difetti li tengano lì, bloccati, perché sono *sbagliati* e meritano di essere puniti per ciò che hanno fatto.
+I giocatori possono provare a liberarsi da questa trance, ma consideratelo un **Conflitto di Rango 6** con Malus ambientale estremo e, se ha senso, un difetto di ruolo o extra-Ruolo. Descrivete in maniera chiara come i loro difetti li tengano lì, bloccati, perché sono *sbagliati* e meritano di essere puniti per ciò che hanno fatto.
 
 Break Beast li libera spegnendo la tv
 

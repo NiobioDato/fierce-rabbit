@@ -142,4 +142,4 @@ A un tratto però le luci si spengono, così come il televisore. La st
 
 > La stanza si fa buia e sentite finalmente di tornare in voi. Nel silenzio, in penombra, vedete il vicepreside alzare le braccia al cielo. Sarà perché non vedete bene, ma vi sembra leggermente più robusto di prima.
 
-> “Ora che succede?! Ma è mai possibile concludere un lavoro in questa fogna di scuola senza ci sia qualche problema?" sbotta il vicepreside, che apre la porta intimando ai ragazzi "Vi consiglio di farvi ritrovare dove vi ho lasciati, perché la mia pazienza è davvero finita.”
+> “Ora che succedeMa è mai possibile concludere un lavoro in questa fogna di scuola senza ci sia qualche problema?" sbotta il vicepreside, che apre la porta intimando ai ragazzi "Vi consiglio di farvi ritrovare dove vi ho lasciati, perché la mia pazienza è davvero finita.”

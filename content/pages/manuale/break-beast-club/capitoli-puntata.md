@@ -235,7 +235,7 @@ Prima del combattimento con i Crumiroidi Break Beast interviene di nuovo:
 
 > “Se siete in difficoltà, richiamate la vostra arma. Basta dire “Brat Arma, vieni a me!” o qualcosa del genere. Non posso assicurarvi che vi sia utile, la forma e il potere dipendono dalle vostre inclinazioni e personalità. Be’, non che abbiate molto da perdere; fra venti minuti potenzialmente la memoria collettiva di questa città sarà cancellata. Vabbe’, buona fortuna!”
 
-Le armi sono presenti nelle <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">schede dei personaggi, ma lasciate che siano loro a descrivere come appaiono e come funziona nello specifico il loro potere.
+Le armi sono presenti nelle <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">schede dei personaggi</a>, ma lasciate che siano loro a descrivere come appaiono e come funziona nello specifico il loro potere.
 
 Liberati dalla presenza fastidiosa di gran parte dei Crumiroidi, non resta che combattere contro Gronk.
 

@@ -137,7 +137,7 @@ I giocatori sono bloccati ora nei loro banchi, mentre una voce nella loro testa,
 
 > "La calma è una virtù. L'obbedienza è un pregio. Rispetta chi è più vecchio di te. Rispetta Lord Adderall. Lord Adderall vuole il tuo bene. Il tuo bene è il bene di tutti."  
 
-Se volete aggiungere un
+I giocatori possono provare a liberarsi da questa trance
 Break Beast li libera spegnendo la tv
 
 Il vicepreside esce dalla stanza per capire cosa succede

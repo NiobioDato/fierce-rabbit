@@ -213,7 +213,7 @@ In entrambi casi, il vicepreside Humbert Lexington Jr. cala la maschera e si mos
 
 > Gronk Il Rigido è una sorta di mostro chimerico con le ali da pipistrello, il volto da Foca, il corpo da leone ritto su due zampe e il bastone da, uhm, pastore? Insomma, quei bastoni da pastorello della Bibbia col ricciolino di legno in alto, presente? Ecco, quello.
 
-## Capitolo 3 - L'albero azzurro, ma di pestoni
+## Capitolo 3 - L'albero azzurro, sì, ma di pestoni
 
 Break Beast:
 

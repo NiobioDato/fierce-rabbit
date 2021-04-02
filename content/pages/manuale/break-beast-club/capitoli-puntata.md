@@ -143,7 +143,7 @@ Poi però le luci si spengono, così come il televisore. La stanza entra in un s
 
 > La stanza si fa buia e sentite finalmente di tornare in voi. Nel silenzio, in penombra, vedete il vicepreside alzare le braccia al cielo. Sarà perché non vedete bene, ma vi sembra leggermente più robusto di prima.
 
-> "Ora che succede?! Ma è mai possibile concludere un lavoro in questa fogna di scuola senza che ci sia un p 
+> "Ora che succede?! Ma è mai possibile concludere un lavoro in questa fogna di scuola senza che ci sia qualche problema?" 
 
 Break Beast li libera spegnendo la tv
 

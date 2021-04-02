@@ -227,7 +227,7 @@ Gronk il Rigido rimane sorpreso dalla presenza delle tutine ed esclama:
 
 Gronk tenta subito di allontanarsi verso la parte opposta del tetto, dove appare una navicella spaziale monoposto, probabilmente nascosta fino a quel momento da un campo d'invisibilità. I Crumiroidi provano a bloccare il gruppo per impedirli di intercettare Gronk (**Conflitto grado 3 Contatore 4** per l’alto numero di <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">Crumiroidi</a>).
 
-Break Beast:
+Prima del combattimento con i Crumiroidi Break Beast interviene di nuovo:
 
 > Se siete in difficoltà, richiamate la vostra arma. Basta dire “Brat Arma, vieni a me!” o qualcosa del genere. Non posso assicurarvi che vi sia utile, la forma e il potere dipende un po’ dalle vostre inclinazioni e personalità. Be’, non che abbiate molto da perdere; fra venti minuti potenzialmente la memoria collettiva di questa città sarà cancellata. Vabbe’, buona fortuna!
 

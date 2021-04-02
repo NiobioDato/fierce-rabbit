@@ -20,7 +20,7 @@ Per ispirarvi, potete guardare BreakBeast Club giocato per la prima volta qui:
 
 <iframe src="https://player.twitch.tv/?video=969152254&parent=www.coppersentai.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
-Tutto il materiale che vedete usare nel video qua sopra è presente in questa sezione del Manuale e fra i <a href="/manuale/materiale>
+Tutto il materiale che vedete usare nel video qua sopra è presente in questa sezione del Manuale e fra i <a href="/manuale/materiali>
 
 ***
 

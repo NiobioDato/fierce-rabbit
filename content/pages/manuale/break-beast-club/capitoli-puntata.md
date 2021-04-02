@@ -212,3 +212,21 @@ In entrambi casi, il vicepreside Humbert Lexington Jr. cala la maschera e si mos
 > Del vicepreside sono rimasti solo la cravatta dal nodo troppo stretto, l’orologio pacchiano e lo sguardo feroce; per il resto, la creatura davanti ha poco di umano, anche per i suoi standard precedenti.
 
 > Gronk Il Rigido è una sorta di mostro chimerico con le ali da pipistrello, il volto da Foca, il corpo da leone ritto su due zampe e il bastone da, uhm, pastore? Insomma, quei bastoni da pastorello della Bibbia col ricciolino di legno in alto, presente? Ecco, quello.
+
+## Capitolo 3 - L'albero azzurro, ma di pestoni
+
+Break Beast:
+
+> Ok, questo è bello grosso. Tu, coso colla giacca convenientemente rossa: porta il tuo guanto di fronte a te è di’ qualcosa tipo, non so, “Brat Pack, si rulla cartoni!”. Voi dietro fate lo stesso. Ho detto quello rosso, ma fate un po’ come vi pare. L’importante è che vi trasformate!
+
+Gronk il Rigido:
+
+> “Siate dannati! Non so chi vi manda, ma se credete di rovinare sei mesi di lavoro vi sbagliate di grosso! Crumiroidi, fermateli coi vostri cadaveri!
+
+Gronk si allontana in direzione non meglio precisata mentre i Crumiroidi provano a intercettare il gruppo (Conflitto grado 3 Contatore 4 per l’alto numero).
+
+Break Beast:
+
+> Se siete in difficoltà, richiamate la vostra arma. Basta dire “Brat Arma, vieni a me!” o qualcosa del genere. Non posso assicurarvi che vi sia utile, la forma e il potere dipende un po’ dalle vostre inclinazioni e personalità. Be’, non che abbiate molto da perdere; fra venti minuti potenzialmente la memoria collettiva di questa città sarà cancellata. Vabbe’, buona fortuna!
+
+Liberati dalla presenza fastidiosa di gran parte dei Crumiroidi, non resta che combattere contro Gronk.

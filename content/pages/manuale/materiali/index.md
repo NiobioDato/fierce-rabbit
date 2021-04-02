@@ -1,5 +1,5 @@
 ---
-title: Crediti e Ringraziamenti
+title: Materiali di gioco
 excerpt: >-
   Copper Sentai è un gioco di ruolo gratuito scritto e testato da Massimiliano Palloni, utilizzando CopperHead come motore di gioco.
 layout: docs

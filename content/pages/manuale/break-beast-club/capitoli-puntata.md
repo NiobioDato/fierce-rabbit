@@ -196,7 +196,9 @@ Alcuni esempi dei Conflitti che potete presentare ai giocatori:
 
 ### Scontro all'antenna
 
-Raggiunta l'antenna, si trovano di fronte un bel numero di Crumiroidi pronti a combattere. Trovate la scheda fra gli <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">avversari della puntata</a>.
+Raggiunta l'antenna, si trovano di fronte un bel numero di Crumiroidi pronti a combattere. 
+
+Trovate la scheda fra gli <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">avversari della puntata</a>.
 
 A questo punto esistono due possibilità:
 

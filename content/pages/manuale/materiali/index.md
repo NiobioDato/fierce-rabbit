@@ -1,7 +1,7 @@
 ---
 title: Materiali di gioco
 excerpt: >-
-  I materiali di gioco cheCopper Sentai è un gioco di ruolo gratuito scritto e testato da Massimiliano Palloni, utilizzando CopperHead come motore di gioco.
+  I materiali di gioco per Copper Sentai è un gioco di ruolo gratuito scritto e testato da Massimiliano Palloni, utilizzando CopperHead come motore di gioco.
 layout: docs
 ---
 

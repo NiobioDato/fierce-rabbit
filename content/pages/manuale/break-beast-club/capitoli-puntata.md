@@ -247,4 +247,4 @@ Il combattimento contro Gronk è un momento in cui lo scontro fisico diventa anc
 
 Il Contatore di Gronk sarebbe da 6, ma arrivati ai quattro successi, Gronk il Rigido tornerà a parlare ai ragazzi:
 
-> “Lo state mettendo alle corde, ma perché non darsi una mossa? Qui c'è gente che deve tornare alle focacce! Ah, a proposito di mossa, perché non utilizzate la vostra? Quella super collettiva in cui unite le forze in un colpo straordinario che metterà di sicuro KO Gronk? Ah, perché non vi avevo detto come funzionava? Pardon! Dai, tanto avete capito come funziona: una bella mossetta, due urla e fate qualcosa di bello!
+> “Lo state mettendo alle corde, ma perché non darsi una mossa? Qui c'è gente che deve tornare alle focacce! Ah, a proposito di mossa, perché non utilizzate la vostra? Quella super collettiva in cui unite le forze in un colpo straordinario che metterà di sicuro KO Gronk? Ah, perché non vi avevo detto come funzionava? Pardon! Dai, tanto avete capito come funziona: una bella mossetta, due urla e inventatevi qualcosa di bello!

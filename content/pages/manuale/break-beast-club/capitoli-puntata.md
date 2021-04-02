@@ -243,4 +243,4 @@ Liberati dalla presenza fastidiosa di gran parte dei Crumiroidi, non resta che c
 
 ### Gronk il Rigido
 
-aesfg
+Il combattimento contro Gronk segue 

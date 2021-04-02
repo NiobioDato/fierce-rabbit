@@ -255,4 +255,4 @@ Lasciate ai giocatori l'invenzione della loro super mossa che unisce le armi a l
 
 ## Capitolo 4 - Grossi vicepresidi a China Town
 
-[To Be continued]
+[To be continued...]

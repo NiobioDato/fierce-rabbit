@@ -5,12 +5,13 @@ excerpt: >-
 layout: docs
 ---
 
-I ringraziamenti sono molto brevi, perché questo prodotto è specificamente nato per essere iniziato e finito dal solo Massimiliano Palloni, che poi sarei io. 
+Una collezione di materiale per Copper Sentai pensato per rendere più graziose ed efficaci le vostre partite online su Virtual Tabletop come Roll20.
 
-Niente editing esterno, niente grafici bravi, niente illustratori. Questo è un hack di CopperHead, e così vuole rimanere.
+Potete trovare:
+Contatori da 2 a 8
+Layer da usare come game mat per gettoni, clock e per segnare il capitolo corrente.
+Gettoni per narratore e giocatori da scambiarsi in-game. 
 
-Ringrazio <b>Nicola Santagostino</b> per il fantastico toolbox che ha scritto in coppia con <b>Antonio Rossetti</b>.
+Potete usare questo materiale gratuitamente per i vostri progetti personali (o anche commerciali!) purché citiate la fonte con un semplice link al sito di Copper Sentai.
 
-Ovviamente ringrazio i creatori di Super Sentai e Power Rangers, due programmi televisivi che sono un po' il reggae degli show supereroistici; decidete voi se si può ritenere una cosa positiva o meno.
-
-Ah, questo manuale che vedete è montato su un sito statico gentilmente offerto da <a href="https://www.stackbit.com">Stackbit</a>, che è un servizio un po' hipster ma molto efficace per creare siti veloci come il fulmine.
+Buon divertimento!

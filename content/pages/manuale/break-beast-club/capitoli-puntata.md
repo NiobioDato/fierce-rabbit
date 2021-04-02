@@ -137,7 +137,7 @@ I giocatori sono bloccati ora nei loro banchi, non più padroni dei propri movim
 
 > "La calma è una virtù. L'obbedienza è un pregio. Rispetta chi è più vecchio di te. Rispetta Lord Adderall. Lord Adderall vuole il tuo bene. Il tuo bene è il bene di tutti."  
 
-I giocatori possono provare a liberarsi da questa trance
+I giocatori possono provare a liberarsi da questa trance, ma consideratelo un Conflitto Grado 6
 
 Break Beast li libera spegnendo la tv
 

@@ -133,7 +133,9 @@ I ragazzi, con le buone o le cattive (**Conflitto di Rango 5 Contatore 4**), ven
 
 >  Il vicepreside inserisce la cassetta VHS nel registratore e la fa partire con un meccanico *click*.  Lo schermo si riempie di righe statiche e un suono penetrante, simile a un guaito, penetra nelle vostre orecchie.
 
-I giocatori sono bloccati ora nei loro banchi, mentre una voce nella loro testa, profonda e 
+I giocatori sono bloccati ora nei loro banchi, mentre una voce nella loro testa, profonda e graffiante allo stesso tempo ripete:
+
+> 
 
 Break Beast li libera spegnendo la tv
 

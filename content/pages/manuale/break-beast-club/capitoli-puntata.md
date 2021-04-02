@@ -209,4 +209,5 @@ Nel primo caso l'antenna viene distrutta senza grandi problemi; nel secondo caso
 
 In entrambi casi, il vicepreside Humbert Lexington Jr. cala la maschera e si mostra come Gronk il Rigido:
 
-> Del vicepreside sono rimasti solo la cravatta dal nodo troppo stretto, l’orologio pacchiano e lo sguardo feroce; per il resto, la creatura davanti ha poco di umano, anche per i suoi standard precedenti. Gronk Il Rigido è una sorta di mostro chimerico con le ali da pipistrello, il volto da Foca, il corpo da leone ritto su due zampe e il bastone da, uhm, pastore? Insomma, quei bastoni da pastorello della Bibbia col ricciolino di legno in alto, presente? Ecco, quello.
+> Del vicepreside sono rimasti solo la cravatta dal nodo troppo stretto, l’orologio pacchiano e lo sguardo feroce; per il resto, la creatura davanti ha poco di umano, anche per i suoi standard precedenti.
+> Gronk Il Rigido è una sorta di mostro chimerico con le ali da pipistrello, il volto da Foca, il corpo da leone ritto su due zampe e il bastone da, uhm, pastore? Insomma, quei bastoni da pastorello della Bibbia col ricciolino di legno in alto, presente? Ecco, quello.

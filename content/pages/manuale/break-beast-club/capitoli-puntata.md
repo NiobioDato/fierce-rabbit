@@ -271,7 +271,7 @@ I robot personali sono presentati nelle schede dei personaggi; date a ogni gioca
 
 ### Raggiungere il fascio di luce
 
-Il raggio di luce raggiunge la Terra su una sorta di piattaforma d'atterraggio supertecnologica (perlomeno per gli standard anni Ottanta  quelli dei Transformers) larga un trentina di metri e lunga una cinquantina. 
+Il raggio di luce raggiunge la Terra su una sorta di piattaforma d'atterraggio supertecnologica (perlomeno per gli standard anni Ottanta) larga un trentina di metri e lunga una cinquantina. 
 Lo scopo dei giocatori è quello di raggiungere fisicamente i pressi di questa piattaforma e trovare un modo per distruggerla prima che il tempo finisca. 
 
 un Conflitto Rango 5 Clock da 4. 

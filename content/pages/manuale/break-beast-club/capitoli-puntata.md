@@ -271,7 +271,7 @@ I robot personali sono presentati nelle schede dei personaggi; date a ogni gioca
 
 ### Raggiungere il fascio di luce
 
-Il raggio di luce raggiunge la Terra su una sorta di macchinario largo un trentina di metri un Conflitto Rango 5 Clock da 4. 
+Il raggio di luce raggiunge la Terra su una sorta di macchinario largo un trentina di metri e lungo una cinquantina. un Conflitto Rango 5 Clock da 4. 
 
 Gronk proverà a fermarli con colpi di lampi e bastonate giganti.
 

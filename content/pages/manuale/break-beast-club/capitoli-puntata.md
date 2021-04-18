@@ -274,7 +274,7 @@ I robot personali sono presentati nelle schede dei personaggi; date a ogni gioca
 Il raggio di luce raggiunge la Terra su una sorta di piattaforma d'atterraggio supertecnologica (perlomeno per gli standard anni Ottanta) larga un trentina di metri e lunga una cinquantina. 
 Lo scopo dei giocatori è quello di raggiungere fisicamente i pressi di questa piattaforma e trovare un modo per distruggerla prima che il tempo si esaurisca. 
 
-Disattivare o distruggere il teletrasporto fotonico è considerato un **Conflitto Rango 5** con Contatore da 4. Appena i protagonisti escono dalla sala ricevimenti, il narratore deve far partire due Contatori contrapposti:
+Disattivare o distruggere il teletrasporto fotonico è considerato un **Conflitto Rango 5** con **Contatore da 4. Appena i protagonisti escono dalla sala ricevimenti, il narratore deve far partire due Contatori contrapposti:
 un **Contatore da 6** per raggiungere l’antenna contro un **Contatore da 8** che rappresenta l'ira di Gronk il Rigido.
 
 

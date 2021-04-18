@@ -271,4 +271,7 @@ I robot personali sono presentati nelle schede dei personaggi; date a ogni gioca
 
 ### Raggiungere il fascio di luce
 
+È un Conflitto Rango 5 Clock da 4. 
+
+Gronk proverà a fermarli con colpi di lampi e bastonate giganti.
 

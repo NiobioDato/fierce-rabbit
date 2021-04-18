@@ -279,6 +279,6 @@ Se il Contatore da 4 si riempie, il teletrasporto viene distrutto e si passa al 
 
 Gronk proverà a fermare il gruppo in vari modi; vediamo degli esempi: 
 il suo bastone, se percuote il terreno con la testa, crea onde sismiche potenti considerabli come effetti ambientali estremi per chi non sta volando;
-l'astronave madre cerca di fermare gli eroi con colpi della propria artiglieria laser;
+con il suo walkie talkie spaziale richiama l'artiglieria dell'astronave madre cerca di fermare gli eroi con colpi della propria artiglieria laser;
 
 

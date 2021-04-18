@@ -277,7 +277,7 @@ Lo scopo dei giocatori è quello di raggiungere fisicamente i pressi di questa p
 Disattivare o distruggere il teletrasporto fotonico è considerato un **Conflitto Rango 5** con **Contatore da 4** contrapposto a un **Contatore da 6**.
 Se il Contatore da 4 si riempie, il teletrasporto viene distrutto e si passa al Capitolo 5; se il Contatore da 6 si esaurisce, il Gruppo viene inopinatamente battuto sul tempo e scende sulla Terra un nuovo titano. 
 
-Gronk proverà a fermare il gruppo in vari modi: 
+Gronk proverà a fermare il gruppo in vari modi; vediamo degli esempi: 
 il suo bastone, se percuote il terreno con la testa, crea onde sismiche potenti considerabli come effetti ambientali estremi per chi non sta volando;
-lampi 
+lampi di luce violastra 
 

@@ -268,4 +268,6 @@ Break Beast contatta nuovamente il gruppo:
 
 > Siete stati bravi fino ad adesso, davvero, ma se non trovate un modo per bloccare quel dispositivo di teletrasporto fotonico siamo tutti fritti. Potreste provare a correre forte forte in direzione del fascio. Magari riuscirete a disattivarlo? Vale la pena provare, perché non siete pronti per Lord Adderal. Nemmeno io, a essere onesti! Per darvi una mano, potete richiamare subito i vostri robot. Pensate alla cosa più potente che vi venga in mente e si paleserà!
 
-### 
+### Raggiungere il fascio di luce
+
+

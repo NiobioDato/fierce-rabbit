@@ -284,8 +284,9 @@ Ecco alcuni esempi di come Gronk può provare a fermare il gruppo:
 - una classica crocca sulla faccia robotica di uno degli eroi;
 - minacciare di schiacciare con un piede gigante il vicino campo da football pieno di, testuali parole "degenerati col cervello piccolo come una noce".
 
-### Raggiungere il fascio di luce
+### Successo o fallimento della missione (non che abbia importanza)
 
+Nel caso in cui il gruppo riesca a battere 
 
 
 

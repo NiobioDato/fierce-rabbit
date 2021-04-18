@@ -257,7 +257,6 @@ Lasciate ai giocatori l'invenzione della loro super mossa: basta che tutte le ar
 
 Lasciate i giocatori festeggiare brevemente la vittoria, prima di raccontare il ritorno del vicepreside in forma titanica: 
 
-
 > Pensavate di averlo sconfitto, ma Gronk si è alzato. In tutti i sensi: ora la punta del suo capo da foca sfora i 100 metri. La sua voce deflagra l’aria come bombe a grappolo: “Stolti, per voi è finita! Lord Adderall punirà il vostro comportamento francamente irritante!”.
 > Gronk batte il bastone al suolo, e a qualche chilometro di distanza un’enorme fascio di luce taglia l’orizzonte come una lama.
 > “POCHI MINUTI E LORD ADDERAL STESSO SCENDERÀ SULLA TERRA PER REDARGUIRVI IN MANIERA FORTE E VIBRANTE, GIOVINCELLI.”

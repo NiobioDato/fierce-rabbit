@@ -255,4 +255,16 @@ Lasciate ai giocatori l'invenzione della loro super mossa: basta che tutte le ar
 
 ## Capitolo 4 - Grossi vicepresidi a China Town
 
-[To be continued...]
+Lasciate i giocatori festeggiare brevemente la vittoria, prima di raccontare il ritorno del vicepreside in forma titanica: 
+
+
+> Pensavate di averlo sconfitto, ma Gronk si è alzato. In tutti i sensi: ora la punta del suo capo da foca sfora i 100 metri. La sua voce deflagra l’aria come bombe a grappolo: “Stolti, per voi è finita! Lord Adderall punirà il vostro comportamento francamente irritante!”.
+> Gronk batte il bastone al suolo, e a qualche chilometro di distanza un’enorme fascio di luce taglia l’orizzonte come una lama.
+> “POCHI MINUTI E LORD ADDERAL STESSO SCENDERÀ SULLA TERRA PER REDARGUIRVI IN MANIERA FORTE E VIBRANTE, GIOVINCELLI.”
+
+Il fascio di luce proviene dall’astronave madre di Lord Adderal; si tratta di un teletrasporto pronto a portare l’Inquisitore sulla Terra.
+
+Break Beast contatta nuovamente il gruppo:
+
+
+> Siete stati bravi fino ad adesso, davvero, ma se non trovate un modo per bloccare quel dispositivo di teletrasporto fotonico siamo tutti fritti. Potreste provare a correre forte forte in direzione del fascio. Magari riuscirete a disattivarlo? Vale la pena provare, perché non siete pronti per Lord Adderal. Nemmeno io, a essere onesti! Per darvi una mano, potete richiamare subito i vostri robot. Pensate alla cosa più potente che vi venga in mente e si paleserà!

@@ -249,7 +249,7 @@ Il **Contatore di Gronk sarebbe da 6**, ma arrivati ai quattro successi, Gronk i
 
 > “Lo state mettendo alle corde, certo, ma perché non vi date una mossa? Qui c'è gente che deve tornare alle focacce! Ah, a proposito di mossa, perché non utilizzate la vostra? Quella super collettiva in cui unite le forze e mettete KO Gronk? Ah, non vi avevo detto come funzionava? Pardon! Dai, tanto avete capito il principio: una bella mossetta, due urla e inventatevi qualcosa di spumeggiante!”
 
-Lasciate ai giocatori l'invenzione della loro super mossa: basta che tutte le armi a loro disposizione siano combinate. La super mossa Gronk. 
+Lasciate ai giocatori l'invenzione della loro super mossa: basta che tutte le armi a loro disposizione siano combinate. Nel momento in cui hanno raccontato la mossa, Gronk viene battuto. 
 
 > Spinto via dalla forza dei vostri colpi, Gronk capitombola dal tetto gridando frustrato: “Non è finita qui, siete tutti in punizioneeeee-”.
 

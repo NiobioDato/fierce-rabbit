@@ -132,7 +132,7 @@ I ragazzi, con le buone o le cattive (**Conflitto di Rango 5 Contatore 4**), ven
 
 I giocatori sono bloccati ora nei loro banchi, non più padroni dei propri movimenti, mentre una voce nella loro testa, profonda e graffiante allo stesso tempo ripete come una cantilena:
 
-> “La calma è una virtù. L'obbedienza è un pregio. Rispetta chi è più vecchio di te. Rispetta Lord Adderall. Lord Adderall vuole il tuo bene. Il tuo bene è il bene di tutti.”  
+> “La calma è una virtù. L'obbedienza è un pregio. Rispetta chi è più vecchio di te. Rispetta Lord Adderall. Lord Adderall vuole il tuo bene. Il tuo bene è il bene di tutti.”
 
 I giocatori possono provare a liberarsi da questa trance, ma consideratelo un **Conflitto di Rango 6** con Malus ambientale estremo e, se ha senso, un difetto di ruolo o extra-Ruolo. Descrivete in maniera chiara come i loro difetti li tengano lì, bloccati, perché sono *sbagliati* e meritano di essere puniti per ciò che hanno fatto.
 
@@ -148,13 +148,13 @@ Dalla porta lasciata aperta dal vicepreside sbuca dopo un minuto Niko, che contr
 
 > “Fate piano, siamo tutti in pericolo. Sono riuscito a staccare la luce e liberarvi dalla cassetta di riprogrammazione neurale, ma è l'ultima occasione che abbiamo per rovinare i piani di quello che voi chiamate vicepreside.”
 
-Niko prova a spiegare la situazione a parole sue, ogni tanto confondendosi o perdendo il filo del discorso. Ciò che i giocatori devono sapere è che il vicepreside Humbert Lexington Jr. in realtà si chiama Gronk il Rigido, ed è uno dei generali di Lord Adderall, Inquisitore dell’Ordine Supremo dei Bei Tempi Andati. 
+Niko prova a spiegare la situazione a parole sue, ogni tanto confondendosi o perdendo il filo del discorso. Ciò che i giocatori devono sapere è che il vicepreside Humbert Lexington Jr. in realtà si chiama Gronk il Rigido, ed è uno dei generali di Lord Adderall, Inquisitore dell’Ordine Supremo dei Bei Tempi Andati.
 
 Lord Adderall ha inviato Gronk il Rigido sulla Terra con lo scopo di sperimentare e migliorare le tecnologie di pacificazione, adattandole anche agli esseri umani. Per iniziare sono partiti dalla scuola superiore, dove le menti dei giovani sono più malleabili e facili da influenzare, ma l'idea è quella di estendere il piano prima alla città e poi a tutto il mondo. Purtroppo, il tempo sta finendo: la fase di sperimentazione sugli studenti finirà proprio oggi e tutti i dati stanno per essere inviati all'astronave madre di Lord Adderall per essere analizzati e iniziare la fase due del piano.
 
-Se qualcuno chiede a Niko chi sia: 
+Se qualcuno chiede a Niko chi sia:
 
-> “Il mio vero nome non importa, ma sappiate che sono chiamato Break Beast, la Belva delle pause. Negli ultimi duemila anni che cammino fra voi umani mi hanno chiamato “Maestro occulto dell’imbosco”, “Campione della pennichella”, oppure “l’Anarcolettico”, ma la sostanza non cambia: nessuno è mai riuscito a costringermi a essere produttivo. 
+> “Il mio vero nome non importa, ma sappiate che sono chiamato Break Beast, la Belva delle pause. Negli ultimi duemila anni che cammino fra voi umani mi hanno chiamato “Maestro occulto dell’imbosco”, “Campione della pennichella”, oppure “l’Anarcolettico”, ma la sostanza non cambia: nessuno è mai riuscito a costringermi a essere produttivo.
 
 > Un pensatore della Terra parlava dell’importanza dell’ozio, mi pare. Non mi ricordo cosa diceva di preciso, ma di sicuro aveva ragione. Non c’è niente di più ribelle di non diventare lo strumento produttivo del potere, qualsiasi esso sia. Hasta la siesta siempre!”
 
@@ -162,7 +162,7 @@ Nel caso i personaggi siano giustamente dubbiosi, Break Beast aggiunge:
 
 > “Ho bisogno di campioni che possano aiutarmi a cacciare Lord Adderal dalla Terra prima che sia troppo tardi. Voi siete cinque, che è proprio il numero perfetto. E non ho poi molta altra scelta;  oggi partirà il piano su scala cittadina e se aspettassi qualcuno di più degno sarebbe troppo tardi. Infilatevi il guanto senza dita che vi passo e guardate questa luce blu”.
 
-Break Beast attende che i ragazzi abbiano indossato il loro guanto e punta poi uno strumento che emana una luce blu pulsante. I guanti risplendono per un paio di secondi della stessa luce blu, prima che i ragazzi siano investiti da un vigore e una consapevolezza dei propri mezzi mai avuta prima. 
+Break Beast attende che i ragazzi abbiano indossato il loro guanto e punta poi uno strumento che emana una luce blu pulsante. I guanti risplendono per un paio di secondi della stessa luce blu, prima che i ragazzi siano investiti da un vigore e una consapevolezza dei propri mezzi mai avuta prima.
 
 I ragazzi dopo ora conoscono le arti marziali, la loro forza è raddoppiata e il loro **Rango base è 1**.
 
@@ -180,30 +180,30 @@ un **Contatore da 6** per raggiungere l’antenna contro un **Contatore da 8** c
 
 I risultati dei conflitti manipolano i Contatori in questo modo:
 
-- i “Successo” fanno scendere il Contatore da 6 di uno;
-- i “Successo, ma” fanno scendere di uno sia il Contatore da 6 sia il Contatore da 8;
-- i “Fallimento” fanno scendere il Contatore da 8 di due;
-- i “Successo, e” fanno scendere il Contatore da 6 di due.
+*   i “Successo” fanno scendere il Contatore da 6 di uno;
+*   i “Successo, ma” fanno scendere di uno sia il Contatore da 6 sia il Contatore da 8;
+*   i “Fallimento” fanno scendere il Contatore da 8 di due;
+*   i “Successo, e” fanno scendere il Contatore da 6 di due.
 
 Alcuni esempi dei Conflitti che potete presentare ai giocatori:
 
-1. Una serie di Crumiroidi bloccano le scale con una sorta di muraglia vivente (**Conflitto Rango 4**).
-2. Un Crumiroide nel corridoio tiene in mano qualcosa che sembra un detonatore (**Conflitto Rango 5**, oppure **Rango 4** se osservano il corridoio per notare che c'è solo una carica a cui pensare).
-3. Crumiroidi che lanciano olio appiccicoso giù per le scale (**Conflitto Rango 4**).
-4. Due Crumiroidi spostano un televisore simile a quello nella sala ricevimenti cercando di ipnotizzarli (**Conflitto Rango 4**)
-5. Crumiroidi su pattini a rotelle cercano di bloccarli con dei lazo da cowboy (**Conflitto Rango 4**, Contatore da 2). 
-6. La porta verso il tetto è chiusa, si sentono suoni esterni, come qualcuno che sta maneggiando qualcosa dall’altro lato (**Conflitto Rango 5** Contatore 2, **Rango 4** se capiscono che stanno piantando dell’esplosivo).
+1.  Una serie di Crumiroidi bloccano le scale con una sorta di muraglia vivente (**Conflitto Rango 4**).
+2.  Un Crumiroide nel corridoio tiene in mano qualcosa che sembra un detonatore (**Conflitto Rango 5**, oppure **Rango 4** se osservano il corridoio per notare che c'è solo una carica a cui pensare).
+3.  Crumiroidi che lanciano olio appiccicoso giù per le scale (**Conflitto Rango 4**).
+4.  Due Crumiroidi spostano un televisore simile a quello nella sala ricevimenti cercando di ipnotizzarli (**Conflitto Rango 4**)
+5.  Crumiroidi su pattini a rotelle cercano di bloccarli con dei lazo da cowboy (**Conflitto Rango 4**, Contatore da 2).
+6.  La porta verso il tetto è chiusa, si sentono suoni esterni, come qualcuno che sta maneggiando qualcosa dall’altro lato (**Conflitto Rango 5** Contatore 2, **Rango 4** se capiscono che stanno piantando dell’esplosivo).
 
 ### Scontro all'antenna
 
-Raggiunta l'antenna, si trovano di fronte un bel numero di Crumiroidi pronti a combattere. 
+Raggiunta l'antenna, si trovano di fronte un bel numero di Crumiroidi pronti a combattere.
 
 Trovate la scheda fra gli <a href="/manuale/break-beast-club/avversari-breakbeast-club/#crumiroidi">avversari della puntata</a>.
 
 A questo punto esistono due possibilità:
 
-- il Contatore da 6 è esaurito ma non quello da 8;
-- entrambi i Contatori sono esauriti.
+*   il Contatore da 6 è esaurito ma non quello da 8;
+*   entrambi i Contatori sono esauriti.
 
 Nel primo caso l'antenna viene distrutta senza grandi problemi; nel secondo caso i personaggi soffrono di un malus per un **Effetto ambientale estremo**: Gronk sta inviando un segnale ipnotico che rende difficile concentrarsi!
 
@@ -225,7 +225,7 @@ Gronk il Rigido rimane sorpreso dalla presenza delle tutine ed esclama:
 
 > “Siate dannati! Non so chi vi manda, ma se credete di rovinare sei mesi di lavoro vi sbagliate di grosso! Crumiroidi, fermateli coi vostri cadaveri!”
 
-Gronk tenta subito di allontanarsi verso la parte opposta del tetto, dove appare una navicella spaziale monoposto, probabilmente nascosta fino a quel momento da un campo d'invisibilità. 
+Gronk tenta subito di allontanarsi verso la parte opposta del tetto, dove appare una navicella spaziale monoposto, probabilmente nascosta fino a quel momento da un campo d'invisibilità.
 
 ### L'ultimo scontro coi Crumiroidi
 
@@ -249,13 +249,13 @@ Il **Contatore di Gronk sarebbe da 6**, ma arrivati ai quattro successi, Gronk i
 
 > “Lo state mettendo alle corde, certo, ma perché non vi date una mossa? Qui c'è gente che deve tornare alle focacce! Ah, a proposito di mossa, perché non utilizzate la vostra? Quella super collettiva in cui unite le forze e mettete KO Gronk? Ah, non vi avevo detto come funzionava? Pardon! Dai, tanto avete capito il principio: una bella mossetta, due urla e inventatevi qualcosa di spumeggiante!”
 
-Lasciate ai giocatori l'invenzione della loro super mossa: basta che tutte le armi a loro disposizione siano combinate. Dopo che hanno descritto la mossa, il Contatore hanno raccontato la mossa, Gronk viene battuto. 
+Lasciate ai giocatori l'invenzione della loro super mossa: basta che tutte le armi a loro disposizione siano combinate. Dopo che hanno descritto la mossa, il Contatore hanno raccontato la mossa, Gronk viene battuto.
 
 > Spinto via dalla forza dei vostri colpi, Gronk capitombola dal tetto gridando frustrato: “Non è finita qui, siete tutti in punizioneeeee-”.
 
 ## Capitolo 4 - Grossi vicepresidi a China Town
 
-Lasciate i giocatori festeggiare brevemente la vittoria, prima di raccontare il ritorno del vicepreside in forma titanica: 
+Lasciate i giocatori festeggiare brevemente la vittoria, prima di raccontare il ritorno del vicepreside in forma titanica:
 
 > Pensavate di averlo sconfitto, ma Gronk si è alzato. In tutti i sensi: ora la punta del suo capo da foca sfora i 100 metri. La sua voce deflagra l’aria come bombe a grappolo: “Stolti, per voi è finita! Lord Adderall punirà il vostro comportamento francamente irritante!”.
 > Gronk batte il bastone al suolo, e a qualche chilometro di distanza un’enorme fascio di luce taglia l’orizzonte come una lama.
@@ -271,24 +271,26 @@ I robot personali sono presentati nelle schede dei personaggi; date a ogni gioca
 
 ### Raggiungere il fascio di luce
 
-Il raggio di luce raggiunge la Terra su una sorta di piattaforma d'atterraggio supertecnologica (perlomeno per gli standard anni Ottanta) larga un trentina di metri e lunga una cinquantina. 
-Lo scopo dei giocatori è quello di raggiungere fisicamente i pressi di questa piattaforma e trovare un modo per distruggerla prima che il tempo si esaurisca. 
+Il raggio di luce raggiunge la Terra su una sorta di piattaforma d'atterraggio supertecnologica (perlomeno per gli standard anni Ottanta) larga un trentina di metri e lunga una cinquantina.
+Lo scopo dei giocatori è quello di raggiungere fisicamente i pressi di questa piattaforma e trovare un modo per distruggerla prima che il tempo si esaurisca.
 
 Disattivare o distruggere il teletrasporto fotonico è considerato un **Conflitto Rango 5** con **Contatore da 4** contrapposto a un **Contatore da 6**.
-Se il Contatore da 4 si riempie, il teletrasporto viene distrutto e si passa al Capitolo 5; se il Contatore da 6 si esaurisce, il Gruppo viene inopinatamente battuto sul tempo e scende sulla Terra un nuovo titano. 
+Se il Contatore da 4 si riempie, il teletrasporto viene distrutto e si passa al Capitolo 5; se il Contatore da 6 si esaurisce, il Gruppo viene inopinatamente battuto sul tempo e scende sulla Terra un nuovo titano.
 
-Ecco alcuni esempi di come Gronk può provare a fermare il gruppo: 
-- il suo bastone, se percuote il terreno con la testa, crea onde sismiche potenti considerabli come effetti ambientali estremi per chi non sta volando;
-- con il suo walkie talkie spaziale richiama l'artiglieria laser dell'astronave madre;
-- utilizza la sua Qualità <a href="/manuale/break-beast-club/avversari-breakbeast-club/#qualità-superiore">A letto senza cena!</a>;
-- una classica crocca sulla faccia robotica di uno degli eroi;
-- minacciare di schiacciare con un piede gigante il vicino campo da football pieno di, testuali parole "degenerati col cervello piccolo come una noce".
+Ecco alcuni esempi di come Gronk può provare a fermare il gruppo:
+
+*   il suo bastone, se percuote il terreno con la testa, crea onde sismiche potenti considerabli come effetti ambientali estremi per chi non sta volando;
+*   con il suo walkie talkie spaziale richiama l'artiglieria laser dell'astronave madre;
+*   utilizza la sua Qualità <a href="/manuale/break-beast-club/avversari-breakbeast-club/#qualità-superiore">A letto senza cena!</a>;
+*   una classica crocca sulla faccia robotica di uno degli eroi;
+*   minacciare di schiacciare con un piede gigante il vicino campo da football pieno di, testuali parole "degenerati col cervello piccolo come una noce".
 
 ### Successo o fallimento della missione (non che abbia importanza)
 
 Nel caso in cui il gruppo riesca a distruggere la piattaforma, Gronk il Rigido si dispererà in maniera plateale e si preparerà ad attaccare il supergruppo, dando inizio al Capitolo 5 subito.
 
-Nel caso in cui 
+Nel caso in cui la piattaforma di teletrasporto rimanesse attiva perché il Contatore da 6 si è esaurito, un titano sbucherà dal fascio di luce:
 
 
+\> Vedete apparire sulla piattaforma, con un lampo che vi acceca per qualche istante, un'enorme creatura, forse anche più alta e imponente di Gronk il Rigido. L'essere spiega sue ali enormi che coprono la luce del sole e lancia un ululato che fa tremare gli alti grattacieli della City. Nella penombra saeattano i suoi due occhi color brace accesa, e il muso simile a quello di un lupo sfodera denti acuminati e bianchi come perle. Con un gesto repentino porta una delle sue zampe artigliate a una delle tante tasche presenti sulla sua armatura argentea e… sfodera degli occhiali da vista. L'ululato diventa una tosse, quasi nervosa. La creatura porta gli occhiali sul muso e l'effetto è indubbiamente peculiare.  Gli occhi simili a braci rimangono sempre feroci, ma l'effetto lente d'ingrandimento degli occhiali li stempera rendendoli quasi buffi. Una voce, profonda ma nasale, riecheggia: “Signor Gronk, buon pomeriggio. Sta bene, spero? Sono qui per dirLe che Lord Adderal è leggermente indisposto. Sa, quell'intolleranza alla polvere di stelle… eppure continua a non farne a meno a colazione, non sappiamo più cosa fare. Vabbe', comunque, sono qui per riferirle ciò che mi ha detto in merito alla sua richiesta d'intervento diretto. Le testuali parole sono state: NOOOOOO! Esatto, ha detto no in maniera piuttosto vigorosa. Penso ritenga che, con la sua esperienza, risolvere i problemi di questo patetico pianeta sia tutt'altro che proibitivo. Ora, se permette…” 
 

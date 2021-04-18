@@ -278,5 +278,5 @@ Disattivare o distruggere il teletrasporto fotonico è considerato un **Conflitt
 Se il Contatore da 4 si riempie, il teletrasporto viene distrutto e si passa al Capitolo 5; se il Contatore da 6 si esaurisce, il Gruppo viene inopinatamente battuto sul tempo e scende sulla Terra un nuovo titano. 
 
 Gronk proverà a fermare il gruppo in vari modi: 
-il suo bastone, se percuote il terreno la testa, crea onde sismiche potenti considerabli come effetti ambientali estremi per chi non sta volando;
+il suo bastone, se percuote il terreno con la testa, crea onde sismiche potenti considerabli come effetti ambientali estremi per chi non sta volando;
 

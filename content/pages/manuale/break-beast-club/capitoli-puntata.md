@@ -286,9 +286,7 @@ Ecco alcuni esempi di come Gronk può provare a fermare il gruppo:
 
 ### Successo o fallimento della missione (non che abbia importanza)
 
-Nel caso in cui il gruppo riesca a distruggere la piattaforma, Gronk il Rigido si dispererà in maniere plateale.
-
-> "NOOOO!
+Nel caso in cui il gruppo riesca a distruggere la piattaforma, Gronk il Rigido si dispererà in maniere plateale e si preparerà per concludere la 
 
 
 

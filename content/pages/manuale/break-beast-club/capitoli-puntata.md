@@ -275,7 +275,7 @@ Il raggio di luce raggiunge la Terra su una sorta di piattaforma d'atterraggio s
 Lo scopo dei giocatori è quello di raggiungere fisicamente i pressi di questa piattaforma e trovare un modo per distruggerla prima che il tempo si esaurisca. 
 
 Disattivare o distruggere il teletrasporto fotonico è considerato un **Conflitto Rango 5** con **Contatore da 4** contrapposto a un **Contatore da 6**.
-Se il Contatore da 4 si riempie, il teletrasporto è distrutto; se il Contatore da 
+Se il Contatore da 4 si riempie, il teletrasporto è distrutto; se il Contatore da 6 si esaurisce,  
 
 
 Gronk proverà a fermarli con colpi di lampi e bastonate giganti.

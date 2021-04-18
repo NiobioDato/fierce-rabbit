@@ -271,7 +271,7 @@ I robot personali sono presentati nelle schede dei personaggi; date a ogni gioca
 
 ### Raggiungere il fascio di luce
 
-Il raggio di luce raggiunge la Terra su una sorta di piattaforma d'atterraggio larga un trentina di metri e lunga una cinquantina. un Conflitto Rango 5 Clock da 4. 
+Il raggio di luce raggiunge la Terra su una sorta di piattaforma d'atterraggio supertecnologica (perlomeno per gli standard anni Ottanta e i Transformers) larga un trentina di metri e lunga una cinquantina. un Conflitto Rango 5 Clock da 4. 
 
 Gronk proverà a fermarli con colpi di lampi e bastonate giganti.
 

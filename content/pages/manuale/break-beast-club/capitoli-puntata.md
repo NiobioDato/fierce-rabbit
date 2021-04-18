@@ -282,7 +282,7 @@ Ecco alcuni esempi di come Gronk può provare a fermare il gruppo:
 - con il suo walkie talkie spaziale richiama l'artiglieria laser dell'astronave madre;
 - utilizza la sua Qualità <a href="/manuale/break-beast-club/avversari-breakbeast-club/#qualità-superiore">A letto senza cena!</a>;
 - una classica crocca sulla faccia robotica di uno degli eroi;
-
+- 
 
 
 

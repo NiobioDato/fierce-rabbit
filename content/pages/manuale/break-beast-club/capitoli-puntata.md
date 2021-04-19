@@ -324,4 +324,6 @@ Il Narratore poi può descrivere la fine di Gronk Il Rigido; meglio raccontare c
 
 ## Capitolo 6 - Il ritorno al mondo dei Matusa
 
-La minaccia di Gronk è finita e i ragazzi sono esausti per lo sforzo. Le supertutine, come per magia, scompaiono di dosso e alle mani tornano i guanti senza dita.
+La minaccia di Gronk è finita e i ragazzi sono esausti per lo sforzo. Le supertutine, come per magia, scompaiono di dosso e alle mani tornano i guanti senza dita. 
+
+Break Beast 

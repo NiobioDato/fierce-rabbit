@@ -313,6 +313,6 @@ Nella sezione sul mondo di BreakBeast Club trovate <a href="/manuale/break-beast
 
 Questo capitolo si svolge come spiegato nella sezione sulla <a href="//manuale/struttura-episodi/capitolo-5/">struttura degli episodi</a>: sono i giocatori ad avere completo controllo della narrazione, mentre il Narratore dovrà passare (ma meglio fallire) i loro Conflitti e accettare le eventuali Conseguenze dei tiri.
 
-Con quattro fallimenti o “Successi, ma", il Contatore da 4 “Colpo Finale" viene esaurito e Break Beast contatta i personaggi per un'ultima volta:
+Con quattro fallimenti o “Successi, ma”, il Contatore da 4 “Colpo Finale" viene esaurito e Break Beast contatta i personaggi per un'ultima volta:
 
 > “

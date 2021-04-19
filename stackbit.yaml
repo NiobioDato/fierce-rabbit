@@ -209,7 +209,7 @@ models:
           slug representing the section.
         items:
           type: string
-          - type: model
+          type: model
       name: seo
       models:
         - stackbit_page_meta

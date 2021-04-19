@@ -332,6 +332,6 @@ La minaccia di Gronk è finita e i ragazzi sono esausti per lo sforzo. Appena sc
 
 Lasciate ai giocatori il tempo di parlarne fra di loro e decidere se vogliono tornare alla loro vita precedente o accettare di diventare difensori della Terra con uno dei Super Coso più improbabili della Galassia.
 
-Ora date a ogni giocatore il tempo di descrivere la loro uscita di scena: tornano a casa? Decidono di passare il tempo con i nuovi commilitoni? Cosa hanno imparato da quest'avventura, sempre che lo abbiano fatto?
+Ora date a ogni giocatore il tempo di descrivere l'uscita di scena dei personaggi: tornano a casa? Decidono di passare il tempo con i nuovi commilitoni? Cosa hanno imparato da quest'avventura, sempre che lo abbiano fatto?
 
 Quando tutti i g

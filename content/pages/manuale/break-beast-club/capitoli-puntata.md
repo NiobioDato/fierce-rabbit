@@ -301,4 +301,4 @@ Nel caso in cui la piattaforma di teletrasporto rimanesse attiva perché il Cont
 
 Conclusa la scenetta imbarazzante, si passa al Capitolo 5.
 
-## Capitolo 5 - 
+## Capitolo 5 - Perché non lo sapevamo prima?

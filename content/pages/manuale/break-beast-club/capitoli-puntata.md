@@ -330,4 +330,4 @@ La minaccia di Gronk è finita e i ragazzi sono esausti per lo sforzo. Appena sc
 > “Siete stati bravissimi, abbiamo ritardato la conquista di Lord Adderal almeno di un anno. Potete riconsegnarmi i guanti adesso, a meno che non vogliate continuare a combattere l'Inquisitore.”
 > Break Beast allunga la mano, pronta a ricevere indietro i dispositivi di trasformazione, e attende la risposta dei ragazzi.
 
-Lasciate ai giocatori 
+Lasciate ai giocatori il tempo di parlarne fra di loro e decidere se vogliono tornare alla loro vita comune o accettare di diventare difensori della Terra con uno dei Super Coso più improbabili della Galassia.

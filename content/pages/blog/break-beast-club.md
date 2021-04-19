@@ -5,6 +5,7 @@ date: '2021-04-19'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 layout: post
+thumb_image: images/the-breakbeast-club-cover-blog.png
 ---
 ## Lorem ipsum
 

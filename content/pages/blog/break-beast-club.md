@@ -8,6 +8,7 @@ thumb_image_alt: Il logo di BreakBeast Club per Copper Sentai
 excerpt: >-
   Cosa succede se unisci l'azione scalmanata e sciocca di un episodio dei Power
   Rangers con lo stile e i cliché dei film di John Hughes come Breakfast Club?
+  Esce fuori un prodotto che nessuno aveva chiesto, credo.
 layout: post
 thumb_image: images/the-breakbeast-club-cover-blog.png
 image: images/the-breakbeast-club-cover-lo-res.jpg

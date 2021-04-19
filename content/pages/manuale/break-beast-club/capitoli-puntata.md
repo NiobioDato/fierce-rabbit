@@ -326,4 +326,4 @@ Il Narratore poi può descrivere la fine di Gronk Il Rigido; meglio raccontare c
 
 La minaccia di Gronk è finita e i ragazzi sono esausti per lo sforzo. Appena scendono dai loro robot, ora tornati indipendenti, le supertutine scompaiono di dosso e alle mani tornano i guanti senza dita. 
 
-> Break Beast appare su un Piaggio Ciao del 1969 che sputacchia nuvole nerastre, mentre il motore scarburato sembra trascinarsi sempre più esausto per ogni metro percorso. Si ferma accanto agli eroi, lasciando cadere noncurante il motorino al suolo, che si spegne da solo, probabilmente grato. “Perfetto, ora è il momento di chiudere la partita! Utilizzate il colpo finale della vostra arma LP, l'Hot 100!”
+> Break Beast appare su un Piaggio Ciao del 1969 che sputacchia nuvole nerastre, mentre il motore scarburato sembra trascinarsi sempre più esausto per ogni metro percorso. Si ferma accanto agli eroi, lasciando cadere noncurante il motorino al suolo, che si spegne da solo, probabilmente grato. “Siete stati bravissimi, abbiamo ritardato la conquista di Lord Adderal almeno di un anno.”

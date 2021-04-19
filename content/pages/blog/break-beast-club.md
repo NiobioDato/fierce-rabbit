@@ -1,6 +1,8 @@
 ---
 title: BreakBeast Club è finalmente disponibile
-subtitle: La prima avventura autoconclusiva di Copper Sentai è disponibile su
+subtitle: >-
+  La prima avventura autoconclusiva di Copper Sentai è disponibile su questo
+  sito
 date: '2021-04-19'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum

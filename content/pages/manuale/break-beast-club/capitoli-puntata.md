@@ -300,3 +300,5 @@ Nel caso in cui la piattaforma di teletrasporto rimanesse attiva perché il Cont
 > Il Titano ragioniere viene risucchiato di nuovo dal raggio luce, e rimanete quindi di nuovo da soli con Gronk che, incredibilmente, sembra ancora più arrabbiato di prima. Stringe il suo bastone ed è pronto a combattere.
 
 Conclusa la scenetta imbarazzante, si passa al Capitolo 5.
+
+##

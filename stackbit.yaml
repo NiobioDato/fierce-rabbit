@@ -240,7 +240,7 @@ models:
           Short description of the documentation section. This value is used in
           documentation overview section and meta data.
       - type: model
-      name: seo
+        name: seo
       models:
         - stackbit_page_meta
   advanced:

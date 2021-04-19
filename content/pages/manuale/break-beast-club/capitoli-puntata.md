@@ -307,4 +307,4 @@ Vista l'aggressività di un Gronk che non ha più niente da perdere, è giunto i
 
 Gli eroi sentono ancora la voce strascicata di Break Beast:
 
-> “Vi avevo parlato delle Tre Regole delle supertutine? No? Non importa: sappiate che da adesso potete combinare i vostri robot personali in un Super Robot incredibile che mamma mia che potere! Scegliete uno di voi, non importa il colore, e dite qualcosa che suoni come «Trasformazione suprema: Top of the Pops!»”
+> “Vi avevo parlato delle Tre Regole delle supertutine? No? Non importa: sappiate che da adesso potete combinare i vostri robot personali in un Super Robot incredibile che mamma mia che potere! Scegliete uno di voi, non importa il colore, e fategli dire qualcosa che suoni come «Trasformazione suprema: Top of the Pops!»”

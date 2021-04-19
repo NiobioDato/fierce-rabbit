@@ -309,4 +309,4 @@ Gli eroi sentono ancora la voce strascicata di Break Beast:
 
 > “Vi avevo parlato delle Tre Regole delle supertutine? No? Non importa: sappiate che da adesso potete combinare i vostri robot personali in un Super Robot incredibile che mamma mia che potere! Scegliete uno di voi, non importa il colore, e fategli dire qualcosa che suoni come «Trasformazione suprema: Top of the Pops!»; vedrete che togo!”
 
-Nella sezione sul mondo di BreakBeast Club trovate tutte le caratteristiche del Super Robot, ma lasciate descrivere ai giocatori la trasformazione,
+Nella sezione sul mondo di BreakBeast Club trovate tutte le caratteristiche del Super Robot, ma lasciate descrivere ai giocatori la trasformazione, oltre a scegliere le esatte parole che fanno scattare

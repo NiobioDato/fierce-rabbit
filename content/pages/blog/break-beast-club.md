@@ -4,7 +4,7 @@ subtitle: >-
   La prima avventura autoconclusiva di Copper Sentai è disponibile su questo
   sito. Ovviamente gratis!
 date: '2021-04-19'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: la copertina di Copper Sentai
 excerpt: lorem-ipsum
 layout: post
 thumb_image: images/the-breakbeast-club-cover-blog.png

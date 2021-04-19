@@ -303,4 +303,5 @@ Conclusa la scenetta imbarazzante, si passa al Capitolo 5.
 
 ## Capitolo 5 - Perché non lo abbiamo fatto prima?
 
-Vista l'aggressività di un Gronk che non ha più niente da perdere, 
+Vista l'aggressività di un Gronk che non ha più niente da perdere, è giunto il momento per le supertutine di chiudere questa partita prima che sia troppo tardi.
+

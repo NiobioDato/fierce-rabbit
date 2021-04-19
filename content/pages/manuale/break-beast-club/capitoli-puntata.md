@@ -322,4 +322,4 @@ Date ai giocatori la possibilità di raccontare il Colpo finale del Super Robot,
 Il Narratore poi può descrivere la fine di Gronk Il Rigido; meglio raccontare come sia stato sconfitto senza però inferire sia stato ucciso; rimane una serie per giovani ragazzi!
 
 
-##
+## Capitolo 6 - Il ritorno al mondo dei Matusa

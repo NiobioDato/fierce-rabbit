@@ -336,4 +336,4 @@ Ora date a ogni giocatore il tempo di descrivere l'uscita di scena dei personagg
 
 Quando tutti i giocatori hanno concluso, l'episodio è finito, complimenti! Se volete, potete aggiungere una scenetta post-credito:
 
-> Una sala buia, illuminata soltanto dalle luci intermittenti di una consolle gigantesca. Una creatura dalle spalle enormi è completamente inghiottita dall'oscurità “Ha fallito, quindi?”
+> Una sala buia, illuminata soltanto dalle luci intermittenti di una consolle gigantesca. Una creatura dalla silhouett spalle enormi è completamente inghiottita dall'oscurità “Ha fallito, quindi?”

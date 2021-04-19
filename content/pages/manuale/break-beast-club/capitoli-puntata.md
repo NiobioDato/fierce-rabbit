@@ -315,4 +315,4 @@ Questo capitolo si svolge come spiegato nella sezione sulla <a href="//manuale/s
 
 Con quattro fallimenti o “Successi, ma”, il Contatore da 4 “Colpo Finale” viene esaurito e Break Beast contatta i personaggi per un'ultima volta:
 
-> “
+> “”

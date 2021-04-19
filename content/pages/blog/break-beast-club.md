@@ -8,6 +8,7 @@ thumb_image_alt: Il logo di BreakBeast Club per Copper Sentai
 excerpt: lorem-ipsum
 layout: post
 thumb_image: images/the-breakbeast-club-cover-blog.png
+image: images/the-breakbeast-club-cover-lo-res.jpg
 ---
 ## Lorem ipsum
 

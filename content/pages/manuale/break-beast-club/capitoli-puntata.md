@@ -334,4 +334,6 @@ Lasciate ai giocatori il tempo di parlarne fra di loro e decidere se vogliono to
 
 Ora date a ogni giocatore il tempo di descrivere l'uscita di scena dei personaggi: tornano a casa? Decidono di passare il tempo con i nuovi commilitoni? Cosa hanno imparato da quest'avventura, sempre che lo abbiano fatto?
 
-Quando tutti i giocatori hanno concluso, l'episodio è finito, complimenti!
+Quando tutti i giocatori hanno concluso, l'episodio è finito, complimenti! Se volete, potete aggiungere una scenetta post-credito:
+
+> 

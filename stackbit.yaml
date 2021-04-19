@@ -305,6 +305,10 @@ models:
       - type: string
         name: more_link_text
         label: Read more link label
+      - type: model
+        name: seo
+        models:
+        - stackbit_page_meta
   page:
     type: page
     label: Page

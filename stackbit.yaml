@@ -120,7 +120,6 @@ models:
             default: name
           - type: boolean
             name: relativeUrl
-
   header:
     type: object
     label: Header Configuration

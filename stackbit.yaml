@@ -27,7 +27,7 @@ models:
     type: data
     label: Site Configuration
     fields:
-        - type: string
+      - type: string
         name: domain
         label: Domain
       - type: string

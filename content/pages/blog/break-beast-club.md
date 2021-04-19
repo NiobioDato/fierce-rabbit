@@ -1,5 +1,5 @@
 ---
-title: Breakj
+title: BreakBeast Club
 subtitle: lorem-ipsum
 date: '2021-04-19'
 thumb_image_alt: lorem-ipsum

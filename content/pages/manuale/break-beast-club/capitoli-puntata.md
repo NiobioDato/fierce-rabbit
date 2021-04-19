@@ -317,4 +317,6 @@ Con quattro fallimenti o “Successi, ma”, il Contatore da 4 “Colpo Finale�
 
 > “Perfetto, ora è il momento di chiudere la partita! Utilizzate il colpo finale della vostra arma LP, l'Hot 100!”
 
-Date ai giocatori la possibilità di raccontare il Colpo finale del Super Robot, ma de
+Date ai giocatori la possibilità di raccontare il Colpo finale del Super Robot, possibilmente aggiungendo qualche mossetta e gridolino corredato.
+
+Descrivete come 

@@ -319,4 +319,4 @@ Con quattro fallimenti o “Successi, ma”, il Contatore da 4 “Colpo Finale�
 
 Date ai giocatori la possibilità di raccontare il Colpo finale del Super Robot, possibilmente aggiungendo qualche mossetta e gridolino corredato.
 
-Descrivete come 
+Il Narratore poi può descrivere la fine di Gronk Il Rigido; meglio cercare di sconfiggerlo senza ucciderlo

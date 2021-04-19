@@ -307,4 +307,4 @@ Vista l'aggressività di un Gronk che non ha più niente da perdere, è giunto i
 
 Gli eroi sentono ancora la voce strascicata di Break Beast:
 
-> “Vi avevo parlato delle Tre Regole delle supertutine? No? Non importa: sappiate solo che ora potete combinare i vostri robot personali in un Super Robot incredibile che mamma mia che potere!
+> “Vi avevo parlato delle Tre Regole delle supertutine? No? Non importa: sappiate solo che ora potete combinare i vostri robot personali in un Super Robot incredibile che mamma mia che potere!”

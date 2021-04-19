@@ -305,4 +305,4 @@ Conclusa la scenetta imbarazzante, si passa al Capitolo 5.
 
 Vista l'aggressività di un Gronk che non ha più niente da perdere, è giunto il momento per le supertutine di chiudere questa partita prima che sia troppo tardi.
 
-Gli eroi sentono ancora la voce strascicata di Break Beast
+Gli eroi sentono ancora la voce strascicata di Break Beast:

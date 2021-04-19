@@ -211,7 +211,7 @@ models:
           type: string
       - type: model
         name: seo
-      models:
+        models:
         - stackbit_page_meta
   docs:
     type: page

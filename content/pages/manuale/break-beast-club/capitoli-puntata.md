@@ -307,4 +307,4 @@ Vista l'aggressività di un Gronk che non ha più niente da perdere, è giunto i
 
 Gli eroi sentono ancora la voce strascicata di Break Beast:
 
-> Vi avevo parlato delle Tre Regole delle supertutine? No? 
+> Vi avevo parlato delle Tre Regole delle supertutine? No? Non importa:

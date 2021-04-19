@@ -336,4 +336,4 @@ Ora date a ogni giocatore il tempo di descrivere l'uscita di scena dei personagg
 
 Quando tutti i giocatori hanno concluso, l'episodio è finito, complimenti! Se volete, potete aggiungere una scenetta post-credito:
 
-> Una sala buia, illuminata soltanto dalle luci intermittenti di una consolle gigantesca. Una creatura dalla silhouette enorme, completamente inghiottita dall'oscurità, domanda con voce gutturale “Ha fallito, quindi?”. Dalla consolle esce uno squittio mansueto “Mi dispiace, Lord Adderal, Gronk Il Rigido ha perso tutti i dati recuperati in questi mesi”. Un ringhio proviene dalla figura ammantata dal buio, ma si stempera in una risatina 
+> Una sala buia, illuminata soltanto dalle luci intermittenti di una consolle gigantesca. Una creatura dalla silhouette enorme, completamente inghiottita dall'oscurità, domanda con voce gutturale “Ha fallito, quindi?”. Dalla consolle esce uno squittio mansueto “Mi dispiace, Lord Adderal, Gronk Il Rigido ha perso tutti i dati recuperati in questi mesi”. Un ringhio proviene dalla figura ammantata dal buio, ma si stempera in una risatina di gola “Ha fallito, quindi?”

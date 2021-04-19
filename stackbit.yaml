@@ -372,6 +372,10 @@ models:
         name: excerpt
         label: Excerpt
         description: The excerpt of the post displayed in the blog feed and in meta data
+      - type: model
+        name: seo
+        models:
+        - stackbit_page_meta
   section:
     type: object
     label: Section

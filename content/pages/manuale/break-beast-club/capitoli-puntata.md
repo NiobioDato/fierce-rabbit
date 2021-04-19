@@ -311,4 +311,4 @@ Gli eroi sentono ancora la voce strascicata di Break Beast:
 
 Nella sezione sul mondo di BreakBeast Club trovate <a href="/manuale/break-beast-club/mondo-breakbeast/#comè-fatto-il-super-robot">tutte le caratteristiche del Super Robot</a>, ma lasciate descrivere ai giocatori la trasformazione, oltre a far scegliere loro le esatte parole che la fanno scattare.
 
-Questo Capitolo si svolge come mostrato nella sezione sulla <<struttura degli Episodi
+Questo Capitolo si svolge come mostrato nella sezione sulla <a href"/manuale/break-beast-club/mondo-breakbeast/#comè-fatto-il-super-robotstruttura degli Episodi

@@ -210,7 +210,7 @@ models:
         items:
           type: string
       - type: model
-      name: seo
+        name: seo
       models:
         - stackbit_page_meta
   docs:

@@ -4,7 +4,7 @@ weight: 7
 layout: docs
 ---
 
-Con un urlo all’unisono degli eroi, i cinque robot si trasformano e si cin un unico Super Robot dalle dimensioni gargantuesche. 
+Con un urlo all’unisono degli eroi, i cinque robot si trasformano in un unico Super Robot dalle dimensioni gargantuesche. 
 
 Il Super Robot è così superiore rispetto a un semplice luogotenente del Nemico che la situazione si ribalta: è il Narratore a dover superare i Conflitti, mentre sono i giocatori a descrivere i risultati delle sue azioni. 
 

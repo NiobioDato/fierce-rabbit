@@ -334,6 +334,6 @@ Lasciate ai giocatori il tempo di parlarne fra di loro e decidere se vogliono to
 
 Ora date a ogni giocatore il tempo di descrivere l'uscita di scena dei personaggi: tornano a casa? Decidono di passare il tempo con i nuovi commilitoni? Cosa hanno imparato da quest'avventura, sempre che lo abbiano fatto?
 
-Quando tutti i giocatori hanno concluso, l'episodio è finito, complimenti! Se volete, potete aggiungere una scenetta post-credito:
+Quando tutti i giocatori hanno concluso, l'episodio è finito, complimenti! Se volete, potete aggiungere una scenetta post-credits:
 
 > Una sala buia, illuminata soltanto dalle luci intermittenti di una consolle gigantesca. Una creatura dalla silhouette enorme, completamente inghiottita dall'oscurità, domanda con voce gutturale “Ha fallito, quindi?”. Dalla consolle esce uno squittio mansueto “Mi dispiace, Lord Adderal, Gronk Il Rigido ha perso tutti i dati recuperati in questi mesi”. Un ringhio proviene dalla figura ammantata dal buio, ma si stempera in una risatina di gola “Poco male, ho un piano… scoppiettante”. Uno schermo si accende sopra la consolle e mostra una sala giochi molto anni Ottanta, piena di suoni 8-bit, cabinati dai colori sgargianti e ragazzetti che giocano felici. “Attivate l'agente dormiente.”

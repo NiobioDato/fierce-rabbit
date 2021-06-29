@@ -11,7 +11,7 @@ Niente editing esterno, niente grafici bravi, niente illustratori. Questo è un 
 
 Ringrazio <b>Nicola Santagostino</b> per il fantastico toolbox che ha scritto in coppia con <b>Antonio Rossetti</b>.
 
-Da alcuni lemmi potreste notare l'influenza di <b>Alessandro Apreda</b>, conosciuto come Doc Manhattan del celeberrimo <a href="https://docmanhattan.blogspot.com/">Antro Atomico</a>, il primo over trenta che ha parlato di certi argomenti
+Da alcuni lemmi potreste notare l'influenza di <b>Alessandro Apreda</b>, conosciuto come Doc Manhattan del celeberrimo <a href="https://docmanhattan.blogspot.com/">Antro Atomico</a>, ma giuro che non è colpa sua se ho scritto 'sta roba.
 
 Ovviamente ringrazio i creatori di Super Sentai e Power Rangers, due programmi televisivi che sono un po' il reggae degli show supereroistici; decidete voi se si può ritenere una cosa positiva o meno.
 

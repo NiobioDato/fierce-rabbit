@@ -13,4 +13,4 @@ L’unica grande variazione alla struttura dell’episodio standard è la mancan
 
 Per il resto, la struttura può rimanere invariata, anche se nulla vieta di divertirsi e provare a giocare con altri cliché del genere supereroistico e marziale.
 
-Più in basso trovate l'episodio autoconclusivo “Breakbeast Club” da scaricare direttamente dal sito, con la struttura dei capitoli, schede pregenerate per cinque personaggi e mondo di gioco.
+Più in basso trovate l'episodio autoconclusivo <a href="/manuale/world-building/">“Breakbeast Club”</> da scaricare direttamente dal sito, con la struttura dei capitoli, schede pregenerate per cinque personaggi e mondo di gioco.

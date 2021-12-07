@@ -15,7 +15,7 @@ export {
 export default {
     advanced,
     blog,
-    manuale,
+    docs,
     page,
     post
 };

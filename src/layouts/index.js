@@ -1,13 +1,13 @@
 import advanced from './advanced';
 import blog from './blog';
-import docs from './manuale';
+import docs from './docs';
 import page from './page';
 import post from './post';
 
 export {
     advanced,
     blog,
-    manuale,
+    docs,
     page,
     post
 };
@@ -15,7 +15,7 @@ export {
 export default {
     advanced,
     blog,
-    manuale,
+    docs,
     page,
     post
 };

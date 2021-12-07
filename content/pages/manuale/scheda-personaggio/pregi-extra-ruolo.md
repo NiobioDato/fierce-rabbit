@@ -16,4 +16,4 @@ Durante i Conflitti, è possibile utilizzare sia un Pregio di Ruolo sia un Pregi
 
 Il Difetto permette di creare interessanti contrasti tra il Ruolo e la personalità dell’eroe. Immaginatevi per esempio un Leader che ha come Difetto Timido, oppure il Bello con il Difetto Pessimista.
 
-Il Narratore può calcolare come malus sia il Difetto di Ruolo sia il Difetto extra-Ruolo, ma solo se non portano sostanzialmente lo stesso vantaggio; una Giullare con Difetto di Ruolo Cialtrona e Difetto extra-Ruolo Disordinata vedrà il suo Rango diminuire di 1 in un Conflitto legato al rifare il letto correttamente.
+Il Narratore può calcolare come malus sia il Difetto di Ruolo sia il Difetto extra-Ruolo, ma solo se non portano sostanzialmente lo stesso svantaggio; una Giullare con Difetto di Ruolo Cialtrona e Difetto extra-Ruolo Disordinata vedrà il suo Rango diminuire di 1 in un Conflitto legato al rifare il letto correttamente.
